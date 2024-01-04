@@ -2,5 +2,6 @@ collections:
   programmes:
     output: true
     order:
+      - IP/WOW Programme.md
       - IP/Careers Day.md
       - IP/.keep
