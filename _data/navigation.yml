@@ -6,3 +6,9 @@ links:
     url: /example-page/
   - title: Example Folder
     collection: example-folder
+  - title: Discover
+    collection: discover
+  - title: Higher Education
+    collection: higher-education
+  - title: Release of Results
+    collection: results-release
