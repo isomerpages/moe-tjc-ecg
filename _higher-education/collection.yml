@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - Local Universities/.keep
+      - Overseas Universities/US Applications.md
       - Overseas Universities/.keep
