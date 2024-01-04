@@ -1,0 +1,4 @@
+collections:
+  results-release:
+    output: true
+    order: []
