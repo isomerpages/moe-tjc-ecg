@@ -1,4 +1,5 @@
 collections:
   higher-education:
     output: true
-    order: []
+    order:
+      - Overseas Universities/.keep
