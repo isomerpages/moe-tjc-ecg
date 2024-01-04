@@ -13,15 +13,18 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
+        - title: Discover
           description: Important highlight A is important
           url: https://google.com
-        - title: Highlight B
+        - title: Programmes and Events
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: Page A
+        - title: Higher Education
           description: Page A is important too
           url: /privacy/
+        - title: Scholarships
+          description: Key Highlight description
+          url: ""
       variant: center
   - infobar:
       title: Infobar title
