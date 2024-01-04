@@ -2,38 +2,33 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: our ECG Counsellor
+agency_name: us
 locations:
   - address:
-      - 31 Sesame Street
-      - Big Bird Building
-      - Singapore 123456
+      - Student Services Hub
+      - E108
+      - Temasek Junior College
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
-    maps_link: ""
-    title: Main Office
-  - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
-    operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
+        time: 9.00am - 5.00pm
+        description: Closed on School and Public Holidays
+    maps_link: https://cal.gov.sg/goe5wc54r1wy7gv8xu6b1fd0
+    title: TJC ECG Counsellor Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
+      - phone: ""
+      - email: thangam_vickerama_singhan@moe.edu.sg
       - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
+    title: University Applications
   - content:
       - phone: ""
-      - email: careers@abc.gov.sg
+      - email: han_song_guang@moe.edu.sg
       - other: ""
-    title: Careers
+    title: Scholarship Applications
+  - content:
+      - phone: +65 6831 1420
+      - email: MOE_ECG@moe.gov.sg
+      - other: Make an appointment at https://go.gov.sg/moe-ecg-centre
+    title: MOE ECG Counselling Services
 feedback: ""
 ---
