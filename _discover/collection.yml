@@ -2,4 +2,5 @@ collections:
   discover:
     output: true
     order:
+      - Personality Test.md
       - RIASEC.md
