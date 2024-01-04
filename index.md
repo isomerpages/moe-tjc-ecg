@@ -14,15 +14,15 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Discover
-          description: Important highlight A is important
-          url: https://google.com
+          description: Find out your personality type
+          url: /discover
         - title: Programmes and Events
           description: Important highlight B is equally important
           url: https://gmail.com
         - title: Higher Education
           description: Page A is important too
           url: /privacy/
-        - title: Scholarships
+        - title: Release of Results
           description: Key Highlight description
           url: ""
       variant: center
