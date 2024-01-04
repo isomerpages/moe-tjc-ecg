@@ -6,12 +6,3 @@ links:
     url: /example-page/
   - title: Example Folder
     collection: example-folder
-  - title: Discover
-    url: /discover
-    sublinks:
-      - title: RIASEC
-        url: /riasec
-      - title: Personality Test
-        url: /personality-test
-      - title: Truity
-        url: /truity
