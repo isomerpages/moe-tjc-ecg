@@ -2,4 +2,5 @@ collections:
   higher-education:
     output: true
     order:
+      - Local Universities/.keep
       - Overseas Universities/.keep
