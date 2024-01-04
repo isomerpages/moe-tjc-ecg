@@ -4,10 +4,10 @@ links:
     url: /contact-us/
   - title: Example Page
     url: /example-page/
-  - title: Example Folder
-    collection: example-folder
   - title: Discover
     collection: discover
+  - title: Programmes and Events
+    collection: programmes
   - title: Higher Education
     collection: higher-education
   - title: Release of Results
