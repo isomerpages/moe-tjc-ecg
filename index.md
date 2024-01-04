@@ -18,13 +18,13 @@ sections:
           url: /discover
         - title: Programmes and Events
           description: Important highlight B is equally important
-          url: https://gmail.com
+          url: /programmes
         - title: Higher Education
-          description: Page A is important too
+          description: Local & Overseas Universities
           url: /privacy/
         - title: Release of Results
-          description: Key Highlight description
-          url: ""
+          description: GCE 'A' Levels 2024
+          url: results-release
       variant: center
   - infobar:
       title: Infobar title
