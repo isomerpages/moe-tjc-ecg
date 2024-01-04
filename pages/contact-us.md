@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: us
+agency_name: the ECG team
 locations:
   - address:
       - Student Services Hub
@@ -28,7 +28,8 @@ contacts:
   - content:
       - phone: +65 6831 1420
       - email: MOE_ECG@moe.gov.sg
-      - other: Make an appointment at https://go.gov.sg/moe-ecg-centre
+      - other: Make an appointment at <a href="https://go.gov.sg/moe-ecg-centre">link
+          text</a>
     title: MOE ECG Counselling Services
 feedback: ""
 ---
