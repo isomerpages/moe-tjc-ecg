@@ -11,8 +11,8 @@ locations:
     operating_hours:
       - days: Mon - Fri
         time: 9.00am - 5.00pm
-        description: Make an appointment at <a href="https://go.gov.sg/ing">here</a>.
-    maps_link: ""
+        description: Closed on Public Holidays
+    maps_link: https://go.gov.sg/ing
     title: TJC ECG Counsellor Office
 contacts:
   - content:
