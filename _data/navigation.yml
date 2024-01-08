@@ -2,13 +2,13 @@ logo: /images/isomer-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: Discover
     collection: discover
   - title: Programmes and Events
     collection: programmes
   - title: Higher Education
     collection: higher-education
+  - title: Resources
+    url: /explorer
   - title: Release of Results
     collection: results-release
