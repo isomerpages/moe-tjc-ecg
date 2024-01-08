@@ -2,7 +2,6 @@ collections:
   results-release:
     output: true
     order:
-      - University Sharing Sessions & Talks.md
       - Start Here.md
       - How to Calculate Your UAS.md
       - Admission Requirements, Subject Prerequisites and IGP.md
