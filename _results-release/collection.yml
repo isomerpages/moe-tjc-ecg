@@ -2,6 +2,6 @@ collections:
   results-release:
     output: true
     order:
-      - How to Calculate Your UAS.md
       - Start Here.md
+      - How to Calculate Your UAS.md
       - Example Title.md
