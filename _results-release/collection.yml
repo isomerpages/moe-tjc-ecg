@@ -2,8 +2,8 @@ collections:
   results-release:
     output: true
     order:
-      - Scholarship Guides.md
       - Start Here.md
       - How to Calculate Your UAS.md
       - Admission Requirements, Subject Prerequisites and IGP.md
+      - Scholarship Guides.md
       - Contact Us.md
