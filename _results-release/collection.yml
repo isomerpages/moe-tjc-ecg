@@ -2,6 +2,7 @@ collections:
   results-release:
     output: true
     order:
+      - Local Universities Indicative Grade Profile (IGP).md
       - Start Here.md
       - How to Calculate Your UAS.md
       - Example Title.md
