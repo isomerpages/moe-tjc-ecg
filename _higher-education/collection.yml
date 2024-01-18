@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Higher Education.md
+      - Local Universities/Singapore Institute of Technology.md
       - Local Universities/Singapore University of Social Science.md
       - Local Universities/Singapore University of Technology and Design.md
       - Local Universities/Singapore Management University.md
