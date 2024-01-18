@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Higher Education.md
+      - Local Universities/Singapore Management University.md
       - Local Universities/Nanyang Technological University.md
       - Local Universities/Overview of Local Universities.md
       - Local Universities/National University of Singapore.md
