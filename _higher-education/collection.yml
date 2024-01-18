@@ -3,14 +3,14 @@ collections:
     output: true
     order:
       - Higher Education.md
-      - Local Universities/Singapore Institute of Technology.md
-      - Local Universities/Singapore University of Social Science.md
-      - Local Universities/Singapore University of Technology and Design.md
-      - Local Universities/Singapore Management University.md
-      - Local Universities/Nanyang Technological University.md
+      - Local Universities/.keep
       - Local Universities/Overview of Local Universities.md
       - Local Universities/National University of Singapore.md
-      - Local Universities/.keep
+      - Local Universities/Nanyang Technological University.md
+      - Local Universities/Singapore Management University.md
+      - Local Universities/Singapore University of Technology and Design.md
+      - Local Universities/Singapore University of Social Science.md
+      - Local Universities/Singapore Institute of Technology.md
       - Overseas Universities/.keep
       - Overseas Universities/Overview of Overseas Universities.md
       - Overseas Universities/UK Applications.md
