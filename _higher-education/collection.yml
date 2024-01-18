@@ -2,7 +2,7 @@ collections:
   higher-education:
     output: true
     order:
-      - Higher Education.md
+      - Overview of Higher Education.md
       - Local Universities/.keep
       - Local Universities/Overview of Local Universities.md
       - Local Universities/National University of Singapore.md
