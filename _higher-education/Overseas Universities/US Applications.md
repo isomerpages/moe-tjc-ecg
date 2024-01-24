@@ -5,4 +5,4 @@ variant: tiptap
 description: ""
 third_nav_title: Overseas Universities
 ---
-<p></p>
+<p><strong>Applications to US universities&nbsp;</strong></p><ul data-tight="true" class="tight"><li><p>Teacher I/C: Ms Lin Luyuan Jane</p></li><li><p>(email address: <a href="mailto:lin_luyuan_jane@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_luyuan_jane@moe.edu.sg</a>)&nbsp;&nbsp;</p><p></p></li></ul><p><strong>Administrative matters (AY2023):</strong></p><p></p>
