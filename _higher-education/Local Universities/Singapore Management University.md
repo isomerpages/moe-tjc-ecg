@@ -16,7 +16,7 @@ third_nav_title: Local Universities
 </p>
 <ul>
     <li>
-        <p><a href="https://admissions.smu.edu.sg/sites/admissions.smu.edu.sg/files/brochures/2024%20Collaterals/UG%20Prospectus%202024_Web.pdf" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Prospectus </u></a>
+        <p><a href="https://admissions.smu.edu.sg/sites/admissions.smu.edu.sg/files/brochures/2024%20Collaterals/UG%20Prospectus%202024_Web.pdf" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Prospectus</u></a>
         </p>
     </li>
     <li>
