@@ -41,7 +41,7 @@ third_nav_title: Local Universities
         </p>
     </li>
     <li>
-        <p><a href="https://www.suss.edu.sg/about-suss/resources/faqs#/path/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>FAQ for Admissions</u></a>&nbsp;</p>
+        <p><a href="https://www.suss.edu.sg/about-suss/resources/faqs#/path/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>FAQs for Admissions</u></a>&nbsp;</p>
     </li>
     <li>
         <p>SUSS- <a href="https://www.suss.edu.sg/full-time-undergraduate/admissions/suss-scholarships-awards" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Scholarships &amp; Awards |</u></a> 
