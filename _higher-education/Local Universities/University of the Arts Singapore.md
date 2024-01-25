@@ -36,8 +36,8 @@ third_nav_title: Local Universities
         </p>
     </li>
     <li>
-        <p><a href="https://www.sutd.edu.sg/Admissions/Undergraduate/Application/Admission-Requirements/Singapore-Cambridge-GCE-A-Level" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Indicative Grade Profile</u></a> AY2022/2023</p>
+        <p>📞 <a href="https://uas.edu.sg/contact-us" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Contact Admissions</u></a>
+        </p>
     </li>
 </ul>
-<p>📞 <a href="https://uas.edu.sg/contact-us" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Contact Admissions</u></a>
-</p>
+<p></p>
