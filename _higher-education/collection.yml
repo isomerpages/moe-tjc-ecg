@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview of Higher Education.md
+      - Local Universities/University of the Arts Singapore.md
       - Local Universities/.keep
       - Local Universities/Overview of Local Universities.md
       - Local Universities/National University of Singapore.md
