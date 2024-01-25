@@ -53,8 +53,13 @@ third_nav_title: Local Universities
         <p><a href="https://www.suss.edu.sg/full-time-undergraduate/admissions/indicative-grade-profile-igp" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Indicative Grade Profile</u></a>
         </p>
     </li>
+    <li>
+        <p>🎓 <a href="https://www.suss.edu.sg/about-suss/why-choose-suss/graduate-employment-survey" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Graduate Employment Survey 2022</u></a>
+        </p>
+    </li>
+    <li>
+        <p>📞 <a href="https://www.suss.edu.sg/contact-us" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Contact Admissions</u></a>
+        </p>
+    </li>
 </ul>
-<p>🎓 <a href="https://www.suss.edu.sg/about-suss/why-choose-suss/graduate-employment-survey" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Graduate Employment Survey 2022</u></a>
-</p>
-<p>📞 <a href="https://www.suss.edu.sg/contact-us" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Contact Admissions</u></a>
-</p>
+<p></p>
