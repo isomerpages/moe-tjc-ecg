@@ -45,8 +45,8 @@ third_nav_title: Local Universities
     </li>
     <li>
         <p>NUS <a href="https://www.nus.edu.sg/oam/undergraduate-programmes/special-programmes" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Special Programmes </u></a>|
-            <a href="https://www.nus.edu.sg/oam/scholarships/apply-for-scholarships" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Scholarships</u>
-                </a>| <a href="https://www.nus.edu.sg/oam/financial-aid" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Financial Assistance</u></a>
+            <a href="https://www.nus.edu.sg/oam/scholarships/apply-for-scholarships" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Scholarships</u> 
+                </a>| <a href="https://www.nus.edu.sg/oam/financial-aid" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Financial Aid</u></a>
         </p>
     </li>
     <li>
