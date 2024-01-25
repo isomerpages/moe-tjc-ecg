@@ -32,7 +32,8 @@ third_nav_title: Local Universities
         <p><a href="https://www.suss.edu.sg/about-suss/resources/brochures" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Prospectus</u></a>&nbsp;</p>
     </li>
     <li>
-        <p><a href="https://www.suss.edu.sg/full-time-undergraduate" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Full-time Undergraduate</u></a>
+        <p><a href="https://www.suss.edu.sg/full-time-undergraduate" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Full-time Undergraduate | </u></a>
+            <a href="https://www.suss.edu.sg/full-time-undergraduate/admissions/eligibility" rel="noopener noreferrer nofollow" target="_blank">Admission Requirements</a>
         </p>
     </li>
     <li>
