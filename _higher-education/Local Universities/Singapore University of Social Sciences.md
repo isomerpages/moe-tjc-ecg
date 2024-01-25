@@ -15,7 +15,7 @@ third_nav_title: Local Universities
 <ul data-tight="true" class="tight">
     <li>
         <p>Full-time undergraduate programme (July 2024 intake): application closes
-            on<strong> 19 Mar 2024 </strong>
+            on<strong> 19 Mar 2024</strong>
         </p>
     </li>
     <li>
@@ -43,16 +43,17 @@ third_nav_title: Local Universities
         <p><a href="https://www.suss.edu.sg/about-suss/resources/faqs#/path/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>FAQ for Admissions</u></a>&nbsp;</p>
     </li>
     <li>
-        <p>FAQ for Revised UAS Computation</p>
+        <p><a href="https://sfcms.suss.edu.sg/docs/default-source/contentdoc/src/faqs-on-revised-uas-computation-for-au-admission-from-ay2026.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ for Revised UAS Computation</a>
+        </p>
     </li>
     <li>
-        <p>SUSS- <a href="https://www.suss.edu.sg/full-time-undergraduate/admissions/suss-scholarships-awards" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Scholarships &amp; Awards |</u></a>
+        <p>SUSS- <a href="https://www.suss.edu.sg/full-time-undergraduate/admissions/suss-scholarships-awards" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Scholarships &amp; Awards |</u></a> 
             <a href="https://www.suss.edu.sg/full-time-undergraduate/admissions/financial-aid" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Financial Assistance</u>
                 </a>
         </p>
     </li>
     <li>
-        <p><a href="https://www.suss.edu.sg/full-time-undergraduate/admissions/indicative-grade-profile-igp" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Indicative Grade Profile</u></a> 
+        <p><a href="https://www.suss.edu.sg/full-time-undergraduate/admissions/indicative-grade-profile-igp" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Indicative Grade Profile</u></a>
         </p>
     </li>
 </ul>
