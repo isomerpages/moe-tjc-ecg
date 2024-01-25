@@ -10,7 +10,7 @@ third_nav_title: Local Universities
 <div class="isomer-image-wrapper">
     <img style="width: 100%" height="auto" width="100%" alt="" src="/images/UAS_Logo.png">
 </div>
-<p><strong><a href="https://uas.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">UAS</a>   </strong>| <strong><a href="https://www.lasalle.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">LASALLE</a></strong>| <strong><a href="https://www.nafa.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">NAFA</a></strong>
+<p><strong><a href="https://uas.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">UAS</a> </strong>| <strong><a href="https://www.lasalle.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">LASALLE</a></strong>| <strong><a href="https://www.nafa.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">NAFA</a></strong>
 </p>
 <p><strong>Application period</strong>:&nbsp; <strong>&nbsp;From October 2023 </strong>until
     the programme seats have been filled up.<strong> </strong>Please visit&nbsp;
@@ -31,7 +31,7 @@ third_nav_title: Local Universities
         <p><a href="https://uas.edu.sg/admissions/faq" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>FAQ for Admissions</u></a>&nbsp;</p>
     </li>
     <li>
-        <p><a href="https://www.lasalle.edu.sg/admissions/ba-hons-admissions/scholarship-financial-support" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>LaSalle Scholarships and Financial Support  | </u></a>
+        <p><a href="https://www.lasalle.edu.sg/admissions/ba-hons-admissions/scholarship-financial-support" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>LaSalle Scholarships and Financial Support | </u></a>
             <a href="https://www.nafa.edu.sg/admissions/scholarships-and-financial-aid-schemes" rel="noopener noreferrer nofollow" target="_blank">NAFA Scholarships and Financial Support</a>
         </p>
     </li>
