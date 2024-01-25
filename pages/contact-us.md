@@ -26,10 +26,15 @@ contacts:
       - other: ""
     title: Scholarship Applications
   - content:
+      - phone: ""
+      - email: irene_ng_ee_yen@schools.gov.sg
+      - other: Make an appointment <a href="https://go.gov.sg/ing">here</a>.
+    title: ECG Counselling @ TJC
+  - content:
       - phone: +65 6831 1420
       - email: MOE_ECG@moe.gov.sg
       - other: Make an appointment at <a
           href="https://go.gov.sg/moe-ecg-centre">here</a>.
-    title: MOE ECG Counselling Services
+    title: ECG Counselling @ MOE HQ Br
 feedback: ""
 ---
