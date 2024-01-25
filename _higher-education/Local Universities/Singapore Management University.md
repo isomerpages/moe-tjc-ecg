@@ -24,7 +24,7 @@ third_nav_title: Local Universities
         </p>
     </li>
     <li>
-        <p><a href="https://admissions.smu.edu.sg/admissions-requirements" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Admissions &amp; Requirements</u></a>
+        <p><a href="https://admissions.smu.edu.sg/admissions-requirements" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Admission Requirements</u></a>
         </p>
     </li>
     <li>
