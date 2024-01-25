@@ -33,7 +33,7 @@ third_nav_title: Local Universities
     </li>
     <li>
         <p><a href="https://www.suss.edu.sg/full-time-undergraduate" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Full-time Undergraduate | </u></a>
-            <a href="https://www.suss.edu.sg/full-time-undergraduate/admissions/eligibility" rel="noopener noreferrer nofollow" target="_blank">Admission Requirements</a>
+            <a href="https://www.suss.edu.sg/full-time-undergraduate/admissions/eligibility" rel="noopener noreferrer nofollow" target="_blank">Admission Requirements |</a><a href="https://sfcms.suss.edu.sg/docs/default-source/contentdoc/src/faqs-on-revised-uas-computation-for-au-admission-from-ay2026.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ for Revised UAS Computation</a>
         </p>
     </li>
     <li>
@@ -42,10 +42,6 @@ third_nav_title: Local Universities
     </li>
     <li>
         <p><a href="https://www.suss.edu.sg/about-suss/resources/faqs#/path/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>FAQ for Admissions</u></a>&nbsp;</p>
-    </li>
-    <li>
-        <p><a href="https://sfcms.suss.edu.sg/docs/default-source/contentdoc/src/faqs-on-revised-uas-computation-for-au-admission-from-ay2026.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ for Revised UAS Computation</a>
-        </p>
     </li>
     <li>
         <p>SUSS- <a href="https://www.suss.edu.sg/full-time-undergraduate/admissions/suss-scholarships-awards" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Scholarships &amp; Awards |</u></a> 
