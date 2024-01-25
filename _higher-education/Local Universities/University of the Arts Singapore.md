@@ -31,7 +31,7 @@ third_nav_title: Local Universities
         <p><a href="https://uas.edu.sg/admissions/faq" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>FAQ for Admissions</u></a>&nbsp;</p>
     </li>
     <li>
-        <p><a href="https://www.lasalle.edu.sg/admissions/ba-hons-admissions/scholarship-financial-support" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>LaSalle Scholarships and Financial Support | </u></a>
+        <p><a href="https://www.lasalle.edu.sg/admissions/ba-hons-admissions/scholarship-financial-support" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>LASalle Scholarships and Financial Support | </u></a>
             <a href="https://www.nafa.edu.sg/admissions/scholarships-and-financial-aid-schemes" rel="noopener noreferrer nofollow" target="_blank">NAFA Scholarships and Financial Support</a>
         </p>
     </li>
