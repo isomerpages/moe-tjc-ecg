@@ -48,7 +48,7 @@ third_nav_title: Overseas Universities
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1M7iagp7xIkXdG_g7HEuGdF-nLFGAFqxM/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">The University of British Columbia</a>
+<p><a href="https://drive.google.com/file/d/1M7iagp7xIkXdG_g7HEuGdF-nLFGAFqxM/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">The University of British Columbia (UBC)</a>
 </p>
 </li>
 </ul>
