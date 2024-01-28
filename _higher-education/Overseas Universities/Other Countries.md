@@ -71,4 +71,20 @@ third_nav_title: Overseas Universities
 </p>
 </li>
 </ul>
+<p><strong>CHINA</strong>
+</p>
+<ul>
+<li>
+<p><a href="https://www.mastersportal.com/articles/1614/how-to-apply-to-an-international-university-in-china-in-2020.html" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>How to apply to study in China</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.china-admissions.com/china-university-ranking/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>China's C9 league of universities </u></a>&nbsp;(including
+Tsinghua University, Peking University, and Fudan University)</p>
+</li>
+<li>
+<p><a href="https://www.topuniversities.com/where-to-study/asia/china-mainland/scholarships-study-china" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Scholarships for international students&nbsp;</u></a>
+</p>
+</li>
+</ul>
 <p></p>
