@@ -27,6 +27,10 @@ third_nav_title: Overseas Universities
 <p><a href="https://www.topuniversities.com/university-rankings-articles/university-subject-rankings/top-universities-australia-subject" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Top courses of study in Australia</u></a>
 </p>
 </li>
+<li>
+<p><a href="https://www.uwa.edu.au/study" rel="noopener noreferrer nofollow" target="_blank">The University of Western Australia (UWA)</a>
+</p>
+</li>
 </ul>
 <p><strong>CANADA</strong>
 </p>
