@@ -53,6 +53,18 @@ to submit your documents.</p>
 </li>
 </ul>
 <p></p>
+<p></p>
+<p><strong>Admission &amp; Assessment Tests</strong>
+</p>
+<p><a href="https://www.relc.org.sg/assessments-and-certifications/" rel="noopener noreferrer nofollow" target="_blank">https://www.relc.org.sg/assessments-and-certifications/</a>
+</p>
+<p><strong><u>Note</u></strong> : Cambridge Assessment Admissions Testing
+is to withdraw from running a series of university admissions exams <strong>with effect from 2024-5</strong>. This
+includes BMAT (medicine), ENGAA (engineering), NSAA (natural sciences)
+and TMUA (mathematical skills) tests. Click on the link <a href="https://www.admissionstesting.org/news/view/reforms-to-cambridge-assessment-admissions-testing-from-2024/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Reforms to Cambridge Assessment Admissions Testing from 2024</u></a> for
+more details.</p>
+<p></p>
+<p></p>
 <p><strong>Useful links:</strong>
 </p>
 <ul data-tight="true" class="tight">
