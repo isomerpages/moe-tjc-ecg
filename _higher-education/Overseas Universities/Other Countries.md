@@ -43,6 +43,10 @@ third_nav_title: Overseas Universities
 <p><a href="https://future.utoronto.ca/international-students/welcome-singaporean-students/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>University of Toronto and Singapore</u></a>
 </p>
 </li>
+<li>
+<p><a href="https://drive.google.com/file/d/1M7iagp7xIkXdG_g7HEuGdF-nLFGAFqxM/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">The University of British Columbia</a>
+</p>
+</li>
 </ul>
 <p><strong>JAPAN&nbsp;</strong>
 </p>
