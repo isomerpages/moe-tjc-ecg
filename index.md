@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Education & Career Guidance
       subtitle: Where Talent Meets Opportunities
-      background: /images/hero-banner.png
+      background: /images/tjc_tamp.png
       variant: center
       dropdown:
         title: I am a
@@ -27,7 +27,7 @@ sections:
       announcement_items:
         - title: A Levels Results Release
           date: 23 February 2024
-          announcement: "The 2024 GCE 'A' Level results will be released at xx:xxhrs. "
+          announcement: The 2024 GCE 'A' Level results will be released at xx:xxhrs.
           link_text: ""
           link_url: ""
   - textcards:
