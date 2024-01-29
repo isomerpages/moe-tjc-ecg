@@ -16,8 +16,9 @@ person might focus more intently on work experience.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="career wheel" src="/images/career_wheel.png">
 </div>
-<p>The student's <a href="https://www.myskillsfuture.gov.sg/content/student/en/preu.html" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture Portal</a> can
-also help you find out more.</p>
+<p>The student's MySkillsFuture portal can also help you find out more. Access
+the respective <a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">secondary</a> and
+<a href="https://www.myskillsfuture.gov.sg/content/student/en/preu.html" rel="noopener noreferrer nofollow" target="_blank">pre-university</a>pages here.</p>
 <p></p>
 <p></p>
 <p>y</p>
