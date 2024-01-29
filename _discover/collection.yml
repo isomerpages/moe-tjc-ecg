@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Know Yourself.md
-      - Personality Test.md
       - RIASEC.md
