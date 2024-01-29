@@ -2,6 +2,6 @@ collections:
   discover:
     output: true
     order:
-      - Discovering Purpose.md
+      - Know Yourself.md
       - Personality Test.md
       - RIASEC.md
