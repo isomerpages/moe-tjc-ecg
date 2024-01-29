@@ -5,9 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Local Universities
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_01_28_155954.png">
-</div>
+<a class="isomer-image-wrapper" href="https://www.ntu.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_01_28_155954.png"></a>
 <p><strong>Application period</strong>:&nbsp; <strong>Day of Result Release to 19 Mar 2024</strong>
 </p>
 <p><strong>Open House/Talks:<em> <a href="https://www.ntu.edu.sg/openhouse" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>17 to 24 Feb 2024 </u></a></em><a href="https://www.ntu.edu.sg/openhouse" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>(</u></a><em><a href="https://www.ntu.edu.sg/openhouse" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Virtual Sessions</u></a></em><a href="https://www.ntu.edu.sg/openhouse" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>)</u></a><em><a href="https://www.ntu.edu.sg/openhouse" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u> and 2 Mar 2024 </u></a></em><a href="https://www.ntu.edu.sg/openhouse" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>(</u></a><em><a href="https://www.ntu.edu.sg/openhouse" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>in-person</u></a></em><a href="https://www.ntu.edu.sg/openhouse" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>)</u></a><em>&nbsp;</em></strong>
