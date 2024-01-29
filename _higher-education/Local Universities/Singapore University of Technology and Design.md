@@ -5,9 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Local Universities
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sutd_singapore_university_of_technology_and_design5828.jpg">
-</div>
+<a class="isomer-image-wrapper" href="https://www.sutd.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/sutd_singapore_university_of_technology_and_design5828.jpg"></a>
 <p><strong>Application period</strong>:&nbsp; <strong>&nbsp;End Feb 2024 -&nbsp;19 Mar 2024</strong>
 </p>
 <p><strong>Open House/Talks: </strong><a href="https://openhouse.sutd.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">24 and 25 Feb (10.30am-5.30pm)</a>
