@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - JC/Temasek Internship Programme.md
       - JC/Careers, Scholarships and Higher Education.md
       - JC/.keep
       - IP/WOW Programme.md
