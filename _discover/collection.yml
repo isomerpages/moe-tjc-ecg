@@ -2,4 +2,4 @@ collections:
   discover:
     output: true
     order:
-      - Know Yourself.md
+      - Overview.md
