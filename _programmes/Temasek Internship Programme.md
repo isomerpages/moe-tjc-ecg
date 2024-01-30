@@ -34,10 +34,10 @@ in order to achieve synergy in this programme.</p>
 <h2>SELECTION CRITERIA</h2>
 <ol data-tight="true" class="tight">
 <li>
-<p>Attendance @ TIP interviews held immediately after promo exams</p>
+<p>Attendance @ TIP interviews</p>
 </li>
 <li>
-<p>Promotional exams results</p>
+<p>Weighted Assessment/Promotional exams results</p>
 </li>
 <li>
 <p>Conduct grade</p>
