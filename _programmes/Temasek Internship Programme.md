@@ -17,7 +17,7 @@ demands of embarking on a career in their preferred vocation as well as
 learn the ropes of leadership.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="https://lh3.googleusercontent.com/0Y0Qviin5nZ5eLJmPdjDhW5II4QZQXKQRgya6U_juimeu0anOtX4Uk2y6iLt7u8PY2zkcklyEyKtJEe0P4tFAr3g5-t5oihADkSsReH0GROz-XqS=w1280">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EmbeddedImage.png">
 </div>
 <h1>WHO ARE INVOLVED?</h1>
 <p>The mentors and agencies involved represent a good spectrum of wide-ranging
@@ -29,7 +29,7 @@ selection process will ensure good matching between interns and mentor/agency
 in order to achieve synergy in this programme.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="border: 0px; box-sizing: border-box; display: block; width: 463.75px;" height="auto" width="100%" src="https://lh6.googleusercontent.com/3GGF3Bq14AJ1hupCVsJfA-oCOONWgo52Z4M7r1yPe31H2h3O5v53FV46trEkBcphqeWDxF9DI8L3E9dsdm8Fb_yZVTEYdNRc_tVK3Yl_BZjkcN_g=w1280">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EmbeddedImage__1_.png">
 </div>
 <h2>SELECTION CRITERIA</h2>
 <ol data-tight="true" class="tight">
@@ -51,7 +51,7 @@ in order to achieve synergy in this programme.</p>
 </ol>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="border: 0px; box-sizing: border-box; display: block; width: 562.417px;" height="auto" width="100%" src="https://lh3.googleusercontent.com/2shTBKwjKWANEmCMGSE3xzg4ncYoofQbj7PayhZl359Mn7RRu3MZEkZMdDfp3o6ksjV6jr6poYfSlnlADk57F8OviMX8jKREbDmZfUiqBokDpCJt=w1280">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EmbeddedImage.jpg">
 </div>
 <h2>LIST OF INDUSTRIES</h2>
 <ol data-tight="true" class="tight">
@@ -111,6 +111,9 @@ in order to achieve synergy in this programme.</p>
 </li>
 </ol>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EmbeddedImage__1_.jpg">
+</div>
 <h2>HEAR WHAT YOUR SENIORS HAVE TO SAY ABOUT TIP. .</h2>
 <h4><a href="https://www.youtube.com/watch?v=-fgATt682Jg" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - ANIMAL CARE (WILDLIFE RESERVES SINGAPORE RIVER SAFARI)</a></h4>
 <p>by Ong En Tong - CG 02/19</p>
@@ -158,4 +161,7 @@ in order to achieve synergy in this programme.</p>
 <p>by Goh Ying Xuan, Avril - CG 04/20
 <br>and Hannah Oh Hui Ling - CG 08/20</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EmbeddedImage__2_.jpg">
+</div>
 <p></p>
