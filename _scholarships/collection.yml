@@ -2,4 +2,5 @@ collections:
   scholarships:
     output: true
     order:
+      - Why you should consider scholarships?.md
       - example-page.md
