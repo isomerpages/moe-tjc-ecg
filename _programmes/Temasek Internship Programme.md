@@ -156,10 +156,11 @@ in order to achieve synergy in this programme.</p>
 <h4></h4>
 <h4><a href="https://drive.google.com/file/d/1NsMImqPrSQ8zUH-SWNMDQ1i86i5t-zBB/view" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - SOCIAL WORK (MINISTRY OF SOCIAL AND FAMILY DEVELOPMENT - MSF)</a></h4>
 <p>by Koh Guang Wei Anson - CG 09/20</p>
-<h4></h4>
+<p></p>
 <h4><a href="https://drive.google.com/file/d/1lnxt9wF9PTpZ5XsByJf20GAsGMnuF9Sw/view" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - SOCIAL WORK (MINISTRY OF SOCIAL AND FAMILY DEVELOPMENT - MSF)</a></h4>
 <p>by Goh Ying Xuan, Avril - CG 04/20
 <br>and Hannah Oh Hui Ling - CG 08/20</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EmbeddedImage__2_.jpg">
