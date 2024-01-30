@@ -130,6 +130,28 @@ in order to achieve synergy in this programme.</p>
 <h1><a href="https://drive.google.com/file/u/0/d/1Dd_kALXgT8GwOcP-fAiFLotwKR4vKfYz/view" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - EDUCATION / LEADERSHIP (HALOGEN FOUNDATION)</a></h1>
 <h3>by Janell Pang Zi Qian - CG 04/20 <br>and Samiha Hossain - CG 11/20</h3>
 <p></p>
+<h1><a href="https://youtu.be/umEsY8Vbp84" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - HEALTHCARE (TTSH RHEUMATOLOGY)</a></h1>
+<h3>by Ansel Tang Shao Pin - CG 22/19</h3>
 <p></p>
+<h1><a href="https://youtu.be/S-UU3oD1fBs" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - HEALTHCARE (TTSH EYE CENTRE)</a></h1>
+<h3>by Nur Farisah Syahirah Bte M S <br>- CG 22/19 and Cheryl Pang Xue Le <br>- CG 22/19</h3>
+<p></p>
+<h1><a href="https://youtu.be/Pa1TH0Hk_sY" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - HOSPITALITY (CONRAD CENTENNIAL SINGAPORE)</a></h1>
+<h3>by Esther Yue En Qi - CG 02/19</h3>
+<p></p>
+<h1><a href="https://drive.google.com/file/d/18KisQNVl9qDlU6A8YsgRIOOS54hOZ_c_/view" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - LAW (TITO ISAAC AND CO LLP)</a></h1>
+<h3>by Kim Sang Ah - CG 14/20</h3>
+<p></p>
+<h1><a href="https://youtu.be/2q_zGRVDzHI" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - LIFE SCIENCES</a></h1>
+<h3>by Jenna Teo Hui Yun - CG 22/19</h3>
+<p></p>
+<h1><a href="https://youtu.be/xpX9KkykhTM" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - SAL JC LAW PROGRAMME</a></h1>
+<h3>by Nur Diyanah Bte Hasan Malik <br>- CG 06/19</h3>
+<p></p>
+<h1><a href="https://drive.google.com/file/d/1NsMImqPrSQ8zUH-SWNMDQ1i86i5t-zBB/view" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - SOCIAL WORK (MINISTRY OF SOCIAL AND FAMILY DEVELOPMENT - MSF)</a></h1>
+<h3>by Koh Guang Wei Anson - CG 09/20</h3>
+<p></p>
+<h1><a href="https://drive.google.com/file/d/1lnxt9wF9PTpZ5XsByJf20GAsGMnuF9Sw/view" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - SOCIAL WORK (MINISTRY OF SOCIAL AND FAMILY DEVELOPMENT - MSF)</a></h1>
+<h3>by Goh Ying Xuan, Avril - CG 04/20 <br>and Hannah Oh Hui Ling - CG 08/20</h3>
 <p></p>
 <p></p>
