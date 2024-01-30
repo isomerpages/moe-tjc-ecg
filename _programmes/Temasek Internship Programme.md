@@ -27,3 +27,109 @@ many others.</p>
 <p>2 to 3 students will serve as interns in each of the agency. A rigorous
 selection process will ensure good matching between interns and mentor/agency
 in order to achieve synergy in this programme.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="border: 0px; box-sizing: border-box; display: block; width: 463.75px;" height="auto" width="100%" src="https://lh6.googleusercontent.com/3GGF3Bq14AJ1hupCVsJfA-oCOONWgo52Z4M7r1yPe31H2h3O5v53FV46trEkBcphqeWDxF9DI8L3E9dsdm8Fb_yZVTEYdNRc_tVK3Yl_BZjkcN_g=w1280">
+</div>
+<h2>SELECTION CRITERIA</h2>
+<ol data-tight="true" class="tight">
+<li>
+<p>Attendance @ TIP interviews held immediately after promo exams</p>
+</li>
+<li>
+<p>Promotional exams results</p>
+</li>
+<li>
+<p>Conduct grade</p>
+</li>
+<li>
+<p>Tutors' feedback</p>
+</li>
+<li>
+<p>Availability of student during the attachment period</p>
+</li>
+</ol>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="border: 0px; box-sizing: border-box; display: block; width: 562.417px;" height="auto" width="100%" src="https://lh3.googleusercontent.com/2shTBKwjKWANEmCMGSE3xzg4ncYoofQbj7PayhZl359Mn7RRu3MZEkZMdDfp3o6ksjV6jr6poYfSlnlADk57F8OviMX8jKREbDmZfUiqBokDpCJt=w1280">
+</div>
+<h2>LIST OF INDUSTRIES</h2>
+<ol data-tight="true" class="tight">
+<li>
+<p>ANIMAL CARE</p>
+</li>
+<li>
+<p>ARCHITECTURE</p>
+</li>
+<li>
+<p>EARLY CHILDHOOD</p>
+</li>
+<li>
+<p>EDUCATION [SCIENCE CENTRE]</p>
+</li>
+<li>
+<p>ENGINEERING</p>
+</li>
+<li>
+<p>BUSINESS [EDUCATION]</p>
+</li>
+<li>
+<p>BUSINESS [HOSPITALITY]</p>
+</li>
+<li>
+<p>BUSINESS [IT]</p>
+</li>
+<li>
+<p>BUSINESS [DESIGN]</p>
+</li>
+<li>
+<p>BUSINESS [DITGITAL MARKETING]</p>
+</li>
+<li>
+<p>DENTAL</p>
+</li>
+<li>
+<p>DIGITAL MARKETING</p>
+</li>
+<li>
+<p>INFORMATION TECHNOLOGY [ENGINEERING]</p>
+</li>
+<li>
+<p>LAW</p>
+</li>
+<li>
+<p>LIFE SCIENCE</p>
+</li>
+<li>
+<p>MEDICAL</p>
+</li>
+<li>
+<p>PERFORMING ARTS</p>
+</li>
+<li>
+<p>SOCIAL SERVICES</p>
+</li>
+</ol>
+<p></p>
+<h2>HEAR WHAT YOUR SENIORS HAVE TO SAY ABOUT TIP. .</h2>
+<h1><a href="https://www.youtube.com/watch?v=-fgATt682Jg" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - ANIMAL CARE (WILDLIFE RESERVES SINGAPORE RIVER SAFARI)</a></h1>
+<h3>by Ong En Tong - CG 02/19</h3>
+<p></p>
+<h1><a href="https://drive.google.com/file/d/1hEICy7_5ui1ChZlpLPcjXKzBhtPZz_jC/view" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - ART (ART AGENDA, S.E.A)</a></h1>
+<h3>by Chen Liang Jun - CG 15/20</h3>
+<p></p>
+<h1><a href="https://drive.google.com/file/d/1CDPFSbsJ77n7ARSbno3Go3cK5um1YL1A/view" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - BUSINESS EDUCATION (360 EDUCATION PTE LTD / LEARNING GRID)</a></h1>
+<h3>by Syakirah Binti Jamaludin <br>- CG 17/20</h3>
+<p></p>
+<h1><br><a href="https://youtu.be/PkrJogaaHnw" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - DENTAL (ALPHA DENTAL)</a></h1>
+<h3>by Tay Qi Qi - CG 25/19</h3>
+<p></p>
+<h1><br><a href="https://drive.google.com/file/d/1TW4n64sUZjrfTPDCpfhorcByMtBex5Sm/view" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - EARLY CHILDHOOD (ACEKIDZ @ SG PTE LTD [YISHUN])</a></h1>
+<h3>by Jonas Lee Yew Hwa - CG 17/20 <br>and Young Yi Qian - CG 20/20</h3>
+<p></p>
+<h1><a href="https://drive.google.com/file/u/0/d/1Dd_kALXgT8GwOcP-fAiFLotwKR4vKfYz/view" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - EDUCATION / LEADERSHIP (HALOGEN FOUNDATION)</a></h1>
+<h3>by Janell Pang Zi Qian - CG 04/20 <br>and Samiha Hossain - CG 11/20</h3>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
