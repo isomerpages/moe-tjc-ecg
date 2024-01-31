@@ -2,7 +2,7 @@ collections:
   discover:
     output: true
     order:
-      - Portfolio Ideas.md
       - Overview.md
       - Know Yourself.md
       - Industry Landscape.md
+      - Portfolio Ideas.md
