@@ -93,3 +93,7 @@ January to February.</p>
 <p><em>*this list is non-exhaustive</em>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2024 IP5s at Design Prodigy" src="/images/DP_.jpg">
+</div>
+<p></p>
