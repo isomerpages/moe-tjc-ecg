@@ -17,7 +17,7 @@ learn the ropes of leadership.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EmbeddedImage.png">
 </div>
-<h1>WHO ARE INVOLVED?</h1>
+<h4>WHO ARE INVOLVED?</h4>
 <p>The mentors and agencies involved represent a good spectrum of wide-ranging
 specialities including architecture, bio-technology, community, infocomm
 tech, law, performing arts, animal care, medical, digital marketing, and
@@ -29,7 +29,7 @@ in order to achieve synergy in this programme.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EmbeddedImage__1_.png">
 </div>
-<h2>SELECTION CRITERIA</h2>
+<h4>SELECTION CRITERIA</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Attendance @ TIP interviews</p>
@@ -51,7 +51,7 @@ in order to achieve synergy in this programme.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EmbeddedImage.jpg">
 </div>
-<h2>LIST OF INDUSTRIES</h2>
+<h4>LIST OF INDUSTRIES</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>ANIMAL CARE</p>
@@ -112,7 +112,7 @@ in order to achieve synergy in this programme.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EmbeddedImage__1_.jpg">
 </div>
-<h2>HEAR WHAT YOUR SENIORS HAVE TO SAY ABOUT TIP. .</h2>
+<h4>HEAR WHAT YOUR SENIORS HAVE TO SAY ABOUT TIP. </h4>
 <h4><a href="https://www.youtube.com/watch?v=-fgATt682Jg" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - ANIMAL CARE (WILDLIFE RESERVES SINGAPORE RIVER SAFARI)</a></h4>
 <p>by Ong En Tong - CG 02/19</p>
 <h4></h4>
