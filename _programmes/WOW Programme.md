@@ -18,6 +18,8 @@ apply knowledge gained in the classroom to real-world contexts. In the
 process, they hone soft and hard skills, gain invaluable insight into the
 demands of a particular industry and develop a higher level of metacognition
 when attempting to solve a given problem.</p>
+<p>W.O.W! Programme runs at the beginning of the Year 5 in the period of
+January to February.</p>
 <p></p>
 <h4>Broad Categories of Partners</h4>
 <ul data-tight="true" class="tight">
