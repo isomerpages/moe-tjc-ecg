@@ -30,15 +30,15 @@ sections:
           announcement: Congratulations, Class of 2023!
           link_text: ""
           link_url: ""
+        - title: IP4 Careers Day
+          date: 04 March 2024
+          announcement: IP4 Careers Day
+          link_text: ""
+          link_url: ""
         - title: CSHE Fair
           date: 23 May 2024
           announcement: Come join in our annual Careers, Scholarships and Higher Education
             (CSHE) Fair.
-          link_text: ""
-          link_url: ""
-        - title: IP4 Careers Day
-          date: 04 March 2024
-          announcement: IP4 Careers Day
           link_text: ""
           link_url: ""
   - textcards:
