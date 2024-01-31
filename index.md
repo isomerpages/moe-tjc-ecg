@@ -36,9 +36,9 @@ sections:
             (CSHE) Fair.
           link_text: ""
           link_url: ""
-        - title: New Announcement
-          date: 31 January 2024
-          announcement: Announcement content
+        - title: IP4 Careers Day
+          date: 04 March 2024
+          announcement: IP4 Careers Day
           link_text: ""
           link_url: ""
   - textcards:
