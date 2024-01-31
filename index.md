@@ -31,7 +31,7 @@ sections:
           link_text: ""
           link_url: ""
         - title: IP4 Careers Day
-          date: 04 March 2024
+          date: 05 March 2024
           announcement: IP4 Careers Day
           link_text: ""
           link_url: ""
