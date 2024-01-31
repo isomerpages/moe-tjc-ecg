@@ -15,11 +15,11 @@ sections:
         title: I am a
         options:
           - title: IP Student
-            url: ""
+            url: /ip
           - title: JC Student
-            url: ""
+            url: /jc
           - title: Graduate
-            url: ""
+            url: /graduate
   - announcements:
       title: Announcements
       id: announcements
