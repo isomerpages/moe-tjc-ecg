@@ -36,7 +36,7 @@ your skills and interests.</p>
 RIASEC is an acronym which stands for its six dimensions - Realistic, Investigative,
 Artistic, Social, Enterprising and Conventional. Find out more <a href="https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/finding-the-right-career-with-the-abcs-of-riasec.html#:~:text=In%20short%2C%20RIASEC%20is%20an,%2C%20Social%2C%20Enterprising%20and%20Conventional" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4>Personality</h4>
-<p>The characteristics and behaviour that make up an individual’s unique
+<p>is the characteristics and behaviour that make up an individual’s unique
 adjustment to life. This includes one’s traits, drives, self-concept, abilities,
 and emotional patterns. For example, one’s personality will define the
 way one processes information and makes decisions, or whether one prefers
