@@ -18,3 +18,68 @@ apply knowledge gained in the classroom to real-world contexts. In the
 process, they hone soft and hard skills, gain invaluable insight into the
 demands of a particular industry and develop a higher level of metacognition
 when attempting to solve a given problem.</p>
+<p></p>
+<h4>Broad Categories of Partners</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Companies &amp; Individuals</p>
+</li>
+<li>
+<p>Healthcare &amp; Social Work</p>
+</li>
+<li>
+<p>Humanities &amp; Social Sciences</p>
+</li>
+<li>
+<p>Public Service</p>
+</li>
+<li>
+<p>Science &amp; Technology</p>
+</li>
+<li>
+<p>Social Enterprises</p>
+</li>
+</ul>
+<h4>W.O.W! Partners </h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>A*STAR</p>
+</li>
+<li>
+<p>Asian Film Archives</p>
+</li>
+<li>
+<p>DSTA</p>
+</li>
+<li>
+<p>Design Prodigy</p>
+</li>
+<li>
+<p>Health Science Authority Singapore</p>
+</li>
+<li>
+<p>National University of Singapore</p>
+</li>
+<li>
+<p>Nanyang Technological University</p>
+</li>
+<li>
+<p>Singapore Association For The Deaf</p>
+</li>
+<li>
+<p>Singapore Science Centre</p>
+</li>
+<li>
+<p>Singapore University of Technology and Design</p>
+</li>
+<li>
+<p>Tito Isaac &amp; Co LLP</p>
+</li>
+<li>
+<p>TravelClef</p>
+</li>
+<li>
+<p>Voices of Singapore</p>
+</li>
+</ul>
+<p></p>
