@@ -27,7 +27,18 @@ sections:
       announcement_items:
         - title: A Levels Results Release
           date: 23 February 2024
-          announcement: The 2024 GCE 'A' Level results will be released at xx:xxhrs.
+          announcement: Congratulations, Class of 2023!
+          link_text: ""
+          link_url: ""
+        - title: CSHE Fair
+          date: 23 May 2024
+          announcement: Come join in our annual Careers, Scholarships and Higher Education
+            (CSHE) Fair.
+          link_text: ""
+          link_url: ""
+        - title: New Announcement
+          date: 31 January 2024
+          announcement: Announcement content
           link_text: ""
           link_url: ""
   - textcards:
