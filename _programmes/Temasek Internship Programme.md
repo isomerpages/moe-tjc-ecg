@@ -8,8 +8,7 @@ description: ""
 <p>The Temasek Internship Programme (TIP) is an exciting and exclusive programme
 that will allow promising students to be mentored closely and nurtured
 personally by practitioners who are well-versed in their fields.</p>
-<p>The internship / attachment period will last between 1 to 3 weeks. It
-usually commences right after Post-OP lectures have ended.</p>
+<p>The internship / attachment period will last between 1 to 3 weeks.</p>
 <p>The TIP is an initiative that will foster closer links between academia
 and industry. Students in this programme will better understand the real
 demands of embarking on a career in their preferred vocation as well as
