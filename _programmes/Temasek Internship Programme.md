@@ -112,7 +112,7 @@ in order to achieve synergy in this programme.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EmbeddedImage__1_.jpg">
 </div>
-<h4>HEAR WHAT YOUR SENIORS HAVE TO SAY ABOUT TIP. </h4>
+<h4>HEAR WHAT YOUR SENIORS HAVE TO SAY ABOUT TIP.</h4>
 <h4><a href="https://www.youtube.com/watch?v=-fgATt682Jg" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - ANIMAL CARE (WILDLIFE RESERVES SINGAPORE RIVER SAFARI)</a></h4>
 <p>by Ong En Tong - CG 02/19</p>
 <h4></h4>
