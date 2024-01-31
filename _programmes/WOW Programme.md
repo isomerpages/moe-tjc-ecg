@@ -40,16 +40,16 @@ when attempting to solve a given problem.</p>
 <p>Social Enterprises</p>
 </li>
 </ul>
-<h4>W.O.W! Partners </h4>
+<h4>W.O.W! Partners*</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>A*STAR</p>
+<p>Agency for Science, Technology and Research</p>
 </li>
 <li>
-<p>Asian Film Archives</p>
+<p>Asian Film Archive</p>
 </li>
 <li>
-<p>DSTA</p>
+<p>Defence Science and Technology Agency</p>
 </li>
 <li>
 <p>Design Prodigy</p>
@@ -64,6 +64,9 @@ when attempting to solve a given problem.</p>
 <p>Nanyang Technological University</p>
 </li>
 <li>
+<p>NTUC Nursing Home</p>
+</li>
+<li>
 <p>Singapore Association For The Deaf</p>
 </li>
 <li>
@@ -71,6 +74,9 @@ when attempting to solve a given problem.</p>
 </li>
 <li>
 <p>Singapore University of Technology and Design</p>
+</li>
+<li>
+<p>TEDx Singapore</p>
 </li>
 <li>
 <p>Tito Isaac &amp; Co LLP</p>
@@ -82,4 +88,6 @@ when attempting to solve a given problem.</p>
 <p>Voices of Singapore</p>
 </li>
 </ul>
+<p><em>*this list is non-exhaustive</em>
+</p>
 <p></p>
