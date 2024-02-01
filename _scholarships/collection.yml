@@ -2,8 +2,8 @@ collections:
   scholarships:
     output: true
     order:
-      - Undergraduate Scholarships.md
-      - Types of Scholarships available.md
       - Overview of Scholarships.md
       - Secondary School Scholarships.md
       - Pre University Scholarships.md
+      - Undergraduate Scholarships.md
+      - Types of Scholarships available.md
