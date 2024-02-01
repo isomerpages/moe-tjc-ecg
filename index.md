@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: ECG@TJC
-description: Temasek Junior College Education and Career Guidance Microsite
-image: /images/tjc_logo.png
+title: Title
+description: An Isomer site of the Singapore Government
+image: /images/isomer-logo.svg
 permalink: /
 notification: Temasek Junior College Education and Career Guidance Microsite
 sections:
@@ -23,19 +23,25 @@ sections:
   - textcards:
       title: THE EXPLORER
       id: textcards
-      description: ECG e-NEWSLETTER for STUDENTS
+      description: Education and Career Guidance e-Newsletter for Students
       cards:
-        - title: Aug 2023 Issue 2
+        - title: Aug 2023 Issue
           description: InfoComm Tech & Social and Personal Services; Broadening Career
             Possibilities
-          linktext: Access the issue here
+          linktext: Access 2023 Issue 2
           url: files/2023_explorer_issue2_preu.pdf
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+        - title: Apr 2023 Issue
+          description: Aptitude-based Admissions / Building Portfolio; Changing Local Uni
+            Landscape
+          linktext: Access 2023 Issue 1
+          url: files/2023_explorer_issue_1_preu.pdf
+        - title: Aug 2022 Issue
+          description: Green & Care Economy; What's New in Local Unis; 3 Ways to Develop
+            Yourself
+          linktext: Access 2022 Issue 2
+          url: https://go.gov.sg/2022explorer-issue2-preu
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
