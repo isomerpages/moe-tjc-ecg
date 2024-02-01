@@ -34,5 +34,5 @@ agencies.</p>
 </li>
 </ul>
 <p>Click <a href="https://go.gov.sg/scholarshipmyths" rel="noopener noreferrer nofollow" target="_blank">here </a>to
-dispel these myths and start living your best life!</p>
-<p>I can think about scholarships after I get my A Level results!</p>
+dispel these myths and start living your best life; access the <a href="https://go.gov.sg/scholarshipsproviders" rel="noopener noreferrer nofollow" target="_blank">list of scholarship providers</a> and
+start exploring the many available scholarships you can apply for!</p>
