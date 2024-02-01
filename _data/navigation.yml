@@ -8,7 +8,7 @@ links:
     collection: programmes
   - title: Higher Education
     collection: higher-education
-  - title: Resources
-    url: /resources/explorer/
+  - title: Scholarships
+    collection: scholarships
   - title: Release of Results
     collection: results-release
