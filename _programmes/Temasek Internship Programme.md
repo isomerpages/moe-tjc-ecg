@@ -13,6 +13,13 @@ personally by practitioners who are well-versed in their fields.</p>
 and industry. Students in this programme will better understand the real
 demands of embarking on a career in their preferred vocation as well as
 learn the ropes of leadership.</p>
+<p>The Temasek Internship Programme (TIP) will run in the period of June
+every year.</p>
+<p>Students will also have the opportunity for the Temasek Internship (TIP)
+Lite Programme, which will run in the period of November every year. In
+this TIP Lite, students will go on learning journeys and visits to different
+companies in different industries to have a better sense of what working
+in that particular industry is like</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EmbeddedImage.png">
