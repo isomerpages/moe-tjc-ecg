@@ -15,7 +15,7 @@ may bring!</p>
 <p>A scholarship might be one way for you to support your post-JC aspirations,
 but many students choose not to explore this option because of these five
 scholarship myths:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>I must stay with my scholarship agency forever!</p>
 </li>
@@ -32,7 +32,7 @@ agencies.</p>
 <li>
 <p>I can think about scholarships after I get my 'A' Level results.</p>
 </li>
-</ol>
+</ul>
 <p>Click <a href="https://go.gov.sg/scholarshipmyths" rel="noopener noreferrer nofollow" target="_blank">here </a>to
 dispel these myths and start living your best life!</p>
 <p>I can think about scholarships after I get my A Level results!</p>
