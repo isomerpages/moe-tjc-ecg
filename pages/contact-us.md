@@ -5,13 +5,13 @@ permalink: /contact-us/
 agency_name: the ECG team
 locations:
   - address:
-      - Student Services Hub
-      - E108
+      - Student Services Hub (E108)
+      - Block E, Level 1
       - Temasek Junior College
     operating_hours:
       - days: Mon - Fri
         time: 9.00am - 5.00pm
-        description: Closed on Public Holidays
+        description: Closed on School and Public Holidays
     maps_link: https://go.gov.sg/ing
     title: TJC ECG Counsellor Office
 contacts:
