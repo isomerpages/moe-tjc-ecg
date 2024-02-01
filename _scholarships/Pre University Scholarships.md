@@ -27,4 +27,6 @@ deepen your learning in specific areas!</p>
 like!</p>
 </li>
 </ul>
+<p>Click <a href="https://go.gov.sg/preuscholarships" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+see the variety of Pre-U scholarships that TJCians can apply for!</p>
 <p></p>
