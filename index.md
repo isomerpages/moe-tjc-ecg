@@ -40,8 +40,9 @@ sections:
             Yourself
           linktext: Access 2022 Issue 2
           url: https://go.gov.sg/2022explorer-issue2-preu
-  - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
-      id: resources
+        - title: Apr 2022 Issue
+          description: "New Digital; Tips for Aptitude-based Admissions & Personal
+            Statements  "
+          linktext: Learn more
+          url: files/2022_explorer_issue1_preu.pdf
 ---
