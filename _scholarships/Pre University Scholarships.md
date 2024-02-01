@@ -7,6 +7,11 @@ description: ""
 <p>At the JC level, you may start to think about how you can become a more
 thoughtful individual who actively pursues your interests and strengths
 to grow as a person.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="MOE Pre-U Scholarship Recipients 2023" src="/images/photo1700613419__1_.jpeg">
+</div>
+<p></p>
+<p></p>
 <p>Pre-U scholarships are a great way for you to hone your interests and
 deepen your learning in specific areas!</p>
 <p></p>
