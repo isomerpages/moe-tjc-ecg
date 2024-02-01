@@ -17,16 +17,6 @@ locations:
 contacts:
   - content:
       - phone: ""
-      - email: thangam_vickerama_singhan@moe.edu.sg
-      - other: Any text here <i>including HTML</i>
-    title: University Applications
-  - content:
-      - phone: ""
-      - email: han_song_guang@moe.edu.sg
-      - other: ""
-    title: Scholarship Applications
-  - content:
-      - phone: ""
       - email: irene_ng_ee_yen@schools.gov.sg
       - other: Make an appointment <a href="https://go.gov.sg/ing">here</a>.
     title: ECG Counselling @ TJC
@@ -36,5 +26,40 @@ contacts:
       - other: Make an appointment at <a
           href="https://go.gov.sg/moe-ecg-centre">here</a>.
     title: ECG Counselling @ MOE HQ Br
+  - content:
+      - phone: ""
+      - email: thangam_vickerama_singhan@moe.edu.sg
+      - other: Ms Thangam
+    title: University Applications
+  - content:
+      - phone: ""
+      - email: rui_yang_koh@moe.edu.sg
+      - other: Mr Koh Rui Yang
+    title: University Applications
+  - content:
+      - phone: ""
+      - email: lin_luyuan_jane@moe.edu.sg
+      - other: Ms Jane Lin
+    title: US Universities
+  - content:
+      - phone: ""
+      - email: ng_lay_ling@moe.edu.sg
+      - other: Ms Ng Lay Ling
+    title: UK Universities
+  - content:
+      - phone: ""
+      - email: han_song_guang@moe.edu.sg
+      - other: Mr Han Song Guang
+    title: Scholarship Applications
+  - content:
+      - phone: ""
+      - email: chan_yan_ying_janice@moe.edu.sg
+      - other: Ms Janice Chan
+    title: Scholarship Applications
+  - content:
+      - phone: ""
+      - email: yeo_kai_xiang_a@moe.edu.sg
+      - other: Mr Yeo Kai Xiang
+    title: Scholarship Applications
 feedback: ""
 ---
