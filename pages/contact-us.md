@@ -25,7 +25,7 @@ contacts:
       - email: MOE_ECG@moe.gov.sg
       - other: Make an appointment at <a
           href="https://go.gov.sg/moe-ecg-centre">here</a>.
-    title: ECG Counselling @ MOE HQ Br
+    title: ECG Counselling @ MOE HQ
   - content:
       - phone: ""
       - email: thangam_vickerama_singhan@moe.edu.sg
