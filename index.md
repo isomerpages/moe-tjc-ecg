@@ -20,36 +20,15 @@ sections:
             url: /jc
           - title: Graduate
             url: /graduate
-  - announcements:
-      title: Announcements
-      id: announcements
-      subtitle: Add a list of announcements with dates
-      announcement_items:
-        - title: A Levels Results Release
-          date: 23 February 2024
-          announcement: Congratulations, Class of 2023!
-          link_text: ""
-          link_url: ""
-        - title: IP4 Careers Day
-          date: 05 March 2024
-          announcement: IP4 Careers Day
-          link_text: ""
-          link_url: ""
-        - title: CSHE Fair
-          date: 23 May 2024
-          announcement: Come join in our annual Careers, Scholarships and Higher Education
-            (CSHE) Fair.
-          link_text: ""
-          link_url: ""
   - textcards:
-      title: Text Cards
-      subtitle: Add informational text
+      title: THE EXPLORER
       id: textcards
-      description: Text card description
+      description: ECG e-NEWSLETTER for STUDENTS
       cards:
-        - title: Card
-          description: Card description
-          linktext: Learn more
+        - title: Aug 2023 Issue 2
+          description: InfoComm Tech & Social and Personal Services; Broadening Career
+            Possibilities
+          linktext: Access the issue here
           url: ""
         - title: Card
           description: Card description
@@ -59,16 +38,4 @@ sections:
           description: Card description
           linktext: Learn more
           url: ""
-  - infocols:
-      title: Info-columns
-      subtitle: Add snippets of text in columns
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
 ---
