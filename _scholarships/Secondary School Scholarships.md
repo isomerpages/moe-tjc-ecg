@@ -14,7 +14,7 @@ if you are interested please do let the subject tutors from the relevant
 department know!</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships" rel="noopener noreferrer nofollow" target="_blank">MOE Mother Tongue Language Elective Scholarship (MTLES-Sec) </a>
+<p><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships" rel="noopener noreferrer nofollow" target="_blank">MOE Mother Tongue Language Elective Scholarship (MTLES-Sec)</a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
