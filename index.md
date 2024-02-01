@@ -29,7 +29,7 @@ sections:
           description: InfoComm Tech & Social and Personal Services; Broadening Career
             Possibilities
           linktext: Access the issue here
-          url: ""
+          url: files/2023_explorer_issue2_preu.pdf
         - title: Card
           description: Card description
           linktext: Learn more
