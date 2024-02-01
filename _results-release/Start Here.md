@@ -12,7 +12,9 @@ think about <strong><em>What you want to do? Who you want to be? Where do you wa
 <p></p>
 <p><strong><a href="/files/Student_Info_Deck__17_Feb_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Info Deck:</a></strong> Contains
 FAQs, tips for selecting university/courses</p>
-<p><strong><a href="/files/Whats_Next_For_A_Level_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">What's Next: </a></strong>Http://go.gov.sg/ecg-resources</p>
+<p><strong><a href="/files/Whats_Next_For_A_Level_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">What's Next: </a></strong> 
+<a href="http://go.gov.sg/ecg-resources" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/ecg-resources</a>
+</p>
 <hr>
 <p>These are some sites which you can access to help you find greater clarity:</p>
 <ul>
