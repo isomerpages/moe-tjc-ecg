@@ -2,5 +2,5 @@ collections:
   students:
     output: true
     order:
-      - Example Title.md
+      - Junior College.md
       - Graduate.md
