@@ -4,7 +4,7 @@ title: Title
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Temasek Junior College Education and Career Guidance Microsite
+notification: Welcome to Education and Career Guidance @ Temasek Junior College!
 sections:
   - hero:
       title: Education & Career Guidance
