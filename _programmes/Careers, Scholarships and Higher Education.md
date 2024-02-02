@@ -9,7 +9,7 @@ TJC&nbsp;provides students with career counselling and scholarship advisories
 to stand them in good stead to achieve their aspirations.</p>
 <p>TJC offers numerous opportunities for students to explore the infinite
 possibilities of what life can hold for them when they graduate. We conduct
-workshops and classes on how to write an effective Statement and how to
+workshops and classes on how to write an effective statement and how to
 sit for an interview. Students will also have the opportunity to hear from
 various agencies about the scholarships they offer and clarify questions
 they have about studying in the local autonomous universities. TJC also
