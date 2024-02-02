@@ -13,7 +13,10 @@ for IP students.</p>
 how to kickstart your ECG journey, begin with <a href="\discover" rel="noopener noreferrer nofollow" target="_blank">Discover</a> to profile your own values, interests, personality
 and skills.</p>
 <p>At IP4 level, you can look forward to the <a href="programmes/secondary/careers-day/" rel="noopener noreferrer nofollow" target="_blank">Careers Day</a> in Term 1 or the
-<a href="programmes/secondary/wow/" rel="noopener noreferrer nofollow" target="_blank">Wonder.Observe.Weave! Programme</a>as you transition into IP5.</p>
+<a href="programmes/secondary/wow/" rel="noopener noreferrer nofollow" target="_blank">Wonder.Observe.Weave! Programme</a>as you transition into IP5. Look out
+for the <a href="/programmes/cshe/" rel="noopener noreferrer nofollow" target="_blank">Careers, Scholarships, Higher Education Fair</a> in
+Term 2 where there will be a dazzling array of career talks and exhibitions
+with participating organisations from both public and private sectors.</p>
 <p>Looking to build up your portfolio? Look up the <a href="/resources/portfolio/" rel="noopener noreferrer nofollow" target="_blank">portfolio opportunities</a> curated by the
 ECG unit.</p>
 <p><a href="/scholarships/overview/" rel="noopener noreferrer nofollow" target="_blank">Scholarship</a> opportunities
