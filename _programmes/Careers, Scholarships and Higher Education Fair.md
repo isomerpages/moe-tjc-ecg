@@ -36,18 +36,4 @@ in universities.</p>
 <p>A career talk by Ms Mong Chin, Mongabong Productions, Graphic Designer
 Intern</p>
 <p></p>
-<p><strong>TEMASEK INTERNSHIP PROGRAMME</strong>
-</p>
-<p>We also offers an internship programme for our JC students to immerse
-themselves in their areas of interest in terms of career options so as
-to be better informed of their higher education choices. Through this internship,
-held during the month of June, students gain valuable first-hand experience
-of their chosen careers. They are mentored and nurtured by leading practitioners
-in their respective fields – many of whom are alumni of the College. The
-agencies involved represent a broad spectrum of careers and specialities,
-including architecture, bio-technology, law, social work, theatre, infocomm
-technology, the media, veterinary sciences, and many others.</p>
-<p>Students also have the opportunity to attend Temasek Internship Programme
-Lite, during the month of November, where they will go on learning journeys
-to various companies and industries to have a better understanding of the
-life of work in that particular industry.</p>
+<p></p>
