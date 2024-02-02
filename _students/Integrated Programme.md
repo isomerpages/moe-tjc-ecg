@@ -4,6 +4,8 @@ permalink: /students/secondary/
 variant: tiptap
 description: ""
 ---
+<p>TJC offers a comprehensive Education and Career Guidance (ECG) curriculum
+for IP students</p>
 <p>Welcome Integrated Programme students!</p>
 <p>At IP4 level, you can look forward to the Careers Day in Term 1 or the
 Wonder.Observe.Weave! Programme as your transition into IP5.</p>
