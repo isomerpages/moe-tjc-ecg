@@ -38,4 +38,4 @@ Career Simulation Game, etc.)</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Careers_3.jpg">
 </div>
 <p>Sharing of W.O.W! projects by Year 5 to Year 4 students</p>
-<p>Sharing</p>
+<p></p>
