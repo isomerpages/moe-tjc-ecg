@@ -15,7 +15,7 @@ sections:
         title: I am a
         options:
           - title: IP Student
-            url: /students/secondaru
+            url: /students/secondary
           - title: JC Student
             url: /students/pre-u
           - title: Graduate
