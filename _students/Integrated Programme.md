@@ -16,6 +16,9 @@ and skills.</p>
 <a href="programmes/secondary/wow/" rel="noopener noreferrer nofollow" target="_blank">Wonder.Observe.Weave! Programme</a>as you transition into IP5.</p>
 <p>Looking to build up your portfolio? Look up the <a href="/resources/portfolio/" rel="noopener noreferrer nofollow" target="_blank">portfolio opportunities</a> curated by the
 ECG unit.</p>
+<p><a href="/scholarships/overview/" rel="noopener noreferrer nofollow" target="_blank">Scholarship</a> opportunities
+are also available for distinguished students at the <a href="/scholarships/sec/" rel="noopener noreferrer nofollow" target="_blank">secondary</a> level,
+or you can look out for them at <a href="scholarships/preu/" rel="noopener noreferrer nofollow" target="_blank">JC</a>!</p>
 <p>Still unsure? Fret not. <a href="https://cal.gov.sg/goe5wc54r1wy7gv8xu6b1fd0" rel="noopener noreferrer nofollow" target="_blank">Book</a> a 1.5 h self-exploration
 journey with the ECG Counsellor.</p>
 <p></p>
