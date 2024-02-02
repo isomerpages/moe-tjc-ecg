@@ -2,5 +2,6 @@ collections:
   students:
     output: true
     order:
+      - Integrated Programme.md
       - Junior College.md
       - Graduate.md
