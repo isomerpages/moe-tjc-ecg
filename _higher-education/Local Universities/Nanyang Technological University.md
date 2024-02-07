@@ -22,6 +22,10 @@ subject pre-requisites)</p>
 <p><a href="https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/Aptitude-based-Admissions" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Aptitude-based-Admissions</u></a> (opt-in)</p>
 </li>
 <li>
+<p><a href="https://www3.ntu.edu.sg/oad2/website_files/alevel/FAQ.Revised.UAS.Computation.for.AU.Admission.AY2026.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ on revised UAS Computation</a>
+</p>
+</li>
+<li>
 <p>NTU <a href="https://www.ntu.edu.sg/admissions/undergraduate/scholarships" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Scholarships</u></a> /
 <a href="https://www.ntu.edu.sg/admissions/undergraduate/premier-scholar-programmes" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Premier Scholars Programme</u>
 </a>
