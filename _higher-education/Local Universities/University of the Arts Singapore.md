@@ -17,7 +17,7 @@ the programme seats have been filled up.<strong> </strong>Please visit&nbsp;
 <a href="https://www.lasalle.edu.sg/contact-us" rel="noopener noreferrer nofollow" target="_blank"><u>LASALLE</u> 
 </a>&nbsp;and <a href="https://www.nafa.edu.sg/contact-us" rel="noopener noreferrer nofollow" target="_blank"><u>NAFA</u></a>&nbsp;for
 more updates.</p>
-<p><strong>Open House:</strong>  <a href="https://uas.edu.sg/news-and-events/EventDetails?title=Our+Open+House" rel="noopener noreferrer nofollow" target="_blank">2 March 2024</a>
+<p><strong>Open House:</strong>  <a href="https://uas.edu.sg/news-and-events/EventDetails?title=Open+House+%40+UAS" rel="noopener noreferrer nofollow" target="_blank">2 March 2024</a>
 </p>
 <ul>
 <li>
