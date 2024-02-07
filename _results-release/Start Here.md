@@ -13,8 +13,8 @@ think about <strong><em>What you want to do? Who you want to be? Where do you wa
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/A_Level_Pics.PNG">
 </div>
-<p><strong><a href="/files/v2__STUDENTS__2024_Student_Info_Deck.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Info Deck</a><a href="/files/Student_Info_Deck__17_Feb_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">:</a></strong> Contains
-FAQs, tips for selecting university/courses</p>
+<p><strong><a href="/files/v2__STUDENTS__2024_Student_Info_Deck.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Info Deck:</a></strong> Contains
+FAQs, Tips for selecting universities/courses</p>
 <p><strong><a href="/files/Whats_Next_For_A_Level_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">What's Next: </a></strong>
 <a href="https://go.gov.sg/whats-next-alevel" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-alevel</a>
 </p>
