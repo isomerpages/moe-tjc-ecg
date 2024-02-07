@@ -14,7 +14,7 @@ third_nav_title: Local Universities
 </p>
 <ul>
 <li>
-<p><a href="https://www.singaporetech.edu.sg/sites/default/files/2023-01/SIT_Degree_Programme_Handbook_0.pdf" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Prospectus&nbsp;</u></a>
+<p><a href="https://www.singaporetech.edu.sg/admissions/undergraduate/learners-guide" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Prospectus&nbsp;</u></a>
 </p>
 </li>
 <li>
