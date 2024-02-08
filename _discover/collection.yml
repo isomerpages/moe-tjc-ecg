@@ -1,0 +1,8 @@
+collections:
+  discover:
+    output: true
+    order:
+      - Overview.md
+      - Know Yourself.md
+      - World of Work.md
+      - Portfolio Opportunities.md
