@@ -22,4 +22,3 @@ another person might focus more intently on work experience.</p>
 <p>You will also find the MySkillsFuture students' portal very helpful. Access
 the respective <a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">secondary</a> and
 <a href="https://www.myskillsfuture.gov.sg/content/student/en/preu.html" rel="noopener noreferrer nofollow" target="_blank">pre-university</a>pages here.</p>
-<p>y</p>
