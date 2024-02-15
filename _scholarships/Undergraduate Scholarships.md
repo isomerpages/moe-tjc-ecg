@@ -37,20 +37,9 @@ agencies.</p>
 dispel these myths and start living your best life; access the <a href="https://go.gov.sg/scholarshipsproviders" rel="noopener noreferrer nofollow" target="_blank">list of scholarship providers</a> and
 start exploring the many available scholarships you can apply for!</p>
 <p></p>
-<p>There are also two e-magazines on scholarships which you may find helpful.</p>
-<p></p>
-<p>1) Scholarships Guide:</p>
-<p>Scholarship Guide provides comprehensive scholarship information which
-help students lend their ideal scholarship. You can access information
-about the range of scholarships offered by different agencies, organisations
-and institutions <a href="https://scholarshipguide.com.sg/scholarship/search" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.&nbsp;</p>
-<p>An online version of the Scholarship Guide Magazine, which contains scholarships
-information and sharing by past scholars, can be accessed at link <a href="https://blog.scholarshipguide.com.sg/category/e-magazine/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
-<p></p>
-<p>2) Brightsparks similarly provides comprehensive information about the
-different scholarships available. You can access these information <a href="https://brightsparks.com.sg/searchScholarships.php" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.&nbsp;</p>
-<p>An online version of the Brightsparks Magazine, which contains scholarships
-information and sharing by past scholars, can be accessed <a href="https://brightsparks.com.sg/magazine/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.&nbsp;</p>
+<p>You can also navigate to the resources <a href="https://www.ecg.temasekjc.moe.edu.sg/scholarships/resources" rel="noopener noreferrer nofollow" target="_blank">page</a> to
+access e-magazines and an in-house application guide for the BrightSparks
+Portal!</p>
 <p></p>
 <p></p>
 <p></p>
