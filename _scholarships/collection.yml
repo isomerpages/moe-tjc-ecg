@@ -2,6 +2,7 @@ collections:
   scholarships:
     output: true
     order:
+      - Resources.md
       - Overview of Scholarships.md
       - Secondary School Scholarships.md
       - Pre University Scholarships.md
