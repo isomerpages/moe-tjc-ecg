@@ -15,7 +15,8 @@ your education and career decisions, it is important for you to know what
 you value.</p>
 <p>Take the Work Values Assessment on the MySkillsFuture student portal.
 Access the <a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary/assessment/take-assessment.html?TakeValue=SWV,drag" rel="noopener noreferrer nofollow" target="_blank">secondary</a> and
-<a href="https://www.myskillsfuture.gov.sg/content/student/en/preu/assessment/take-assessment.html?TakeValue=SWV,classic" rel="noopener noreferrer nofollow" target="_blank">pre-university</a>assessments respectively.</p>
+<a href="https://www.myskillsfuture.gov.sg/content/student/en/preu/assessment/take-assessment.html?TakeValue=SWV,classic" rel="noopener noreferrer nofollow" target="_blank">pre-university</a>assessments respectively. You need to log in into MySkillsFuture
+student portal before accessing the links.</p>
 <h4>Interests</h4>
 <p>are attitudes characterised by a need or desire that enables an individual
 to give specific attention to something that is significant to him/her.
@@ -80,7 +81,8 @@ Artistic, Social, Enterprising and Conventional. Find out more <a href="https://
 </table>
 <p>You can take the RIASEC assessment for interests and skills and see if
 they converge, or look up matching job roles for your RIASEC profile on
-the MySkillsFuture students' portal.</p>
+the MySkillsFuture students' portal. You need to log in into MySkillsFuture
+student portal before accessing the links.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/riasec_myskillsfuture.png">

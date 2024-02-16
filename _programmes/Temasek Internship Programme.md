@@ -140,22 +140,37 @@ in order to achieve synergy in this programme.</p>
 <br>and Samiha Hossain - CG 11/20</p>
 <h4></h4>
 <h4><a href="https://youtu.be/umEsY8Vbp84" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - HEALTHCARE (TTSH RHEUMATOLOGY)</a></h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/umEsY8Vbp84?si=59-yauXvnzu2xdfE"></iframe>
+</div>
 <p>by Ansel Tang Shao Pin - CG 22/19</p>
 <h4></h4>
 <h4><a href="https://youtu.be/S-UU3oD1fBs" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - HEALTHCARE (TTSH EYE CENTRE)</a></h4>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/S-UU3oD1fBs?si=Qnh1pIFz7bocgfAN"></iframe>
+</div>
 <p>by Nur Farisah Syahirah Bte M S - CG 22/19 and Cheryl Pang Xue Le - CG
 22/19</p>
 <h4></h4>
 <h4><a href="https://youtu.be/Pa1TH0Hk_sY" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - HOSPITALITY (CONRAD CENTENNIAL SINGAPORE)</a></h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Pa1TH0Hk_sY?si=TVbFVhuBeo1JdlDw"></iframe>
+</div>
 <p>by Esther Yue En Qi - CG 02/19</p>
 <h4></h4>
 <h4><a href="https://drive.google.com/file/d/18KisQNVl9qDlU6A8YsgRIOOS54hOZ_c_/view" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - LAW (TITO ISAAC AND CO LLP)</a></h4>
 <p>by Kim Sang Ah - CG 14/20</p>
 <h4></h4>
-<h4><a href="https://youtu.be/2q_zGRVDzHI" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - LIFE SCIENCES</a></h4>
+<h4><a href="https://youtu.be/2q_zGRVDzHI" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - LIFE SCIENCES (SCIENCE CENTRE)</a></h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2q_zGRVDzHI?si=69cpdTkkh1MqBcPB"></iframe>
+</div>
 <p>by Jenna Teo Hui Yun - CG 22/19</p>
 <h4></h4>
 <h4><a href="https://youtu.be/xpX9KkykhTM" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - SAL JC LAW PROGRAMME</a></h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xpX9KkykhTM?si=KOlpMcV8UTBe6Xkc"></iframe>
+</div>
 <p>by Nur Diyanah Bte Hasan Malik
 <br>- CG 06/19</p>
 <h4></h4>
