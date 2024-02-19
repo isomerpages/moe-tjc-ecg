@@ -6,7 +6,7 @@ description: ""
 ---
 <h4><strong>Congratulations! Class of 2023</strong></h4>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTgYJqYkZ0uxSHxM8lO9D2b8XxH-FIuXtqbQYd-1KpwaKSzh4Q3ZCNyI2WnGSNxMQ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTgYJqYkZ0uxSHxM8lO9D2b8XxH-FIuXtqbQYd-1KpwaKSzh4Q3ZCNyI2WnGSNxMQ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>The GCE A-Level is not the destination. It is part of the process of learning
 and growing. Before you embark upon your next higher education journey,
