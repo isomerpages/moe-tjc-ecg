@@ -5,20 +5,19 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Congratulations! Class of 2023</strong></h4>
-<div class="iframe-wrapper">
-<iframe height="379" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTgYJqYkZ0uxSHxM8lO9D2b8XxH-FIuXtqbQYd-1KpwaKSzh4Q3ZCNyI2WnGSNxMQ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <p>The GCE A-Level is not the destination. It is part of the process of learning
 and growing. Before you embark upon your next higher education journey,
 think about <strong><em>What you want to do? Who you want to be? Where do you want to go? and How do you get there?&nbsp;</em></strong>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/A_Level_Pics.PNG">
+<div class="iframe-wrapper">
+<iframe height="379" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTgYJqYkZ0uxSHxM8lO9D2b8XxH-FIuXtqbQYd-1KpwaKSzh4Q3ZCNyI2WnGSNxMQ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p><strong>Student Info Deck</strong>: Contains FAQs, Tips for selecting
 universities/courses</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Whats Next" src="/images/What_Next_Pic.PNG">
+</div>
 <p><strong><a href="/files/Whats_Next_For_A_Level_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">What's Next: </a></strong>
 <a href="https://go.gov.sg/whats-next-alevel" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-alevel</a>
 </p>
