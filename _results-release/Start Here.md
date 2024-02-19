@@ -16,7 +16,7 @@ think about <strong><em>What you want to do? Who you want to be? Where do you wa
 universities/courses</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Whats Next" src="/images/What_Next_Pic.PNG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What_Next_v2.png">
 </div>
 <p><strong><a href="/files/Whats_Next_For_A_Level_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">What's Next: </a></strong>
 <a href="https://go.gov.sg/whats-next-alevel" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-alevel</a>
