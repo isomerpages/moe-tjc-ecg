@@ -1,0 +1,14 @@
+logo: /images/tjc_logo.png
+links:
+  - title: Contact Us
+    url: /contact-us/
+  - title: Discover
+    collection: discover
+  - title: Programmes and Events
+    collection: programmes
+  - title: Higher Education
+    collection: higher-education
+  - title: Scholarships
+    collection: scholarships
+  - title: Release of Results
+    collection: results-release
