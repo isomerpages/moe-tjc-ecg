@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: ECG @ TJC
+title: ECG@TJC
 description: Temasek Junior College Education and Career Guidance Microsite
 image: /images/tjc_logo.png
 permalink: /
