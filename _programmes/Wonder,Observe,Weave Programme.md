@@ -1,5 +1,5 @@
 ---
-title: Weave,Observe,Wonder Programme
+title: Wonder,Observe,Weave Programme
 permalink: /programmes/secondary/wow/
 variant: tiptap
 description: ""

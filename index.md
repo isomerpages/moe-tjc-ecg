@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+title: ECG@TJC
+description: Temasek Junior College Education and Career Guidance Microsite
+image: /images/tjc_logo.png
 permalink: /
 notification: Welcome to Education and Career Guidance @ Temasek Junior College!
 sections:
