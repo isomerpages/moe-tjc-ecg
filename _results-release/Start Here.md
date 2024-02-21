@@ -42,9 +42,9 @@ universities/courses</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/So_WhatsNext_.PNG">
 </div>
-<p>To further support your post-As journey, TJ Alumnus Sheak Hoy Yip (06/20)
-and Charlotte Lee (01/20) will be releasing a series of podcasts entitled<em> </em><strong><em>“So… What’s Next?”</em></strong><em> </em>over
-the next month. Covering a range of topics from higher education to scholarships
-with seniors and teachers, you can check out their <strong><a href="https://soooowhatsnext.wixsite.com/home" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>podcasts here</u></a></strong>!</p>
+<p>To further support your post-As journey, a team of TJC alumnus has released
+two seasons of podcasts and a series of written articles covering local
+and overseas universities, various majors and scholarships with the seniors
+and teachers, you can check out their <strong><a href="https://soooowhatsnext.wixsite.com/home" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>podcasts here</u></a></strong>!</p>
 <p></p>
 <p></p>
