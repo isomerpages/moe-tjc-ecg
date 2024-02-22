@@ -29,6 +29,10 @@ third_nav_title: Local Universities
 </p>
 </li>
 <li>
+<p><a href="https://admissions.smu.edu.sg/admissions-requirements/singapore-cambridge-gce-levels" rel="noopener noreferrer nofollow" target="_blank">Subject Pre-requisites</a>
+</p>
+</li>
+<li>
 <p><a href="https://admissions.smu.edu.sg/admissions-requirements/indicative-grade-profile" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Indicative Grade Profile</u></a>
 </p>
 </li>
