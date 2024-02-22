@@ -19,6 +19,10 @@ third_nav_title: Local Universities
 </p>
 </li>
 <li>
+<p><a href="https://www.sutd.edu.sg/Admissions/Undergraduate/Application/Admission-Requirements/Singapore-Cambridge-GCE-A-Level" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Admission Requirements</u></a>
+</p>
+</li>
+<li>
 <p><a href="https://www.sutd.edu.sg/Admissions/Undergraduate/Application/Application-Guide" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Application Guide</u></a>&nbsp;</p>
 </li>
 <li>
@@ -27,10 +31,6 @@ third_nav_title: Local Universities
 </li>
 <li>
 <p><a href="https://www.sutd.edu.sg/Admissions/Undergraduate/Financing-Your-Studies/Financial-Aid" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Financial Assistance</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.sutd.edu.sg/Admissions/Undergraduate/Application/Admission-Requirements/Singapore-Cambridge-GCE-A-Level" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Admission Requirements</u></a>
 </p>
 </li>
 <li>
