@@ -26,6 +26,10 @@ third_nav_title: Local Universities
 </p>
 </li>
 <li>
+<p><a href="https://www.nus.edu.sg/oam/admissions/singapore-cambridge-gce-a-level/programme-prerequisites" rel="noopener noreferrer nofollow" target="_blank">Subject Pre-requisites</a>
+</p>
+</li>
+<li>
 <p><a href="https://www.nus.edu.sg/oam/undergraduate-programmes/indicative-grade-profile-(igp)" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Indicative Grade Profile</u></a>
 </p>
 </li>
