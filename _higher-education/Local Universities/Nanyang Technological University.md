@@ -59,7 +59,7 @@ subject pre-requisites)</p>
 </p>
 </li>
 </ul>
-<p>🎓<a href="https://www.moe.gov.sg/-/media/files/post-secondary/ges-2022/web-publication-ntu-ges-2022.ashx" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u> Graduate Employment Survey 2022</u></a>
+<p>🎓<a href="https://www.moe.gov.sg/-/media/files/post-secondary/ges-2023/web-publication-ntu-ges-2023.ashx" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u> Graduate Employment Survey 2023</u></a>
 </p>
 <p>📞 <a href="https://www.ntu.edu.sg/about-us/contact-us" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Contact Admissions</u></a>
 </p>
