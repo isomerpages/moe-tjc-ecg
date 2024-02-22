@@ -32,7 +32,7 @@ subject pre-requisites)</p>
 </p>
 </li>
 <li>
-<p><a href="https://nie-microsite.webflow.io/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>NIE Teaching Scholars Programme&nbsp;</u></a>
+<p><a href="https://www.ntu.edu.sg/nie" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>NIE Teaching Scholars Programme&nbsp;</u></a>
 </p>
 </li>
 <li>
