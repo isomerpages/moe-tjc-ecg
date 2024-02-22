@@ -41,15 +41,16 @@ third_nav_title: Local Universities
 </p>
 </li>
 <li>
-<p>NUS <a href="https://www.nus.edu.sg/oam/undergraduate-programmes/special-programmes" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Special Programmes </u></a>
+<p>NUS <a href="https://www.nus.edu.sg/oam/undergraduate-programmes/special-programmes" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Special Programmes</u></a>
 </p>
 </li>
 <li>
 <p><a href="https://nus.edu.sg/registrar/academic-information-policies/undergraduate-students/special-programmes/double-major-programmes" rel="noopener noreferrer nofollow" target="_blank">Double Majors</a> |
-<a href="https://nus.edu.sg/registrar/academic-information-policies/undergraduate-students/special-programmes/minor-programmes" rel="noopener noreferrer nofollow" target="_blank">Minors</a>|</p>
+<a href="https://nus.edu.sg/registrar/academic-information-policies/undergraduate-students/special-programmes/minor-programmes" rel="noopener noreferrer nofollow" target="_blank">Minors</a>
+</p>
 </li>
 <li>
-<p><a href="https://www.nus.edu.sg/oam/scholarships/apply-for-scholarships" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Scholarships</u> </a>
+<p><a href="https://www.nus.edu.sg/oam/scholarships/apply-for-scholarships" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Scholarships</u></a>
 </p>
 </li>
 <li>
