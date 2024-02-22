@@ -26,6 +26,10 @@ third_nav_title: Local Universities
 </p>
 </li>
 <li>
+<p><a href="https://www.nus.edu.sg/oam/admissions/singapore-cambridge-gce-a-level/programme-prerequisites" rel="noopener noreferrer nofollow" target="_blank">Subject Pre-requisites</a>
+</p>
+</li>
+<li>
 <p><a href="https://www.nus.edu.sg/oam/undergraduate-programmes/indicative-grade-profile-(igp)" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Indicative Grade Profile</u></a>
 </p>
 </li>
@@ -41,13 +45,24 @@ third_nav_title: Local Universities
 </p>
 </li>
 <li>
-<p>NUS <a href="https://www.nus.edu.sg/oam/undergraduate-programmes/special-programmes" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Special Programmes </u></a>|
-<a href="https://www.nus.edu.sg/oam/scholarships/apply-for-scholarships" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Scholarships</u> 
-</a>| <a href="https://www.nus.edu.sg/oam/financial-aid" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Financial Aid</u></a>
+<p><a href="https://www.nus.edu.sg/oam/undergraduate-programmes/special-programmes" rel="noopener noreferrer nofollow" target="_blank">NUS Special Programmes</a>
 </p>
 </li>
 <li>
-<p>🎓 <a href="https://www.moe.gov.sg/-/media/files/post-secondary/ges-2022/web-publication-nus-ges-2022.ashx" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Graduate Employment Survey 2022</u></a>
+<p><a href="https://nus.edu.sg/registrar/academic-information-policies/undergraduate-students/special-programmes/double-major-programmes" rel="noopener noreferrer nofollow" target="_blank">Double Majors</a> |
+<a href="https://nus.edu.sg/registrar/academic-information-policies/undergraduate-students/special-programmes/minor-programmes" rel="noopener noreferrer nofollow" target="_blank">Minors</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.nus.edu.sg/oam/scholarships/apply-for-scholarships" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Scholarships</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.nus.edu.sg/oam/financial-aid" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Financial Aid</u></a>
+</p>
+</li>
+<li>
+<p>🎓 <a href="https://www.moe.gov.sg/-/media/files/post-secondary/ges-2023/web-publication-nus-ges-2023.ashx" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Graduate Employment Survey 2023</u></a>
 </p>
 </li>
 <li>

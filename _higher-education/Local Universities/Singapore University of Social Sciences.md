@@ -51,7 +51,7 @@ on <strong>31 Mar 2024</strong>
 </p>
 </li>
 <li>
-<p>🎓 <a href="https://www.suss.edu.sg/about-suss/why-choose-suss/graduate-employment-survey" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Graduate Employment Survey 2022</u></a>
+<p>🎓 <a href="https://www.moe.gov.sg/-/media/files/post-secondary/ges-2023/web-publication-suss-ges-2023.ashx" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Graduate Employment Survey 2023</u></a>
 </p>
 </li>
 <li>
