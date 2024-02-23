@@ -41,20 +41,24 @@ third_nav_title: Local Universities
 </p>
 </li>
 <li>
-<p><a href="https://www.nus.edu.sg/oam/apply-to-nus/when-you-apply/mtl-related-courses" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>NUS MTL Bonus Points for CHS admission</u></a>
+<p><a href="https://www.askstudentservice.nus.edu.sg/app/answers/detail/a_id/21/~/bonus-points-for-mother-tongue-language-related-programmes" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>NUS MTL Bonus Points for CHS admission</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.nus.edu.sg/oam/undergraduate-programmes/special-programmes" rel="noopener noreferrer nofollow" target="_blank">NUS Special Programmes</a>
+<p><a href="https://nus.edu.sg/registrar/academic-information-policies/undergraduate-students/special-programmes" rel="noopener noreferrer nofollow" target="_blank">NUS Special Programmes</a>
 </p>
 </li>
 <li>
-<p><a href="https://nus.edu.sg/registrar/academic-information-policies/undergraduate-students/special-programmes/double-major-programmes" rel="noopener noreferrer nofollow" target="_blank">Double Majors</a> |
-<a href="https://nus.edu.sg/registrar/academic-information-policies/undergraduate-students/special-programmes/minor-programmes" rel="noopener noreferrer nofollow" target="_blank">Minors</a>
+<p><a href="https://nus.edu.sg/registrar/academic-information-policies/non-graduating/modular-system" rel="noopener noreferrer nofollow" target="_blank">NUS Modular System</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.nus.edu.sg/oam/scholarships/apply-for-scholarships" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Scholarships</u></a>
+<p><a href="https://nus.edu.sg/registrar/academic-information-policies/undergraduate-students/special-programmes/double-major-programmes" rel="noopener noreferrer nofollow" target="_blank">Double Major</a> |
+<a href="https://nus.edu.sg/registrar/academic-information-policies/undergraduate-students/special-programmes/minor-programmes" rel="noopener noreferrer nofollow" target="_blank">Minor</a>
+</p>
+</li>
+<li>
+<p><a href="https://nus.edu.sg/oam/scholarships" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Scholarships</u></a>
 </p>
 </li>
 <li>
