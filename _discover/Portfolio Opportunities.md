@@ -93,6 +93,10 @@ more inspirations!</p>
 <p><strong><a href="https://www.probono.sg/get-involved/volunteer/" rel="noopener noreferrer nofollow" target="_blank">Pro Bono SG</a></strong>
 </p>
 </li>
+<li>
+<p><strong><a href="https://www.aware.org.sg/" rel="noopener noreferrer nofollow" target="_blank">AWARE</a></strong>
+</p>
+</li>
 </ul>
 <p></p>
 <p><strong><em><u>Free Online Courses</u></em></strong>
