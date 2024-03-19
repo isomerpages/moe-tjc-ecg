@@ -78,7 +78,11 @@ more inspirations!</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.pa.gov.sg/our-volunteers/volunteering-opportunities/" rel="noopener noreferrer nofollow" target="_blank">People's Association</a> </strong>
+<p><strong><a href="https://www.bookcouncil.sg/get-involved/join-us" rel="noopener noreferrer nofollow" target="_blank">Singapore Book Council</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.pa.gov.sg/our-volunteers/volunteering-opportunities/" rel="noopener noreferrer nofollow" target="_blank">People's Association</a></strong>
 </p>
 </li>
 <li>
@@ -148,7 +152,7 @@ more inspirations!</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.sal.org.sg/events/JCLP2023" rel="noopener noreferrer nofollow" target="_blank">Singapore Academy of Law JC Law Programme (Annual)</a> </strong>
+<p><strong><a href="https://www.sal.org.sg/events/JCLP2023" rel="noopener noreferrer nofollow" target="_blank">Singapore Academy of Law JC Law Programme (Annual)</a></strong>
 </p>
 </li>
 <li>
@@ -162,6 +166,10 @@ more inspirations!</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong><a href="https://www.johnlockeinstitute.com/essay-competition" rel="noopener noreferrer nofollow" target="_blank">John Locke Essay Competition</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.royalcwsociety.org/essay-competition" rel="noopener noreferrer nofollow" target="_blank">Queen's Commonwealth Essay Competition</a></strong>
 </p>
 </li>
 <li>
