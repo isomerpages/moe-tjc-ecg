@@ -176,6 +176,10 @@ more inspirations!</p>
 </p>
 </li>
 <li>
+<p><strong><a href="https://www.reach.gov.sg/Participate/singapore-model-parliament-2023" rel="noopener noreferrer nofollow" target="_blank">Singapore Model Parliament</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://www.toastmasters.org/find-a-club" rel="noopener noreferrer nofollow" target="_blank">Toastmasters</a></strong>
 </p>
 <p></p>
@@ -194,6 +198,14 @@ more inspirations!</p>
 </li>
 <li>
 <p><strong><a href="https://www.science.edu.sg/for-schools/competitions" rel="noopener noreferrer nofollow" target="_blank">Science Centre Singapore Competition</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://snic.org.sg/index.php/event/sjcho" rel="noopener noreferrer nofollow" target="_blank">Singapore Junior Chemistry Olympiad</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://sibiol.org.sg/activities/biology-olympiads/" rel="noopener noreferrer nofollow" target="_blank">Singapore Junior Biology Olympiad / Singapore Biology Olympiad</a></strong>
 </p>
 </li>
 </ul>
