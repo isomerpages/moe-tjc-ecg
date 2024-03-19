@@ -82,6 +82,10 @@ more inspirations!</p>
 </p>
 </li>
 <li>
+<p><strong><a href="https://www.singhealth.com.sg/SCH/volunteer-give/volunteer-with-us" rel="noopener noreferrer nofollow" target="_blank">SingHealth Community Hospitals</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://www.bookcouncil.sg/get-involved/join-us" rel="noopener noreferrer nofollow" target="_blank">Singapore Book Council</a></strong>
 </p>
 </li>
@@ -181,7 +185,8 @@ more inspirations!</p>
 </p>
 </li>
 <li>
-<p></p>
+<p><strong><a href="https://www.science.edu.sg/for-schools/competitions" rel="noopener noreferrer nofollow" target="_blank">Science Centre Singapore Competition</a></strong>
+</p>
 </li>
 </ul>
 <p></p>
