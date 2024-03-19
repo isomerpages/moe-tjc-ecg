@@ -78,6 +78,10 @@ more inspirations!</p>
 </p>
 </li>
 <li>
+<p><strong><a href="https://www.science.edu.sg/visit-us/join-us/volunteering" rel="noopener noreferrer nofollow" target="_blank">Science Centre Singapore</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://www.bookcouncil.sg/get-involved/join-us" rel="noopener noreferrer nofollow" target="_blank">Singapore Book Council</a></strong>
 </p>
 </li>
