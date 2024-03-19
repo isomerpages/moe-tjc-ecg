@@ -44,11 +44,19 @@ more inspirations!</p>
 </p>
 </li>
 <li>
+<p><strong><a href="https://jobscentral.com.sg/" rel="noopener noreferrer nofollow" target="_blank">JobsCentral</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://sg.indeed.com/" rel="noopener noreferrer nofollow" target="_blank">Indeed</a></strong>
 </p>
 </li>
 <li>
 <p><strong><a href="https://www.mfa.gov.sg/Career/Internships/Pre-University" rel="noopener noreferrer nofollow" target="_blank">Ministry of Foreign Affairs Pre-U Internship Programme</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.careers.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Careers@Gov</a></strong>
 </p>
 </li>
 </ul>
