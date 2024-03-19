@@ -86,6 +86,14 @@ more inspirations!</p>
 </p>
 </li>
 <li>
+<p><strong><a href="https://www.kkh.com.sg/about-kkh/volunteering-at-kkh" rel="noopener noreferrer nofollow" target="_blank">KK Women's &amp; Children's Hospital</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.sgh.com.sg/about-us/volunteer" rel="noopener noreferrer nofollow" target="_blank">Singapore General Hospital</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://www.bookcouncil.sg/get-involved/join-us" rel="noopener noreferrer nofollow" target="_blank">Singapore Book Council</a></strong>
 </p>
 </li>
