@@ -121,6 +121,18 @@ more inspirations!</p>
 <p><strong><a href="https://www.aware.org.sg/" rel="noopener noreferrer nofollow" target="_blank">AWARE</a></strong>
 </p>
 </li>
+<li>
+<p><strong><a href="https://acres.org.sg/volunteer/volunteer-with-us/#" rel="noopener noreferrer nofollow" target="_blank">ACRES</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://portal.spca.org.sg/Volunteer/Create" rel="noopener noreferrer nofollow" target="_blank">SPCA</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://rdasingapore.org/support-us/be-a-volunteer/" rel="noopener noreferrer nofollow" target="_blank">Riding for the Disabled Association (RDA)</a></strong>
+</p>
+</li>
 </ul>
 <p></p>
 <p><strong><em><u>Free Online Courses</u></em></strong>
