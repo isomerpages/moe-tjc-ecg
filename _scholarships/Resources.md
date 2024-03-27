@@ -33,4 +33,20 @@ application!</p>
 </p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The Straits Times: Scholars' Choice" src="/images/Scholars_Choice_Pic.png">
+</div>
+<p><strong><a href="https://www.scholarschoice.com.sg/" rel="noopener noreferrer nofollow" target="_blank">The Straits Times: Scholars' Choice</a></strong>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SGIS MOE" src="/images/SGIS_MOE.png">
+</div>
+<p><strong><a href="https://www.moe.gov.sg/sgis/about-sgis" rel="noopener noreferrer nofollow" target="_blank">SGIS MOE </a></strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PSC Scholarship" src="/images/PSC.png">
+</div>
 <p></p>
