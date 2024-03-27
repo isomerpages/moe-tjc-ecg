@@ -25,7 +25,6 @@ information and sharing by past scholars, can be accessed at link <a href="https
 scholarships available. You can access these information <a href="https://brightsparks.com.sg/searchScholarships.php" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.&nbsp;</p>
 <p>An online version of the Brightsparks Magazine, which contains scholarships
 information and sharing by past scholars, can be accessed <a href="https://brightsparks.com.sg/magazine/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.&nbsp;</p>
-<p></p>
 <h3>Submitting an Application on Brightsparks</h3>
 <p>An in-house guide that offers some tips on how you could fill in a BrightSparks
 application!</p>
@@ -39,10 +38,6 @@ application!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SGIS MOE" src="/images/SGIS_MOE.png">
 </div>
+<p></p>
 <p><strong><a href="https://www.moe.gov.sg/sgis/about-sgis" rel="noopener noreferrer nofollow" target="_blank">SGIS MOE</a></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PSC Scholarship" src="/images/PSC.png">
-</div>
-<p><a href="https://www.psc.gov.sg/scholarships" rel="noopener noreferrer nofollow" target="_blank">SC Scholarship</a>
 </p>
