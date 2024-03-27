@@ -38,6 +38,5 @@ application!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SGIS MOE" src="/images/SGIS_MOE.png">
 </div>
-<p></p>
 <p><strong><a href="https://www.moe.gov.sg/sgis/about-sgis" rel="noopener noreferrer nofollow" target="_blank">SGIS MOE</a></strong>
 </p>
