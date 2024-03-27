@@ -43,10 +43,11 @@ application!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SGIS MOE" src="/images/SGIS_MOE.png">
 </div>
-<p><strong><a href="https://www.moe.gov.sg/sgis/about-sgis" rel="noopener noreferrer nofollow" target="_blank">SGIS MOE </a></strong>
+<p><strong><a href="https://www.moe.gov.sg/sgis/about-sgis" rel="noopener noreferrer nofollow" target="_blank">SGIS MOE</a></strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="PSC Scholarship" src="/images/PSC.png">
 </div>
-<p></p>
+<p><a href="https://www.psc.gov.sg/scholarships" rel="noopener noreferrer nofollow" target="_blank">PSC Scholarship</a>
+</p>
