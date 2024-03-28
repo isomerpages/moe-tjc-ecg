@@ -7,7 +7,7 @@ description: ""
 <p>Here are some resources which can be helpful as you explore scholarships:</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scholarship_Guide_logo.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Scholarship_Guide_logo.jpg">
 </div>
 <h3>Scholarship Guide</h3>
 <p>Scholarship Guide provides comprehensive scholarship information which
@@ -36,7 +36,7 @@ application!</p>
 <p><strong><a href="https://www.scholarschoice.com.sg/" rel="noopener noreferrer nofollow" target="_blank">The Straits Times: Scholars' Choice</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SGIS MOE" src="/images/SGIS_MOE.png">
+<img style="width: 100%;" height="auto" width="100%" alt="SGIS MOE" src="/images/SGIS_MOE.png">
 </div>
 <p><strong><a href="https://www.moe.gov.sg/sgis/about-sgis" rel="noopener noreferrer nofollow" target="_blank">SGIS MOE</a></strong>
 </p>
