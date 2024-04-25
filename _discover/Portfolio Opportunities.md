@@ -184,6 +184,10 @@ more inspirations!</p>
 </p>
 </li>
 <li>
+<p><strong><a href="https://www.csa.gov.sg/our-programmes/talents-skills-development/sg-cyber-talent/sg-cyber-youth/youth-cyber-exploration-programme" rel="noopener noreferrer nofollow" target="_blank">Youth Cyber Exploration Programme (YCEP)</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://www.singaporemun.org/" rel="noopener noreferrer nofollow" target="_blank">Singapore Model UN</a></strong>
 </p>
 </li>
