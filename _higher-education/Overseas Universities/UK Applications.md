@@ -22,7 +22,7 @@ third_nav_title: Overseas Universities
 </ul>
 <p></p>
 <p></p>
-<p><strong>Administrative matters (AY2023):</strong>
+<p><strong>Administrative matters (AY2024):</strong>
 </p>
 <p>Please read through the guidelines carefully and take note of the deadlines
 to submit your documents.</p>
