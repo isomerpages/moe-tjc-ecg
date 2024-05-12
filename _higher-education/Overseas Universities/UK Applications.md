@@ -22,25 +22,25 @@ third_nav_title: Overseas Universities
 </ul>
 <p></p>
 <p></p>
-<p><strong>Administrative matters (AY2023):</strong>
+<p><strong>Administrative matters (AY2024):</strong>
 </p>
 <p>Please read through the guidelines carefully and take note of the deadlines
 to submit your documents.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://docs.google.com/presentation/d/1BN9xG7WX5K4GP2DZCIN5yRA2TfjhnpSE/edit?usp=sharing&amp;ouid=115803237660093668302&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">Guidelines to considering a degree in UK and key internal deadlines</a>
+<p><a href="https://drive.google.com/file/d/1BnE9vBaEZ0XV0bocb03ykS742Rki4UQP/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Guidelines to considering a degree in UK and key internal deadlines</a>
 </p>
 </li>
 <li>
-<p><a href="https://docs.google.com/document/d/1O_pBjeUgGQHPlim0b_vzf1qUaMIwFLP1/edit?usp=sharing&amp;ouid=115803237660093668302&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">TJC UK Form 2023 to be signed and submitted</a>
+<p><a href="https://docs.google.com/document/d/1Zj2beNFFrYANENsWnrV7c7OtuTxAAqAb/edit?usp=drive_link&amp;ouid=115803237660093668302&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">TJC UK Form 2024 to be signed and submitted</a>
 </p>
 </li>
 <li>
-<p><a href="https://docs.google.com/document/d/180IaiutQa6wL7UsZfcqH27vMdkPw8Xg4/edit?usp=sharing&amp;ouid=115803237660093668302&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">TJC Guide to UK Applications (UCAS) 2023</a>
+<p><a href="https://drive.google.com/file/d/1JYujOOdkLzlbuahw0r2KnA0t1CJZ73EP/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">TJC Guide to UK Applications (UCAS) 2024</a>
 </p>
 </li>
 <li>
-<p><a href="https://docs.google.com/presentation/d/1YdOmotKJYs3tgQKc91X2Iq1TH_wlHgnt/edit?usp=sharing&amp;ouid=115803237660093668302&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">Walkthrough of UCAS Portal &amp; Application 2023</a>
+<p><a href="https://drive.google.com/file/d/1yT-L_zSOIcG1oCdbTxrgxrZnrvQFzRRL/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Walkthrough of UCAS Portal &amp; Application 2024</a>
 </p>
 </li>
 <li>
@@ -56,13 +56,12 @@ to submit your documents.</p>
 <p></p>
 <p><strong>Admission &amp; Assessment Tests</strong>
 </p>
-<p><a href="https://www.relc.org.sg/assessments-and-certifications/" rel="noopener noreferrer nofollow" target="_blank">https://www.relc.org.sg/assessments-and-certifications/</a>
+<p><a href="https://www.undergraduate.study.cam.ac.uk/apply/how/admission-tests" rel="noopener noreferrer nofollow" target="_blank">Admission Tests for Cambridge (UCAT/LNAT/ESAT/TMUA/Others)</a>
 </p>
-<p><strong><u>Note</u></strong> : Cambridge Assessment Admissions Testing
-is to withdraw from running a series of university admissions exams <strong>with effect from 2024-5</strong>. This
-includes BMAT (medicine), ENGAA (engineering), NSAA (natural sciences)
-and TMUA (mathematical skills) tests. Click on the link <a href="https://www.admissionstesting.org/news/view/reforms-to-cambridge-assessment-admissions-testing-from-2024/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Reforms to Cambridge Assessment Admissions Testing from 2024</u></a> for
-more details.</p>
+<p><a href="https://www.ox.ac.uk/admissions/undergraduate/applying-to-oxford/guide/admissions-tests" rel="noopener noreferrer nofollow" target="_blank">Admission Tests for Oxford</a>
+</p>
+<p><a href="https://www.ucas.com/undergraduate/applying-university/admissions-tests" rel="noopener noreferrer nofollow" target="_blank">Other UK Universities</a>
+</p>
 <p></p>
 <p><strong>Sharing by Alumni</strong>
 </p>
