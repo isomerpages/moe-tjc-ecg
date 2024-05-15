@@ -56,6 +56,10 @@ more inspirations!</p>
 </p>
 </li>
 <li>
+<p><strong><a href="https://www.mnd.gov.sg/join-us/internship-programme" rel="noopener noreferrer nofollow" target="_blank">Ministry of National Development Internship Programme</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://www.careers.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Careers@Gov</a></strong>
 </p>
 </li>
