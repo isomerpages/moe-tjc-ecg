@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Overseas Universities
 ---
-<p><strong>Overview of the 2023 Overseas University Application Process and Deadlines</strong>
+<p><strong>Overview of the 2024 Overseas University Application Process and Deadlines</strong>
 </p>
 <p><strong><a href="/files/Overview_of_Overseas_University_Applications_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for the overview</a></strong>
 </p>
