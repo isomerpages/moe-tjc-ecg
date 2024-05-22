@@ -28,7 +28,7 @@ third_nav_title: Overseas Universities
 to submit your documents.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/1__2023_Overseas_Higher_Ed_Briefing_Slides_US.pdf" rel="noopener noreferrer nofollow" target="_blank">Guidelines to applying to US universities and key internal deadlines</a>
+<p><a href="/files/2024_Overseas_Higher_Ed_Briefing_Slides_US.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Guidelines to applying to US universities</a>
 </p>
 </li>
 <li>
