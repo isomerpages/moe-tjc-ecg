@@ -10,7 +10,7 @@ third_nav_title: Overseas Universities
 <p><strong><a href="/files/TJC_Overseas_University_Education_Application_Overview_2024_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for the overview</a></strong>
 </p>
 <p></p>
-<p><strong>***Join the </strong><a href="https://t.me/+2sZS6hV70K00NDVl" rel="noopener noreferrer nofollow" target="_blank">TJC Overseas University Telegram Channel</a><strong> for more updates***</strong>
+<p><strong>***Join the </strong><a href="https://t.me/+L7ol0u9QD5o3MWNl" rel="noopener noreferrer nofollow" target="_blank">TJC Overseas University Telegram Channel</a><strong> for more updates***</strong>
 </p>
 <p></p>
 <p><strong>Teachers in charge</strong>:</p>
