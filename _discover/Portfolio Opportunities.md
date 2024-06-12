@@ -52,6 +52,22 @@ more inspirations!</p>
 </p>
 </li>
 <li>
+<p><strong><a href="https://www.csit.gov.sg/join-us/internships" rel="noopener noreferrer nofollow" target="_blank">Centre of Strategic Infocomm Technologies (CSIT) Internship</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.dsta.gov.sg/join-us/student/internships" rel="noopener noreferrer nofollow" target="_blank">Defence Science and Technology Agency (DSTA) Internship</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://join.dso.org.sg/internships/" rel="noopener noreferrer nofollow" target="_blank">DSO National Laboratories (DSO) Internship</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.enterprisesg.gov.sg/about-us/careers/for-students-and-graduates/internships" rel="noopener noreferrer nofollow" target="_blank">Experience EnterpriseSG Internship</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://www.moe.gov.sg/careers/adjunct-and-relief-schemes/scheme-for-sre" rel="noopener noreferrer nofollow" target="_blank">Ministry of Education (Scheme for Relief Educators)</a></strong>
 </p>
 </li>
