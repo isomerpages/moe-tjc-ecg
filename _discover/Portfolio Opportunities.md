@@ -52,11 +52,19 @@ more inspirations!</p>
 </p>
 </li>
 <li>
+<p><strong><a href="https://www.moe.gov.sg/careers/adjunct-and-relief-schemes/scheme-for-sre" rel="noopener noreferrer nofollow" target="_blank">Ministry of Education (Scheme for Relief Educators)</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://www.mfa.gov.sg/Career/Internships/Pre-University" rel="noopener noreferrer nofollow" target="_blank">Ministry of Foreign Affairs Pre-U Internship Programme</a></strong>
 </p>
 </li>
 <li>
 <p><strong><a href="https://www.mnd.gov.sg/join-us/internship-programme" rel="noopener noreferrer nofollow" target="_blank">Ministry of National Development Internship Programme</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.sla.gov.sg/join-us/internship" rel="noopener noreferrer nofollow" target="_blank">Singapore Land Authority (SLA) Internship</a></strong>
 </p>
 </li>
 <li>
