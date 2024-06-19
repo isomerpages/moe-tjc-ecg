@@ -15,7 +15,7 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Mentorship</u></em></strong>
+<p><strong><em><u>Mentorship<sup>2</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -28,7 +28,7 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Internships/Part-time Jobs</u></em></strong>
+<p><strong><em><u>Internships/Part-time Jobs<sup>15</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -52,6 +52,30 @@ more inspirations!</p>
 </p>
 </li>
 <li>
+<p><strong><a href="https://www.htx.gov.sg/join-us/internships" rel="noopener noreferrer nofollow" target="_blank">HTX Internship Programme</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.csit.gov.sg/join-us/internships" rel="noopener noreferrer nofollow" target="_blank">Centre of Strategic Infocomm Technologies (CSIT) Internship</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.dsta.gov.sg/join-us/student/internships" rel="noopener noreferrer nofollow" target="_blank">Defence Science and Technology Agency (DSTA) Internship</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://join.dso.org.sg/internships/" rel="noopener noreferrer nofollow" target="_blank">DSO National Laboratories (DSO) Internship</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.enterprisesg.gov.sg/about-us/careers/for-students-and-graduates/internships" rel="noopener noreferrer nofollow" target="_blank">Experience EnterpriseSG Internship</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.moe.gov.sg/careers/adjunct-and-relief-schemes/scheme-for-sre" rel="noopener noreferrer nofollow" target="_blank">Ministry of Education (Scheme for Relief Educators)</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://www.mfa.gov.sg/Career/Internships/Pre-University" rel="noopener noreferrer nofollow" target="_blank">Ministry of Foreign Affairs Pre-U Internship Programme</a></strong>
 </p>
 </li>
@@ -60,12 +84,16 @@ more inspirations!</p>
 </p>
 </li>
 <li>
+<p><strong><a href="https://www.sla.gov.sg/join-us/internship" rel="noopener noreferrer nofollow" target="_blank">Singapore Land Authority (SLA) Internship</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://www.careers.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Careers@Gov</a></strong>
 </p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Leadership Opportunities</u></em></strong>
+<p><strong><em><u>Leadership Opportunities<sup>1</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -74,7 +102,7 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Volunteering Opportunities</u></em></strong>
+<p><strong><em><u>Volunteering Opportunities<sup>18</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -110,6 +138,10 @@ more inspirations!</p>
 </p>
 </li>
 <li>
+<p><strong><a href="https://www.nlb.gov.sg/main/partner-us/volunteer-with-us" rel="noopener noreferrer nofollow" target="_blank">National Library Board</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://www.pa.gov.sg/our-volunteers/volunteering-opportunities/" rel="noopener noreferrer nofollow" target="_blank">People's Association</a></strong>
 </p>
 </li>
@@ -141,9 +173,13 @@ more inspirations!</p>
 <p><strong><a href="https://rdasingapore.org/support-us/be-a-volunteer/" rel="noopener noreferrer nofollow" target="_blank">Riding for the Disabled Association (RDA)</a></strong>
 </p>
 </li>
+<li>
+<p><strong><a href="https://www.nparks.gov.sg/partner-us/volunteer" rel="noopener noreferrer nofollow" target="_blank">National Parks (NParks)</a></strong>
+</p>
+</li>
 </ul>
 <p></p>
-<p><strong><em><u>Free Online Courses</u></em></strong>
+<p><strong><em><u>Free Online Courses<sup>9</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -184,7 +220,7 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Special Programmes</u></em></strong>
+<p><strong><em><u>Special Programmes<sup>7</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -217,7 +253,7 @@ more inspirations!</p>
 <p></p>
 </li>
 </ul>
-<p><strong><em><u>Competitions</u></em></strong>
+<p><strong><em><u>Competitions<sup>5</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -242,7 +278,7 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Misc</u></em></strong>
+<p><strong><em><u>Misc<sup>6</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -259,6 +295,14 @@ more inspirations!</p>
 </li>
 <li>
 <p><strong><a href="https://www.nyc.gov.sg/omw/dayinthelife" rel="noopener noreferrer nofollow" target="_blank">NYC ~ Day In The Life / Lets Talk / Tasters</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://discover.nyc.gov.sg/Explore-Worlds" rel="noopener noreferrer nofollow" target="_blank">NYC ~ Explore Worlds</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://discover.nyc.gov.sg/Explore-Industries" rel="noopener noreferrer nofollow" target="_blank">NYC ~ Explore Industries</a></strong>
 </p>
 </li>
 </ul>
