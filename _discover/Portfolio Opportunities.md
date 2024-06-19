@@ -278,7 +278,7 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Misc<sup>5</sup></u></em></strong>
+<p><strong><em><u>Misc<sup>6</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
