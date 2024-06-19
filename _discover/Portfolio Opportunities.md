@@ -28,7 +28,7 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Internships/Part-time Jobs<sup>14</sup></u></em></strong>
+<p><strong><em><u>Internships/Part-time Jobs<sup>15</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -49,6 +49,10 @@ more inspirations!</p>
 </li>
 <li>
 <p><strong><a href="https://sg.indeed.com/" rel="noopener noreferrer nofollow" target="_blank">Indeed</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.htx.gov.sg/join-us/internships" rel="noopener noreferrer nofollow" target="_blank">HTX Internship Programme</a></strong>
 </p>
 </li>
 <li>
@@ -274,7 +278,7 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Misc<sup>4</sup></u></em></strong>
+<p><strong><em><u>Misc<sup>5</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
