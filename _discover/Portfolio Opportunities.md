@@ -293,5 +293,9 @@ more inspirations!</p>
 <p><strong><a href="https://www.nyc.gov.sg/omw/dayinthelife" rel="noopener noreferrer nofollow" target="_blank">NYC ~ Day In The Life / Lets Talk / Tasters</a></strong>
 </p>
 </li>
+<li>
+<p><strong><a href="https://discover.nyc.gov.sg/Explore-Worlds" rel="noopener noreferrer nofollow" target="_blank">NYC - Explore Worlds</a></strong>
+</p>
+</li>
 </ul>
 <p></p>
