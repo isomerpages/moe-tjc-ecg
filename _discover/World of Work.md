@@ -40,6 +40,10 @@ what some of these occupations you are interested in entail.</p>
 <li>
 <p><strong><a href="https://www.moe.gov.sg/-/media/files/post-secondary/ges-2023/joint-web-publication-4-aus-ges2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Graduate Employment Survey 2023</a></strong>
 </p>
+</li>
+<li>
+<p><strong><a href="https://www.weforum.org/agenda/2023/08/ai-artificial-intelligence-changing-the-future-of-work-jobs/" rel="noopener noreferrer nofollow" target="_blank">AI: 3 ways artificial intelligence will change the future of work | World Economic Forum (weforum.org)</a></strong>
+</p>
 <p></p>
 </li>
 </ul>
