@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 image: /images/vips.png
 ---
-<h3>Values, Interests, Personality and Skills</h3>
+<h3>Values, Interests, Personality and Skills (VIPS)</h3>
 <h4>Values</h4>
 <p>are a set of moral, social or aesthetic principles that is accepted by
 an individual or the society and has served as a guide to what is good,
