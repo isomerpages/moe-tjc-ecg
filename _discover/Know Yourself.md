@@ -14,9 +14,10 @@ knowledge while others achievement or challenges. As your values will influence
 your education and career decisions, it is important for you to know what
 you value.</p>
 <p>Take the Work Values Assessment on the MySkillsFuture student portal.
-Access the <a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary/assessment/take-assessment.html?TakeValue=SWV,drag" rel="noopener noreferrer nofollow" target="_blank">secondary</a> and
-<a href="https://www.myskillsfuture.gov.sg/content/student/en/preu/assessment/take-assessment.html?TakeValue=SWV,classic" rel="noopener noreferrer nofollow" target="_blank">pre-university</a>assessments respectively. You need to log in into MySkillsFuture
-student portal before accessing the links.</p>
+Access the <a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary/assessment.html" rel="noopener noreferrer nofollow" target="_blank">secondary</a> and
+<a href="https://www.myskillsfuture.gov.sg/content/student/en/preu/assessment.html" rel="noopener noreferrer nofollow" target="_blank">pre-university</a><a href="https://www.myskillsfuture.gov.sg/content/student/en/preu/assessment/take-assessment.html?TakeValue=SWV,classic" rel="noopener noreferrer nofollow" target="_blank"> </a>assessments
+respectively. You need to log in into MySkillsFuture student portal before
+accessing the links.</p>
 <h4>Interests</h4>
 <p>are attitudes characterised by a need or desire that enables an individual
 to give specific attention to something that is significant to him/her.
@@ -38,7 +39,12 @@ your skills and interests.</p>
 <p>Also known as Holland's Six Occupational Types of Personality (1950),
 RIASEC is an acronym which stands for its six dimensions - Realistic, Investigative,
 Artistic, Social, Enterprising and Conventional. Find out more <a href="https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/finding-the-right-career-with-the-abcs-of-riasec.html#:~:text=In%20short%2C%20RIASEC%20is%20an,%2C%20Social%2C%20Enterprising%20and%20Conventional" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -56,11 +62,11 @@ Artistic, Social, Enterprising and Conventional. Find out more <a href="https://
 <p>Secondary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary/assessment/take-assessment.html?TakeValue=KSA,drag" rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/secondary/assessment/take-assessment.html?TakeValue=KSA,drag</a>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary/assessment.html" rel="noopener noreferrer nofollow" target="_blank">Know Yourself (myskillsfuture.gov.sg)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary/assessment/take-assessment.html?TakeValue=KCS,drag" rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/secondary/assessment/take-assessment.html?TakeValue=KCS,drag</a>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary/assessment.html" rel="noopener noreferrer nofollow" target="_blank">Know Yourself (myskillsfuture.gov.sg)</a>
 </p>
 </td>
 </tr>
@@ -69,11 +75,11 @@ Artistic, Social, Enterprising and Conventional. Find out more <a href="https://
 <p>Pre-University</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/preu/assessment/take-assessment.html?TakeValue=KSA,classic" rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/preu/assessment/take-assessment.html?TakeValue=KSA,classic</a>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/preu/assessment.html" rel="noopener noreferrer nofollow" target="_blank">Know Yourself (myskillsfuture.gov.sg)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/preu/assessment/take-assessment.html?TakeValue=KCS,classic" rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/preu/assessment/take-assessment.html?TakeValue=KCS,classic</a>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/preu/assessment.html" rel="noopener noreferrer nofollow" target="_blank">Know Yourself (myskillsfuture.gov.sg)</a>
 </p>
 </td>
 </tr>
