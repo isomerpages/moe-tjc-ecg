@@ -278,7 +278,7 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Misc<sup>6</sup></u></em></strong>
+<p><strong><em><u>Misc<sup>5</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -287,10 +287,6 @@ more inspirations!</p>
 </li>
 <li>
 <p><strong><a href="https://www.nyc.gov.sg/programmes-grants" rel="noopener noreferrer nofollow" target="_blank">National Youth Council (various including leadership, youth panel etc.)</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://www.youthtopia.world/" rel="noopener noreferrer nofollow" target="_blank">Youthopia</a></strong>
 </p>
 </li>
 <li>
