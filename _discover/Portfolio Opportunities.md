@@ -93,6 +93,23 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
+<p><strong><u>Job Shadowing</u><em><u><sup>3</sup></u></em></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://www.ttsh.com.sg/About-TTSH/Careers/Pages/Student-Opportunities.aspx" rel="noopener noreferrer nofollow" target="_blank">Tan Tock Seng Hospital</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.dentistry.nus.edu.sg/Education/fod_jobshadowing.html" rel="noopener noreferrer nofollow" target="_blank">NUS Faculty of Dentistry</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.nuhs.edu.sg/education/Educational-Opportunities-at-NUHS/Pages/Job-Shadowing-at-NUHS.aspx" rel="noopener noreferrer nofollow" target="_blank">NUHS - National University Health System</a></strong>
+</p>
+</li>
+</ul>
+<p></p>
 <p><strong><em><u>Leadership Opportunities<sup>1</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
