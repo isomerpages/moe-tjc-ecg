@@ -290,7 +290,7 @@ more inspirations!</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://youthopia.sg/" rel="noopener noreferrer nofollow" target="_blank">Youthopia</a></strong>
+<p><strong><a href="https://www.youthtopia.world/" rel="noopener noreferrer nofollow" target="_blank">Youthopia</a></strong>
 </p>
 </li>
 <li>
