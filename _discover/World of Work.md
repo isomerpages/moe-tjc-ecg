@@ -32,6 +32,10 @@ what some of these occupations you are interested in entail.</p>
 <li>
 <p><strong><a href="https://www.skillsfuture.gov.sg/skills-framework" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture Framework</a></strong>
 </p>
+</li>
+<li>
+<p><strong><a href="https://content.mycareersfuture.gov.sg/singapore-salary-guide-bold-projections-cautious-approaches/" rel="noopener noreferrer nofollow" target="_blank">Singapore Salary Guide 2024</a></strong>
+</p>
 <p></p>
 </li>
 </ul>
