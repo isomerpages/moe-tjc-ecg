@@ -15,13 +15,9 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Mentorship<sup>2</sup></u></em></strong>
+<p><strong><em><u>Mentorship<sup>1</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
-<li>
-<p><strong><a href="https://mentorship.advisory.sg/" rel="noopener noreferrer nofollow" target="_blank">Advisory Mentorship Programme</a></strong>
-</p>
-</li>
 <li>
 <p><strong><a href="https://mentoring.sg/mentoring-programmes" rel="noopener noreferrer nofollow" target="_blank">Mentoring SG</a></strong>
 </p>
@@ -89,6 +85,23 @@ more inspirations!</p>
 </li>
 <li>
 <p><strong><a href="https://www.careers.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Careers@Gov</a></strong>
+</p>
+</li>
+</ul>
+<p></p>
+<p><strong><em><u>Job Shadowing<sup>3</sup></u></em></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://www.ttsh.com.sg/About-TTSH/Careers/Pages/Student-Opportunities.aspx" rel="noopener noreferrer nofollow" target="_blank">Tan Tock Seng Hospital</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.dentistry.nus.edu.sg/Education/fod_jobshadowing.html" rel="noopener noreferrer nofollow" target="_blank">NUS Faculty of Dentistry</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.nuhs.edu.sg/education/Educational-Opportunities-at-NUHS/Pages/Job-Shadowing-at-NUHS.aspx" rel="noopener noreferrer nofollow" target="_blank">NUHS - National University Health System</a></strong>
 </p>
 </li>
 </ul>
@@ -278,7 +291,7 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Misc<sup>6</sup></u></em></strong>
+<p><strong><em><u>Misc<sup>5</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -287,10 +300,6 @@ more inspirations!</p>
 </li>
 <li>
 <p><strong><a href="https://www.nyc.gov.sg/programmes-grants" rel="noopener noreferrer nofollow" target="_blank">National Youth Council (various including leadership, youth panel etc.)</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://youthopia.sg/" rel="noopener noreferrer nofollow" target="_blank">Youthopia</a></strong>
 </p>
 </li>
 <li>
