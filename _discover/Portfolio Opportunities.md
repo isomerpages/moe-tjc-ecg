@@ -15,13 +15,9 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Mentorship<sup>2</sup></u></em></strong>
+<p><strong><em><u>Mentorship<sup>1</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
-<li>
-<p><strong><a href="https://mentorship.advisory.sg/" rel="noopener noreferrer nofollow" target="_blank">Advisory Mentorship Programme</a></strong>
-</p>
-</li>
 <li>
 <p><strong><a href="https://mentoring.sg/mentoring-programmes" rel="noopener noreferrer nofollow" target="_blank">Mentoring SG</a></strong>
 </p>
