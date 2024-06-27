@@ -285,11 +285,19 @@ more inspirations!</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://sgphysicsleague.org/" rel="noopener noreferrer nofollow" target="_blank">Singapore Physics League (SphL)</a></strong>
+<p><strong><a href="https://sgphysicsleague.org/" rel="noopener noreferrer nofollow" target="_blank">Singapore Physics League (SPhL)</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.sgchemleague.org/" rel="noopener noreferrer nofollow" target="_blank">Singapore Chemistry League (SChL)</a></strong>
 </p>
 </li>
 <li>
 <p><strong><a href="https://snic.org.sg/index.php/event/sjcho" rel="noopener noreferrer nofollow" target="_blank">Singapore Junior Chemistry Olympiad</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://sgbioleague.org/" rel="noopener noreferrer nofollow" target="_blank">Singapore Biology League (SBL)</a></strong>
 </p>
 </li>
 <li>
