@@ -314,5 +314,9 @@ more inspirations!</p>
 <p><strong><a href="https://discover.nyc.gov.sg/Explore-Industries" rel="noopener noreferrer nofollow" target="_blank">NYC ~ Explore Industries</a></strong>
 </p>
 </li>
+<li>
+<p><strong><a href="https://www.hellotac.org/" rel="noopener noreferrer nofollow" target="_blank"><u>The Astronauts Collective</u></a></strong>
+</p>
+</li>
 </ul>
 <p></p>
