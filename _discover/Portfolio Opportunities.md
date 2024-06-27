@@ -15,15 +15,6 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Mentorship<sup>1</sup></u></em></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong><a href="https://mentoring.sg/mentoring-programmes" rel="noopener noreferrer nofollow" target="_blank">Mentoring SG</a></strong>
-</p>
-</li>
-</ul>
-<p></p>
 <p><strong><em><u>Internships/Part-time Jobs<sup>15</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -101,7 +92,7 @@ more inspirations!</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.nuhs.edu.sg/education/Educational-Opportunities-at-NUHS/Pages/Job-Shadowing-at-NUHS.aspx" rel="noopener noreferrer nofollow" target="_blank">NUHS - National University Health System</a></strong>
+<p><strong><a href="https://www.nuhs.edu.sg/education/job-shadowing" rel="noopener noreferrer nofollow" target="_blank">NUHS - National University Health System</a></strong>
 </p>
 </li>
 </ul>
@@ -233,7 +224,7 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Special Programmes<sup>7</sup></u></em></strong>
+<p><strong><em><u>Special Programmes<sup>8</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -242,6 +233,10 @@ more inspirations!</p>
 </li>
 <li>
 <p><strong><a href="https://www.csa.gov.sg/our-programmes/talents-skills-development/sg-cyber-talent/sg-cyber-youth/youth-cyber-exploration-programme" rel="noopener noreferrer nofollow" target="_blank">Youth Cyber Exploration Programme (YCEP)</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.ura.gov.sg/Corporate/Singapore-City-Gallery/Programmes" rel="noopener noreferrer nofollow" target="_blank">URA - Challenge for the Urban &amp; Built Environment (CUBE) / Young Planners' Forum (Annual)</a></strong>
 </p>
 </li>
 <li>
@@ -257,7 +252,7 @@ more inspirations!</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.reach.gov.sg/Participate/singapore-model-parliament-2023" rel="noopener noreferrer nofollow" target="_blank">Singapore Model Parliament</a></strong>
+<p><strong><a href="https://www.reach.gov.sg/Participate/singapore-model-parliament-2024/about" rel="noopener noreferrer nofollow" target="_blank">Singapore Model Parliament</a></strong>
 </p>
 </li>
 <li>
@@ -266,7 +261,7 @@ more inspirations!</p>
 <p></p>
 </li>
 </ul>
-<p><strong><em><u>Competitions<sup>5</sup></u></em></strong>
+<p><strong><em><u>Competitions<sup>12</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -278,7 +273,23 @@ more inspirations!</p>
 </p>
 </li>
 <li>
+<p><strong><a href="https://sms.math.nus.edu.sg/smec/" rel="noopener noreferrer nofollow" target="_blank">Singapore Mathematical Society Essay Competition</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://sms.math.nus.edu.sg/singapore-mathematical-olympiad-smo/" rel="noopener noreferrer nofollow" target="_blank">Singapore Mathematical Olympiad</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://www.science.edu.sg/for-schools/competitions" rel="noopener noreferrer nofollow" target="_blank">Science Centre Singapore Competition</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://ipssingapore.org/events/SJPO.html" rel="noopener noreferrer nofollow" target="_blank">Singapore Junior Physics Olympiad</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://sgphysicsleague.org/" rel="noopener noreferrer nofollow" target="_blank">Singapore Physics League (SPhL)</a></strong>
 </p>
 </li>
 <li>
@@ -286,12 +297,24 @@ more inspirations!</p>
 </p>
 </li>
 <li>
+<p><strong><a href="https://www.sgchemleague.org/" rel="noopener noreferrer nofollow" target="_blank">Singapore Chemistry League (SChL)</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://sibiol.org.sg/activities/biology-olympiads/" rel="noopener noreferrer nofollow" target="_blank">Singapore Junior Biology Olympiad / Singapore Biology Olympiad</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://sgbioleague.org/" rel="noopener noreferrer nofollow" target="_blank">Singapore Biology League (SBL)</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://nusgeographychallenge.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">NUS Geography Challenge</a></strong>
 </p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Misc<sup>5</sup></u></em></strong>
+<p><strong><em><u>Misc<sup>2</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -301,18 +324,9 @@ more inspirations!</p>
 <li>
 <p><strong><a href="https://www.nyc.gov.sg/programmes-grants" rel="noopener noreferrer nofollow" target="_blank">National Youth Council (various including leadership, youth panel etc.)</a></strong>
 </p>
-</li>
-<li>
-<p><strong><a href="https://www.nyc.gov.sg/omw/dayinthelife" rel="noopener noreferrer nofollow" target="_blank">NYC ~ Day In The Life / Lets Talk / Tasters</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://discover.nyc.gov.sg/Explore-Worlds" rel="noopener noreferrer nofollow" target="_blank">NYC ~ Explore Worlds</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://discover.nyc.gov.sg/Explore-Industries" rel="noopener noreferrer nofollow" target="_blank">NYC ~ Explore Industries</a></strong>
-</p>
+<p></p>
 </li>
 </ul>
+<p>Above are just some examples of potential portfolio opportunities. Do
+google the internet for more inspirations and ideas.</p>
 <p></p>

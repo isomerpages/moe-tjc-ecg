@@ -10,9 +10,12 @@ These include career interests, skills, work values, and learning styles.</p>
 <p>To begin, the career decision wheel is a useful tool, which helps you
 to consider a variety of factors (reflected by spokes on the Wheel) to
 make informed education and career decisions. The career wheel can be divided
-into external (top half) and internal (bottom half) factors. You may explore
-the internal factors, i.e. values, interests, personalities and skills,
-more in the next section.</p>
+into external (top half) and internal (bottom half) factors.</p>
+<p>To learn more about the career decision wheel you may wish to check out
+the <strong><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/5f3d1591-e73b-46a1-8d93-41216d81e85a/cover" rel="noopener noreferrer nofollow" target="_blank">SLS "[Explore ECG] What's Your Wheel?"</a></strong>
+</p>
+<p>You may also explore the internal factors, i.e. values, interests, personalities
+and skills, more in the next section.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="career wheel" src="/images/career_wheel.png">
 </div>
