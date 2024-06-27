@@ -325,6 +325,9 @@ more inspirations!</p>
 <li>
 <p><strong><a href="https://www.hellotac.org/" rel="noopener noreferrer nofollow" target="_blank"><u>The Astronauts Collective</u></a></strong>
 </p>
+<p></p>
 </li>
 </ul>
+<p>Above are just some examples of potential portfolio opportunities. Do
+google the internet for more inspirations and ideas.</p>
 <p></p>
