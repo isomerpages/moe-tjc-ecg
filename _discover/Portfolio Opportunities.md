@@ -252,7 +252,7 @@ more inspirations!</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.reach.gov.sg/Participate/singapore-model-parliament-2023" rel="noopener noreferrer nofollow" target="_blank">Singapore Model Parliament</a></strong>
+<p><strong><a href="https://www.reach.gov.sg/Participate/singapore-model-parliament-2024/about" rel="noopener noreferrer nofollow" target="_blank">Singapore Model Parliament</a></strong>
 </p>
 </li>
 <li>
