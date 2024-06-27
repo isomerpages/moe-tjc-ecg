@@ -92,7 +92,7 @@ more inspirations!</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.nuhs.edu.sg/education/Educational-Opportunities-at-NUHS/Pages/Job-Shadowing-at-NUHS.aspx" rel="noopener noreferrer nofollow" target="_blank">NUHS - National University Health System</a></strong>
+<p><strong><a href="https://www.nuhs.edu.sg/education/job-shadowing" rel="noopener noreferrer nofollow" target="_blank">NUHS - National University Health System</a></strong>
 </p>
 </li>
 </ul>
