@@ -18,6 +18,10 @@ what some of these occupations you are interested in entail.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p><strong><a href="https://www.hellotac.org/" rel="noopener noreferrer nofollow" target="_blank">The Astronauts Collective</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://www.nyc.gov.sg/omw/dayinthelife" rel="noopener noreferrer nofollow" target="_blank">NYC ~ Day In The Life/Let's Talk/Taster</a></strong>
 </p>
 </li>
