@@ -261,7 +261,7 @@ more inspirations!</p>
 <p></p>
 </li>
 </ul>
-<p><strong><em><u>Competitions<sup>6</sup></u></em></strong>
+<p><strong><em><u>Competitions<sup>12</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -285,11 +285,11 @@ more inspirations!</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://sgphysicsleague.org/" rel="noopener noreferrer nofollow" target="_blank">Singapore Physics League (SPhL)</a></strong>
+<p><strong><a href="https://ipssingapore.org/events/SJPO.html" rel="noopener noreferrer nofollow" target="_blank">Singapore Junior Physics Olympiad</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.sgchemleague.org/" rel="noopener noreferrer nofollow" target="_blank">Singapore Chemistry League (SChL)</a></strong>
+<p><strong><a href="https://sgphysicsleague.org/" rel="noopener noreferrer nofollow" target="_blank">Singapore Physics League (SPhL)</a></strong>
 </p>
 </li>
 <li>
@@ -297,11 +297,15 @@ more inspirations!</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://sgbioleague.org/" rel="noopener noreferrer nofollow" target="_blank">Singapore Biology League (SBL)</a></strong>
+<p><strong><a href="https://www.sgchemleague.org/" rel="noopener noreferrer nofollow" target="_blank">Singapore Chemistry League (SChL)</a></strong>
 </p>
 </li>
 <li>
 <p><strong><a href="https://sibiol.org.sg/activities/biology-olympiads/" rel="noopener noreferrer nofollow" target="_blank">Singapore Junior Biology Olympiad / Singapore Biology Olympiad</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://sgbioleague.org/" rel="noopener noreferrer nofollow" target="_blank">Singapore Biology League (SBL)</a></strong>
 </p>
 </li>
 <li>
