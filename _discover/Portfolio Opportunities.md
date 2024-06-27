@@ -289,6 +289,10 @@ more inspirations!</p>
 <p><strong><a href="https://sibiol.org.sg/activities/biology-olympiads/" rel="noopener noreferrer nofollow" target="_blank">Singapore Junior Biology Olympiad / Singapore Biology Olympiad</a></strong>
 </p>
 </li>
+<li>
+<p><strong><a href="https://nusgeographychallenge.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">NUS Geography Challenge</a></strong>
+</p>
+</li>
 </ul>
 <p></p>
 <p><strong><em><u>Misc<sup>5</sup></u></em></strong>
