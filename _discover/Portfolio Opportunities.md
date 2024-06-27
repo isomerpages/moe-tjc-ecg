@@ -285,6 +285,10 @@ more inspirations!</p>
 </p>
 </li>
 <li>
+<p><strong><a href="https://sgphysicsleague.org/" rel="noopener noreferrer nofollow" target="_blank">Singapore Physics League (SphL)</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://snic.org.sg/index.php/event/sjcho" rel="noopener noreferrer nofollow" target="_blank">Singapore Junior Chemistry Olympiad</a></strong>
 </p>
 </li>
