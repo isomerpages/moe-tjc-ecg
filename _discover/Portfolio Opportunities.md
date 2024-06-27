@@ -273,7 +273,11 @@ more inspirations!</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://sms.math.nus.edu.sg/smec/" rel="noopener noreferrer nofollow" target="_blank">Singapore Mathematical Society Essay Competition</a> </strong>
+<p><strong><a href="https://sms.math.nus.edu.sg/smec/" rel="noopener noreferrer nofollow" target="_blank">Singapore Mathematical Society Essay Competition</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://sms.math.nus.edu.sg/singapore-mathematical-olympiad-smo/" rel="noopener noreferrer nofollow" target="_blank">Singapore Mathematical Olympiad</a></strong>
 </p>
 </li>
 <li>
