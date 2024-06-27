@@ -15,15 +15,6 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Mentorship<sup>1</sup></u></em></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong><a href="https://mentoring.sg/mentoring-programmes" rel="noopener noreferrer nofollow" target="_blank">Mentoring SG</a></strong>
-</p>
-</li>
-</ul>
-<p></p>
 <p><strong><em><u>Internships/Part-time Jobs<sup>15</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
