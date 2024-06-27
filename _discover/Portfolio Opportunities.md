@@ -245,6 +245,10 @@ more inspirations!</p>
 </p>
 </li>
 <li>
+<p><strong><a href="https://www.ura.gov.sg/Corporate/Singapore-City-Gallery/Programmes" rel="noopener noreferrer nofollow" target="_blank">URA - Challenge for the Urban &amp; Build Environment (CUBE) / Young Planner's Forum (Annual)</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://www.singaporemun.org/" rel="noopener noreferrer nofollow" target="_blank">Singapore Model UN</a></strong>
 </p>
 </li>
