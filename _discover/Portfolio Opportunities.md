@@ -95,6 +95,10 @@ more inspirations!</p>
 <p><strong><a href="https://www.nuhs.edu.sg/education/job-shadowing" rel="noopener noreferrer nofollow" target="_blank">NUHS - National University Health System</a></strong>
 </p>
 </li>
+<li>
+<p><strong><a href="https://www.skh.com.sg/education-training/Pages/Clinical-Job-Shadowing.aspx" rel="noopener noreferrer nofollow" target="_blank">Sengkang General Hospital</a></strong>
+</p>
+</li>
 </ul>
 <p></p>
 <p><strong><em><u>Leadership Opportunities<sup>1</sup></u></em></strong>
