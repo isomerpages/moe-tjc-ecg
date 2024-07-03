@@ -316,6 +316,10 @@ more inspirations!</p>
 <p><strong><a href="https://nusgeographychallenge.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">NUS Geography Challenge</a></strong>
 </p>
 </li>
+<li>
+<p><strong><a href="https://www.cpcll.sg/events/culture-group/script-it-right-chinese-radio-drama-script-writing-competition-n-workshops/2024-script-it-right-chinese-radio-drama-script-writing-competition-n-workshops" rel="noopener noreferrer nofollow" target="_blank">Chinese Radio Drama Script Writing Competition &amp; Workshop</a></strong>
+</p>
+</li>
 </ul>
 <p></p>
 <p><strong><em><u>Misc<sup>2</sup></u></em></strong>
