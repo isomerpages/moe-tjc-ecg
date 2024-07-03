@@ -265,7 +265,7 @@ more inspirations!</p>
 <p></p>
 </li>
 </ul>
-<p><strong><em><u>Competitions<sup>12</sup></u></em></strong>
+<p><strong><em><u>Competitions<sup>13</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
