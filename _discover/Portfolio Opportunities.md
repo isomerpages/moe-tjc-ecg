@@ -244,6 +244,10 @@ more inspirations!</p>
 </p>
 </li>
 <li>
+<p><strong><a href="https://www.sla.gov.sg/geospatial-development-and-services/map-our-world" rel="noopener noreferrer nofollow" target="_blank">SLA - Map Our World</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://www.singaporemun.org/" rel="noopener noreferrer nofollow" target="_blank">Singapore Model UN</a></strong>
 </p>
 </li>
