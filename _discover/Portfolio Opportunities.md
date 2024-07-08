@@ -80,7 +80,7 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Job Shadowing<sup>3</sup></u></em></strong>
+<p><strong><em><u>Job Shadowing<sup>4</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -93,6 +93,10 @@ more inspirations!</p>
 </li>
 <li>
 <p><strong><a href="https://www.nuhs.edu.sg/education/job-shadowing" rel="noopener noreferrer nofollow" target="_blank">NUHS - National University Health System</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.skh.com.sg/education-training/Pages/Clinical-Job-Shadowing.aspx" rel="noopener noreferrer nofollow" target="_blank">Sengkang General Hospital</a></strong>
 </p>
 </li>
 </ul>
@@ -224,7 +228,7 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Special Programmes<sup>8</sup></u></em></strong>
+<p><strong><em><u>Special Programmes<sup>9</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -237,6 +241,10 @@ more inspirations!</p>
 </li>
 <li>
 <p><strong><a href="https://www.ura.gov.sg/Corporate/Singapore-City-Gallery/Programmes" rel="noopener noreferrer nofollow" target="_blank">URA - Challenge for the Urban &amp; Built Environment (CUBE) / Young Planners' Forum (Annual)</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.sla.gov.sg/geospatial-development-and-services/map-our-world" rel="noopener noreferrer nofollow" target="_blank">SLA - Map Our World</a></strong>
 </p>
 </li>
 <li>
@@ -261,7 +269,7 @@ more inspirations!</p>
 <p></p>
 </li>
 </ul>
-<p><strong><em><u>Competitions<sup>12</sup></u></em></strong>
+<p><strong><em><u>Competitions<sup>13</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -310,6 +318,10 @@ more inspirations!</p>
 </li>
 <li>
 <p><strong><a href="https://nusgeographychallenge.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">NUS Geography Challenge</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.cpcll.sg/events/culture-group/script-it-right-chinese-radio-drama-script-writing-competition-n-workshops/2024-script-it-right-chinese-radio-drama-script-writing-competition-n-workshops" rel="noopener noreferrer nofollow" target="_blank">Chinese Radio Drama Script Writing Competition &amp; Workshop</a></strong>
 </p>
 </li>
 </ul>

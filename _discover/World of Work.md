@@ -59,4 +59,7 @@ what some of these occupations you are interested in entail.</p>
 <p></p>
 </li>
 </ul>
+<p>Above are just some resources to get you started as you navigate the World
+of Work. Do google the internet for more resources.</p>
+<p></p>
 <p></p>
