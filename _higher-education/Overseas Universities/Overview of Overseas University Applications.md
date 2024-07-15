@@ -32,7 +32,7 @@ third_nav_title: Overseas Universities
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.crimsoneducation.org/nz/blog/admissions-news/cambridge-college-essay/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>UCAS: Upcoming Changes in Personal Statements</u></a> (wef. 2024 entry cycle) <em>(Source: Crimson)</em></strong>
+<p><strong><a href="https://www.crimsoneducation.org/nz/blog/admissions-news/cambridge-college-essay/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>UCAS: Upcoming Changes in Personal Statements</u></a> <em>(Source: Crimson)</em></strong>
 </p>
 </li>
 </ul>
