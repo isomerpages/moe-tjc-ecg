@@ -48,6 +48,10 @@ to submit your documents.</p>
 </p>
 </li>
 <li>
+<p><a href="https://www.ucas.com/undergraduate/applying-university/writing-your-personal-statement" rel="noopener noreferrer nofollow" target="_blank">Personal Statement Guide</a>
+</p>
+</li>
+<li>
 <p><a href="https://drive.google.com/file/d/1sH4UbgAJl33B6MX75es7waitwYpGlWqy/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Personal Statement Dos and Don'ts</a>
 </p>
 </li>
