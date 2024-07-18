@@ -32,7 +32,7 @@ third_nav_title: Overseas Universities
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.crimsoneducation.org/nz/blog/admissions-news/cambridge-college-essay/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>UCAS: Upcoming Changes in Personal Statements</u></a> <em>(Source: Crimson)</em></strong>
+<p><strong><a href="https://www.ucas.com/advisers/help-and-training/guides-resources-and-training/pre-application-support/personal-statements-2026-entry-onwards" rel="noopener noreferrer nofollow" target="_blank">UCAS Personal Statement for 2026 Entry Onwards</a><em> (Source: UCAS)</em></strong>
 </p>
 </li>
 </ul>
