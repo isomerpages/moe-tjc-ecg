@@ -103,11 +103,11 @@ third_nav_title: Local Universities
 </p>
 </li>
 <li>
-<p><a href="https://fass.nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Faculty of Arts &amp; Social Science</a>
+<p><a href="https://fass.nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Faculty of Arts &amp; Social Sciences</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.science.nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Faculty of Sciences</a>
+<p><a href="https://www.science.nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Faculty of Science</a>
 </p>
 </li>
 <li>
