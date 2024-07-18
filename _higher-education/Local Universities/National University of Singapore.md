@@ -45,6 +45,15 @@ third_nav_title: Local Universities
 </p>
 </li>
 <li>
+<p><a href="https://nus.edu.sg/registrar/academic-information-policies/non-graduating/modular-system" rel="noopener noreferrer nofollow" target="_blank">NUS Modular System</a>
+</p>
+</li>
+<li>
+<p><a href="https://nus.edu.sg/registrar/academic-information-policies/undergraduate-students/special-programmes/double-major-programmes" rel="noopener noreferrer nofollow" target="_blank">Double Major</a> |
+<a href="https://nus.edu.sg/registrar/academic-information-policies/undergraduate-students/special-programmes/minor-programmes" rel="noopener noreferrer nofollow" target="_blank">Minor</a>
+</p>
+</li>
+<li>
 <p><a href="https://nus.edu.sg/registrar/academic-information-policies/undergraduate-students/special-programmes" rel="noopener noreferrer nofollow" target="_blank">NUS Special Programmes</a>
 </p>
 </li>
@@ -58,15 +67,6 @@ third_nav_title: Local Universities
 </li>
 <li>
 <p><a href="https://nuscollege.nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">NUS College</a>
-</p>
-</li>
-<li>
-<p><a href="https://nus.edu.sg/registrar/academic-information-policies/non-graduating/modular-system" rel="noopener noreferrer nofollow" target="_blank">NUS Modular System</a>
-</p>
-</li>
-<li>
-<p><a href="https://nus.edu.sg/registrar/academic-information-policies/undergraduate-students/special-programmes/double-major-programmes" rel="noopener noreferrer nofollow" target="_blank">Double Major</a> |
-<a href="https://nus.edu.sg/registrar/academic-information-policies/undergraduate-students/special-programmes/minor-programmes" rel="noopener noreferrer nofollow" target="_blank">Minor</a>
 </p>
 </li>
 <li>
