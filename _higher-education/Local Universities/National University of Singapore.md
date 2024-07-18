@@ -75,7 +75,8 @@ third_nav_title: Local Universities
 </li>
 </ul>
 <p></p>
-<p>Others:</p>
+<p><strong>Others:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://law.nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Faculty of Law</a>
