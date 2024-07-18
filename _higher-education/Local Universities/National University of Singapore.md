@@ -99,7 +99,7 @@ third_nav_title: Local Universities
 </p>
 </li>
 <li>
-<p><a href="https://chs.nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">College of Humanities &amp; Science</a>
+<p><a href="https://chs.nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">College of Humanities &amp; Sciences</a>
 </p>
 </li>
 <li>
