@@ -49,6 +49,18 @@ third_nav_title: Local Universities
 </p>
 </li>
 <li>
+<p><a href="https://nus.edu.sg/gro/about-us/global-programmes" rel="noopener noreferrer nofollow" target="_blank">NUS Global</a>
+</p>
+</li>
+<li>
+<p><a href="https://enterprise.nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">NUS Enterprise</a>
+</p>
+</li>
+<li>
+<p><a href="https://nuscollege.nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">NUS College</a>
+</p>
+</li>
+<li>
 <p><a href="https://nus.edu.sg/registrar/academic-information-policies/non-graduating/modular-system" rel="noopener noreferrer nofollow" target="_blank">NUS Modular System</a>
 </p>
 </li>
