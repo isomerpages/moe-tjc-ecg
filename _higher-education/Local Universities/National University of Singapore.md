@@ -75,3 +75,48 @@ third_nav_title: Local Universities
 </li>
 </ul>
 <p></p>
+<p>Others:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://law.nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Faculty of Law</a>
+</p>
+</li>
+<li>
+<p><a href="https://medicine.nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">School of Medicine (Medicine/Nursing)</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.dentistry.nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Faculty of Dentistry</a>
+</p>
+</li>
+<li>
+<p><a href="https://cde.nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">College of Design &amp; Engineering</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.comp.nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">School of Computing</a>
+</p>
+</li>
+<li>
+<p><a href="https://chs.nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">College of Humanities &amp; Science</a>
+</p>
+</li>
+<li>
+<p><a href="https://fass.nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Faculty of Arts &amp; Social Science</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.science.nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Faculty of Science</a>
+</p>
+</li>
+<li>
+<p><a href="https://bschool.nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">NUS Business School</a>
+</p>
+</li>
+<li>
+<p><a href="https://nusmods.com/courses" rel="noopener noreferrer nofollow" target="_blank">NUS MODS</a>
+</p>
+<p></p>
+</li>
+</ul>
+<p></p>
