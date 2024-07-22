@@ -336,6 +336,10 @@ more inspirations!</p>
 <li>
 <p><strong><a href="https://www.nyc.gov.sg/programmes-grants" rel="noopener noreferrer nofollow" target="_blank">National Youth Council (various including leadership, youth panel etc.)</a></strong>
 </p>
+</li>
+<li>
+<p><strong><a href="https://www.undergraduate.study.cam.ac.uk/sites/www.undergraduate.study.cam.ac.uk/files/publications/super-curricular_suggestions_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Super-Curricular Suggestions (Cambridge)</a></strong>
+</p>
 <p></p>
 </li>
 </ul>
