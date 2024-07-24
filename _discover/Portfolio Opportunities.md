@@ -346,7 +346,7 @@ more inspirations!</p>
 </p>
 </li>
 <li>
-<p><strong>Super-Curricular Resource (Oxford): <a href="https://www.ox.ac.uk/admissions/undergraduate/courses/suggested-subject-resources" rel="noopener noreferrer nofollow" target="_blank">Suggested Subject Resource</a> / <a href="https://www.univ.ox.ac.uk/applying-to-univ/explore-your-subject/" rel="noopener noreferrer nofollow" target="_blank">UNVI Oxford</a> / <a href="https://www.hertford.ox.ac.uk/study-here/outreach/digital/challenge" rel="noopener noreferrer nofollow" target="_blank">Hertford College Oxford</a> / <a href="https://www.st-annes.ox.ac.uk/study-here/undergraduate/outreach/for-students/super-curriculars-and-resources/" rel="noopener noreferrer nofollow" target="_blank">St Anne's College Oxford</a> </strong>
+<p><strong>Super-Curricular Resource (Oxford): <a href="https://www.ox.ac.uk/admissions/undergraduate/courses/suggested-subject-resources" rel="noopener noreferrer nofollow" target="_blank">Suggested Subject Resource</a> / <a href="https://www.univ.ox.ac.uk/applying-to-univ/explore-your-subject/" rel="noopener noreferrer nofollow" target="_blank">UNVI Oxford</a> / <a href="https://www.hertford.ox.ac.uk/study-here/outreach/digital/challenge" rel="noopener noreferrer nofollow" target="_blank">Hertford College Oxford</a> / <a href="https://www.st-annes.ox.ac.uk/study-here/undergraduate/outreach/for-students/super-curriculars-and-resources/" rel="noopener noreferrer nofollow" target="_blank">St Anne's College Oxford</a></strong>
 </p>
 <p></p>
 </li>
