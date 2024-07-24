@@ -326,17 +326,9 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Misc<sup>2</sup></u></em></strong>
+<p><strong><em><u>Oxbridge<sup>3</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
-<li>
-<p><strong><a href="https://www.temasekjc.moe.edu.sg/temasek-experience/co-curricular-activities/" rel="noopener noreferrer nofollow" target="_blank">CCA @ TJC</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://www.nyc.gov.sg/programmes-grants" rel="noopener noreferrer nofollow" target="_blank">National Youth Council (various including leadership, youth panel etc.)</a></strong>
-</p>
-</li>
 <li>
 <p><strong><a href="https://www.undergraduate.study.cam.ac.uk/sites/www.undergraduate.study.cam.ac.uk/files/publications/super-curricular_suggestions_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Super-Curricular Suggestions (Cambridge)</a></strong>
 </p>
@@ -348,9 +340,22 @@ more inspirations!</p>
 <li>
 <p><strong>Super-Curricular Resource (Oxford): <a href="https://www.ox.ac.uk/admissions/undergraduate/courses/suggested-subject-resources" rel="noopener noreferrer nofollow" target="_blank">Suggested Subject Resource</a> / <a href="https://www.univ.ox.ac.uk/applying-to-univ/explore-your-subject/" rel="noopener noreferrer nofollow" target="_blank">UNVI Oxford</a> / <a href="https://www.hertford.ox.ac.uk/study-here/outreach/digital/challenge" rel="noopener noreferrer nofollow" target="_blank">Hertford College Oxford</a> / <a href="https://www.st-annes.ox.ac.uk/study-here/undergraduate/outreach/for-students/super-curriculars-and-resources/" rel="noopener noreferrer nofollow" target="_blank">St Anne's College Oxford</a></strong>
 </p>
-<p></p>
 </li>
 </ul>
+<p></p>
+<p><strong><em><u>Misc<sup>2</sup></u></em></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://www.temasekjc.moe.edu.sg/temasek-experience/co-curricular-activities/" rel="noopener noreferrer nofollow" target="_blank">CCA @ TJC</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.nyc.gov.sg/programmes-grants" rel="noopener noreferrer nofollow" target="_blank">National Youth Council (various including leadership, youth panel etc.)</a></strong>
+</p>
+</li>
+</ul>
+<p></p>
 <p>Above are just some examples of potential portfolio opportunities. Do
 google the internet for more inspirations and ideas.</p>
 <p></p>
