@@ -55,9 +55,16 @@ to submit your documents.</p>
 <p><a href="https://drive.google.com/file/d/1sH4UbgAJl33B6MX75es7waitwYpGlWqy/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Personal Statement Dos and Don'ts</a>
 </p>
 </li>
+<li>
+<p><a href="https://www.ucas.com/undergraduate/applying-university/writing-your-personal-statement/guide-using-ai-and-chatgpt-your-personal-statement" rel="noopener noreferrer nofollow" target="_blank">Guide to Using AI &amp; ChatGPT with your Personal Statement</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/@Ucasonlineofficial" rel="noopener noreferrer nofollow" target="_blank">UCAS YouTube Channel</a>
+</p>
+<p></p>
+</li>
 </ul>
-<p></p>
-<p></p>
 <p><strong>Admission &amp; Assessment Tests</strong>
 </p>
 <p><a href="https://www.undergraduate.study.cam.ac.uk/apply/how/admission-tests" rel="noopener noreferrer nofollow" target="_blank">Admission Tests for Cambridge (UCAT/LNAT/ESAT/TMUA/Others)</a>
@@ -65,6 +72,15 @@ to submit your documents.</p>
 <p><a href="https://www.ox.ac.uk/admissions/undergraduate/applying-to-oxford/guide/admissions-tests" rel="noopener noreferrer nofollow" target="_blank">Admission Tests for Oxford</a>
 </p>
 <p><a href="https://www.ucas.com/undergraduate/applying-university/admissions-tests" rel="noopener noreferrer nofollow" target="_blank">Other UK Universities</a>
+</p>
+<p></p>
+<p><strong>Useful Interview Links</strong>
+</p>
+<p><a href="https://www.undergraduate.study.cam.ac.uk/apply/after/cambridge-interviews" rel="noopener noreferrer nofollow" target="_blank">Interviews for Cambridge</a>
+</p>
+<p><a href="https://www.ox.ac.uk/admissions/undergraduate/applying-to-oxford/guide/interviews" rel="noopener noreferrer nofollow" target="_blank">Interviews for Oxford (including sample interviews by subjects)</a>
+</p>
+<p><a href="https://insideuni.org/" rel="noopener noreferrer nofollow" target="_blank">Insideuni resources</a>
 </p>
 <p></p>
 <p><strong>Sharing by Alumni</strong>
