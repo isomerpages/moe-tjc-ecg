@@ -87,6 +87,8 @@ to submit your documents.</p>
 </p>
 <p><a href="https://www.undergraduate.study.cam.ac.uk/apply/before/improve-application" rel="noopener noreferrer nofollow" target="_blank">Improve chances of getting a place in Cambridge</a>
 </p>
+<p><a href="https://www.ox.ac.uk/admissions/undergraduate/applying-to-oxford/guide" rel="noopener noreferrer nofollow" target="_blank">Guide to Oxford</a>
+</p>
 <p><a href="https://www.undergraduate.study.cam.ac.uk/sites/www.undergraduate.study.cam.ac.uk/files/publications/super-curricular_suggestions_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Super-Curricular Suggestions (Cambridge)</a>
 </p>
 <p><a href="https://www.clickcambridge.co.uk/supercurricularresources" rel="noopener noreferrer nofollow" target="_blank">Super-Curricular Resource Bank (Cambridge)</a>
