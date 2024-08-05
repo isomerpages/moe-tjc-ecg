@@ -55,19 +55,78 @@ to submit your documents.</p>
 <p><a href="https://drive.google.com/file/d/1sH4UbgAJl33B6MX75es7waitwYpGlWqy/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Personal Statement Dos and Don'ts</a>
 </p>
 </li>
-</ul>
-<p></p>
-<p></p>
-<p><strong>Admission &amp; Assessment Tests</strong>
+<li>
+<p><a href="https://www.ucas.com/undergraduate/applying-university/writing-your-personal-statement/guide-using-ai-and-chatgpt-your-personal-statement" rel="noopener noreferrer nofollow" target="_blank">Guide to Using AI &amp; ChatGPT with your Personal Statement</a>
 </p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/@Ucasonlineofficial" rel="noopener noreferrer nofollow" target="_blank">UCAS YouTube Channel</a>
+</p>
+<p></p>
+</li>
+</ul>
+<p><strong>Admission &amp; Assessment Tests:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://www.undergraduate.study.cam.ac.uk/apply/how/admission-tests" rel="noopener noreferrer nofollow" target="_blank">Admission Tests for Cambridge (UCAT/LNAT/ESAT/TMUA/Others)</a>
 </p>
+</li>
+<li>
 <p><a href="https://www.ox.ac.uk/admissions/undergraduate/applying-to-oxford/guide/admissions-tests" rel="noopener noreferrer nofollow" target="_blank">Admission Tests for Oxford</a>
 </p>
+</li>
+<li>
 <p><a href="https://www.ucas.com/undergraduate/applying-university/admissions-tests" rel="noopener noreferrer nofollow" target="_blank">Other UK Universities</a>
 </p>
+</li>
+</ul>
 <p></p>
-<p><strong>Sharing by Alumni</strong>
+<p><strong>Useful Interview Links:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.undergraduate.study.cam.ac.uk/apply/after/cambridge-interviews" rel="noopener noreferrer nofollow" target="_blank">Interviews for Cambridge (including sample interview)</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.ox.ac.uk/admissions/undergraduate/applying-to-oxford/guide/interviews" rel="noopener noreferrer nofollow" target="_blank">Interviews for Oxford (including sample interviews by subjects)</a>
+</p>
+</li>
+<li>
+<p><a href="https://insideuni.org/" rel="noopener noreferrer nofollow" target="_blank">Insideuni resources (Oxbridge applications)</a>
+</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Additional Useful Links:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.undergraduate.study.cam.ac.uk/apply/before/improve-application" rel="noopener noreferrer nofollow" target="_blank">Improve chances of getting a place in Cambridge</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.ox.ac.uk/admissions/undergraduate/applying-to-oxford/guide" rel="noopener noreferrer nofollow" target="_blank">Guide to Oxford</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.undergraduate.study.cam.ac.uk/sites/www.undergraduate.study.cam.ac.uk/files/publications/super-curricular_suggestions_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Super-Curricular Suggestions (Cambridge)</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.clickcambridge.co.uk/supercurricularresources" rel="noopener noreferrer nofollow" target="_blank">Super-Curricular Resource Bank (Cambridge)</a>
+</p>
+</li>
+<li>
+<p>Super-Curricular Resource (Oxford): <a href="https://www.ox.ac.uk/admissions/undergraduate/courses/suggested-subject-resources" rel="noopener noreferrer nofollow" target="_blank">Suggested Subject Resource</a> /
+<a href="https://www.univ.ox.ac.uk/applying-to-univ/explore-your-subject/" rel="noopener noreferrer nofollow" target="_blank">UNVI Oxford</a>/ <a href="https://www.hertford.ox.ac.uk/study-here/outreach/digital/challenge" rel="noopener noreferrer nofollow" target="_blank">Hertford College Oxford</a> /
+<a href="https://www.st-annes.ox.ac.uk/study-here/undergraduate/outreach/for-students/super-curriculars-and-resources/" rel="noopener noreferrer nofollow" target="_blank">St Anne's College Oxford</a>
+</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Sharing by Alumni:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
