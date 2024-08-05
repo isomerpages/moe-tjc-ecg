@@ -65,7 +65,7 @@ to submit your documents.</p>
 <p></p>
 </li>
 </ul>
-<p><strong>Admission &amp; Assessment Tests</strong>
+<p><strong>Admission &amp; Assessment Tests:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -82,7 +82,7 @@ to submit your documents.</p>
 </li>
 </ul>
 <p></p>
-<p><strong>Useful Interview Links</strong>
+<p><strong>Useful Interview Links:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -99,7 +99,7 @@ to submit your documents.</p>
 </li>
 </ul>
 <p></p>
-<p><strong>Additional Useful Links</strong>
+<p><strong>Additional Useful Links:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -126,7 +126,7 @@ to submit your documents.</p>
 </li>
 </ul>
 <p></p>
-<p><strong>Sharing by Alumni</strong>
+<p><strong>Sharing by Alumni:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
