@@ -76,11 +76,11 @@ to submit your documents.</p>
 <p></p>
 <p><strong>Useful Interview Links</strong>
 </p>
-<p><a href="https://www.undergraduate.study.cam.ac.uk/apply/after/cambridge-interviews" rel="noopener noreferrer nofollow" target="_blank">Interviews for Cambridge</a>
+<p><a href="https://www.undergraduate.study.cam.ac.uk/apply/after/cambridge-interviews" rel="noopener noreferrer nofollow" target="_blank">Interviews for Cambridge (including sample interview)</a>
 </p>
 <p><a href="https://www.ox.ac.uk/admissions/undergraduate/applying-to-oxford/guide/interviews" rel="noopener noreferrer nofollow" target="_blank">Interviews for Oxford (including sample interviews by subjects)</a>
 </p>
-<p><a href="https://insideuni.org/" rel="noopener noreferrer nofollow" target="_blank">Insideuni resources</a>
+<p><a href="https://insideuni.org/" rel="noopener noreferrer nofollow" target="_blank">Insideuni resources (Oxbridge applications)</a>
 </p>
 <p></p>
 <p><strong>Sharing by Alumni</strong>
