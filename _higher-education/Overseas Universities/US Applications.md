@@ -39,11 +39,11 @@ to submit your documents.</p>
 <p><a href="/files/2024_TJC_US_Form__for_TJC_alumni_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 TJC US Form (for TJC alumni</a>)</p>
 </li>
 <li>
-<p><a href="https://docs.google.com/presentation/d/1lqMtBrViEROI-bzUSHlXQVPbj26LFbOIVj7isjxvTMo/edit?usp=sharing" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>TJC Guide to the CommonApp platform (for students) 2023 (to be updated)</u></a>
+<p><a href="/files/2024_TJC_Student_Guide_to_CommonApp.pdf" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>TJC Guide to the CommonApp platform (for students)</u></a>
 </p>
 </li>
 <li>
-<p><a href="/files/4__2023_TJC_Student_Guide_to_University_of_California_admissions_portal.pdf" rel="noopener noreferrer nofollow" target="_blank">TJC Guide to University of California applications (for students) (to be updated)</a>
+<p><a href="/files/TJC_Student_Guide_to_University_of_California_admissions_portal.pdf" rel="noopener noreferrer nofollow" target="_blank">TJC Guide to University of California applications (for students)</a>
 </p>
 </li>
 <li>
