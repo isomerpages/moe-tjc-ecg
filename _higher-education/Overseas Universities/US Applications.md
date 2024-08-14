@@ -43,7 +43,7 @@ to submit your documents.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/4__2023_TJC_Student_Guide_to_University_of_California_admissions_portal.pdf" rel="noopener noreferrer nofollow" target="_blank">TJC Guide to University of California applications (for students)</a>
+<p><a href="/files/TJC_Student_Guide_to_University_of_California_admissions_portal.pdf" rel="noopener noreferrer nofollow" target="_blank">TJC Guide to University of California applications (for students)</a>
 </p>
 </li>
 <li>
