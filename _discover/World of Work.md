@@ -42,6 +42,10 @@ what some of these occupations you are interested in entail.</p>
 </p>
 </li>
 <li>
+<p><strong><a href="https://sgmoe-my.sharepoint.com/:b:/r/personal/irene_ng_ee_yen_schools_gov_sg/Documents/Irene/TJC%20ECG%20Website/20240815_Esplanade_BackStagePass.pdf?csf=1&amp;web=1&amp;e=oUudFS" rel="noopener noreferrer nofollow" target="_blank">Esplanade Backstage Pass Occupations</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://www.skillsfuture.gov.sg/skills-framework" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture Framework</a></strong>
 </p>
 </li>
