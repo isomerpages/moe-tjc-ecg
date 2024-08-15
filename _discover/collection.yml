@@ -2,6 +2,7 @@ collections:
   discover:
     output: true
     order:
+      - Esplanade Backstage Pass.md
       - Overview.md
       - Know Yourself.md
       - World of Work.md
