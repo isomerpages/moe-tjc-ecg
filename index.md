@@ -30,6 +30,20 @@ sections:
       image: /images/Screenshot_2024_08_28_103645.png
       alt: Interview Infopic
   - textcards:
+      title: ECG Buzz
+      subtitle: Add informational text
+      id: textcards
+      description: Education and Career Guidance Resources for Students
+      cards:
+        - title: 2024 Issue 2
+          description: Enter the World of Work through SLS Resources
+          linktext: Learn more
+          url: ""
+        - title: 2024 Issue 1
+          description: Critical Core Skills
+          linktext: Learn more
+          url: ""
+  - textcards:
       title: THE EXPLORER
       id: textcards
       description: Education and Career Guidance e-Newsletter for Students
