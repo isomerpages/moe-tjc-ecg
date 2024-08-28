@@ -38,11 +38,11 @@ sections:
         - title: 2024 Issue 2
           description: Enter the World of Work through SLS Resources
           linktext: Learn more
-          url: ""
+          url: 20240202_ecgbuzz_kickstart_SLS_Poster_for_Student.pdf
         - title: 2024 Issue 1
           description: Critical Core Skills
           linktext: Learn more
-          url: ""
+          url: 20240202_ecgbuzz_Critical_Core_Skills_Poster_for_Student.pdf
   - textcards:
       title: THE EXPLORER
       id: textcards
