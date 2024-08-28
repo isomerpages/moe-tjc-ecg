@@ -20,6 +20,15 @@ sections:
             url: /students/pre-u
           - title: Graduate
             url: /students/graduate
+  - infopic:
+      title: ECG Buzz
+      subtitle: 2024 Issue 3
+      id: infopic
+      description: Interviewing Skills
+      button: read more
+      url: https://go.gov.sg/sls-interview-skills
+      image: /images/Screenshot_2024_08_28_103645.png
+      alt: Interview Infopic
   - textcards:
       title: THE EXPLORER
       id: textcards
