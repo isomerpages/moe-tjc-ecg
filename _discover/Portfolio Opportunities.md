@@ -236,7 +236,7 @@ more inspirations!</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.syfc.sg/cca/application-and-consent-forms/" rel="noopener nofollow" target="_blank">Singapore Youth Flying Club (Open Unit CCA)</a> </strong>
+<p><strong><a href="https://www.syfc.sg/cca/application-and-consent-forms/" rel="noopener nofollow" target="_blank">Singapore Youth Flying Club (Open Unit CCA)</a></strong>
 </p>
 </li>
 <li>
