@@ -37,7 +37,7 @@ sections:
         - title: 2024 Issue 2
           description: Enter the World of Work through SLS Resources
           linktext: Learn more
-          url: 20240202_ecgbuzz_kickstart_SLS_Poster_for_Student.pdf
+          url: https://drive.google.com/file/d/1Cv_L6fnJgYTpeU3MQQNpYTBOgtkivFBR/view?usp=drive_link
         - title: 2024 Issue 1
           description: Critical Core Skills
           linktext: Learn more
