@@ -41,7 +41,7 @@ sections:
         - title: 2024 Issue 1
           description: Critical Core Skills
           linktext: Learn more
-          url: 20240202_ecgbuzz_Critical_Core_Skills_Poster_for_Student.pdf
+          url: https://drive.google.com/file/d/1kzUxnjrHBJOA2E0E2H1EYZk_qSlmRPli/view?usp=drive_link
   - textcards:
       title: THE EXPLORER
       id: textcards
