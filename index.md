@@ -20,6 +20,28 @@ sections:
             url: /students/pre-u
           - title: Graduate
             url: /students/graduate
+  - infopic:
+      title: ECG Buzz
+      subtitle: 2024 Issue 3
+      id: infopic
+      description: Interviewing Skills
+      button: learn more on sls
+      url: https://go.gov.sg/sls-interview-skills
+      image: /images/Screenshot_2024_08_28_103645.png
+      alt: Interview Infopic
+  - textcards:
+      title: ECG Buzz
+      id: textcards
+      description: Education and Career Guidance Resources for Students
+      cards:
+        - title: 2024 Issue 2
+          description: Enter the World of Work through SLS Resources
+          linktext: Learn more
+          url: https://drive.google.com/file/d/1Cv_L6fnJgYTpeU3MQQNpYTBOgtkivFBR/view?usp=drive_link
+        - title: 2024 Issue 1
+          description: Critical Core Skills
+          linktext: Learn more
+          url: https://drive.google.com/file/d/1kzUxnjrHBJOA2E0E2H1EYZk_qSlmRPli/view?usp=drive_link
   - textcards:
       title: THE EXPLORER
       id: textcards

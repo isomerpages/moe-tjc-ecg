@@ -228,9 +228,17 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Special Programmes<sup>9</sup></u></em></strong>
+<p><strong><em><u>Special Programmes<sup>11</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://www.syfc.sg/welcome-onboard/" rel="noopener nofollow" target="_blank">Singapore Youth Flying Club (Free Flying Course)</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.syfc.sg/cca/application-and-consent-forms/" rel="noopener nofollow" target="_blank">Singapore Youth Flying Club (Open Unit CCA)</a></strong>
+</p>
+</li>
 <li>
 <p><strong><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/geb-special-programmes" rel="noopener noreferrer nofollow" target="_blank">MOE GEB Special Programmes</a></strong>
 </p>
