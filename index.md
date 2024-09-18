@@ -31,7 +31,6 @@ sections:
       alt: Interview Infopic
   - textcards:
       title: ECG Buzz
-      subtitle: Add informational text
       id: textcards
       description: Education and Career Guidance Resources for Students
       cards:
