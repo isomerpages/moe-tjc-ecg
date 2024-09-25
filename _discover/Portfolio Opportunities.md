@@ -277,7 +277,7 @@ more inspirations!</p>
 <p></p>
 </li>
 </ul>
-<p><strong><em><u>Competitions<sup>13</sup></u></em></strong>
+<p><strong><em><u>Competitions<sup>15</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -309,6 +309,10 @@ more inspirations!</p>
 </p>
 </li>
 <li>
+<p><strong><a href="https://iyptsypt.moe.edu.sg/" rel="noopener nofollow" target="_blank">Singapore Young Physicists' Tournament</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://snic.org.sg/index.php/event/sjcho" rel="noopener noreferrer nofollow" target="_blank">Singapore Junior Chemistry Olympiad</a></strong>
 </p>
 </li>
@@ -322,6 +326,10 @@ more inspirations!</p>
 </li>
 <li>
 <p><strong><a href="https://sgbioleague.org/" rel="noopener noreferrer nofollow" target="_blank">Singapore Biology League (SBL)</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.ioai-singapore.org/" rel="noopener nofollow" target="_blank">International Olympiad in Artificial Intelligence (Singapore)</a></strong>
 </p>
 </li>
 <li>
