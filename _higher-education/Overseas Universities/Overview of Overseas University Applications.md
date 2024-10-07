@@ -35,5 +35,9 @@ third_nav_title: Overseas Universities
 <p><strong><a href="https://www.ucas.com/advisers/help-and-training/guides-resources-and-training/pre-application-support/personal-statements-2026-entry-onwards" rel="noopener noreferrer nofollow" target="_blank">UCAS Personal Statement for 2026 Entry Onwards</a><em> (Source: UCAS)</em></strong>
 </p>
 </li>
+<li>
+<p><strong><a href="https://www.usnews.com/education/best-colleges/applying/articles/what-colleges-look-for-ways-to-stand-out" rel="noopener nofollow" target="_blank">What US Colleges Look for: 6 Ways to Stand Out</a> <em>(Source: US News)</em></strong>
+</p>
+</li>
 </ul>
 <p></p>
