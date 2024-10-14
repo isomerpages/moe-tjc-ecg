@@ -277,7 +277,7 @@ more inspirations!</p>
 <p></p>
 </li>
 </ul>
-<p><strong><em><u>Competitions<sup>15</sup></u></em></strong>
+<p><strong><em><u>Competitions<sup>16</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -338,6 +338,10 @@ more inspirations!</p>
 </li>
 <li>
 <p><strong><a href="https://www.cpcll.sg/events/culture-group/script-it-right-chinese-radio-drama-script-writing-competition-n-workshops/2024-script-it-right-chinese-radio-drama-script-writing-competition-n-workshops" rel="noopener noreferrer nofollow" target="_blank">Chinese Radio Drama Script Writing Competition &amp; Workshop</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.sso.org.sg/whats-on/npvc" rel="noopener nofollow" target="_blank">National Piano &amp; Violin Competition</a></strong>
 </p>
 </li>
 </ul>
