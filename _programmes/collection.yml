@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - IP/Job Shadowing.md
       - IP/Wonder,Observe,Weave Programme.md
       - IP/Careers Day.md
       - IP/.keep
