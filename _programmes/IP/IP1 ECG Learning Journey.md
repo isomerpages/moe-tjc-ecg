@@ -21,6 +21,9 @@ answering interview questions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLEC1.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLEC2.jpg">
+</div>
 <p>Third, job tasters in Green, Care, and Digital sectors provided students
 hands-on experiences, helping them understand the day-to-day realities
 of different professions.</p>
