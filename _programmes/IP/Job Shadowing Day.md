@@ -23,4 +23,4 @@ students, Javier Wong.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Javier_Wong.jpg">
 </div>
-<p>Here are the links to the write-up and student presentations.</p>
+<p></p>
