@@ -6,11 +6,11 @@ description: ""
 third_nav_title: IP
 ---
 <p>Each year, IP1s in Temasek Junior College embark on a learning journey
-to Lifelong Learning Institute (LLI)
-<br>At the LLI, students rotated between three learning station. First, they
-explored their personality profile with the DISC psychometric assessment,
-probing what triggers their peers, and conversely how best to show appreciation
-to a fellow teammate.</p>
+to the Lifelong Learning Institute (LLI). At the LLI, students rotate between
+three learning station.</p>
+<p>First, they explored their personality profile with the DISC psychometric
+assessment, probing what triggers their peers, and conversely how best
+to show appreciation to a fellow teammate.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DISC.jpg">
 </div>
