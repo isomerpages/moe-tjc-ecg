@@ -83,7 +83,7 @@ of self-discovery.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP_ECG5.png">
 </div>
 <p></p>
-<p>For the final component, the IP2 attend a sharing by the <a href="https://ecg.temasekjc.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">SkillsFuture.SG</a> team
+<p>For the final component, the IP2 will attend a sharing by the <a href="http://SkillsFuture.SG" rel="noopener noreferrer nofollow" target="_blank">SkillsFuture.SG</a> team
 to gain awareness of the key growth industries in Singapore and the fast-changing
 future of work. Additionally, they learn about the importance of developing
 soft skills, as well as the development of digital literacy and 21st century
@@ -92,5 +92,4 @@ workplace. Through early exposure to these key developments, we aim to
 promote greater student agency amongst the IP2 students in creating practical
 action plans that complement their academic knowledge as they envision
 their future. Overall, this will make them well-prepared for the challenges
-and opportunities of the modern workplace.</p>
-<p></p>
+and opportunities of the modern workplace.&nbsp;</p>
