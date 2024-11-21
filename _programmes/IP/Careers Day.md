@@ -3,6 +3,7 @@ title: Careers Day
 permalink: /programmes/secondary/careers-day/
 variant: tiptap
 description: ""
+third_nav_title: IP
 ---
 <h4>Careers Day</h4>
 <p>The Careers Day is a special day whereby students will explore the world
