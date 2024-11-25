@@ -137,9 +137,14 @@ in order to achieve synergy in this programme.</p>
 <h4><a href="https://youtu.be/PkrJogaaHnw" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - DENTAL (ALPHA DENTAL)</a></h4>
 <p>by Tay Qi Qi - CG 25/19</p>
 <p></p>
-<h4><a href="/files/2024_TIP_sharing_Halogen.pdf" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - EDUCATION/LEADERSHIP (HALOGEN FOUNDATION)</a></h4>
+<p></p>
+<h4>TIP SHARING - EDUCATION/ LEADERSHIP (HALOGEN FOUNDATION)</h4>
 <p>by Ethan Sim Yu De - CG11/24; Wong Shi Ni Ally - CG13/24; Lee Yun Qian
 - CG16/24; Ellie Lee Yan Lin - CG07/24</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_TIP_sharing_Halogen.png">
+</div>
 <p></p>
 <h4><a href="/files/2024_TIP_sharing_TTSH.pdf" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - HEALTHCARE (TTSH RHEUMATOLOGY, ALLERGY AND IMMUNOLOGY)</a></h4>
 <p>by Sammi Chong - CG17/24 ; Tran Minh An - CG17/24</p>
@@ -178,9 +183,13 @@ in order to achieve synergy in this programme.</p>
 <h4><a href="/files/2024_TIP_sharing_Campus_Impact.pdf" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - SOCIAL SERVICES (CAMPUS IMPACT)</a></h4>
 <p>by Giam Zi Rui - CG12/24; Manimoorthi Raghavi - CG12/24; How Yi Ling -
 CG19/24</p>
-<p></p>
-<h4><a href="/files/2024_TIP_sharing_SADeaf.pdf" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - SOCIAL SERVICES (SADEAF)</a></h4>
+<h4></h4>
+<h4>TIP SHARING - SOCIAL SERVICES (SADEAF)</h4>
 <p>by Peng Zi Xin - CG06/24; Alicia Phua - CG05/24</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_TIP_sharing_SADeaf.png">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EmbeddedImage__2_.jpg">
