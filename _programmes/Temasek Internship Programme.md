@@ -88,7 +88,7 @@ in order to achieve synergy in this programme.</p>
 <p>BUSINESS [DESIGN]</p>
 </li>
 <li>
-<p>BUSINESS [DITGITAL MARKETING]</p>
+<p>BUSINESS [DIGITAL MARKETING]</p>
 </li>
 <li>
 <p>DENTAL</p>
@@ -120,26 +120,35 @@ in order to achieve synergy in this programme.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EmbeddedImage__1_.jpg">
 </div>
 <h4>HEAR WHAT YOUR SENIORS HAVE TO SAY ABOUT TIP.</h4>
+<p></p>
+<h4>TIP SHARING - ANIMAL CARE (ACRES)</h4>
+<p>by Christabel Goh - CG17/24; Hamsini Ramachandran - CG15/24</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2024_TIP_sharing_ACRES.png">
+</div>
+<p></p>
 <h4><a href="https://www.youtube.com/watch?v=-fgATt682Jg" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - ANIMAL CARE (WILDLIFE RESERVES SINGAPORE RIVER SAFARI)</a></h4>
 <p>by Ong En Tong - CG 02/19</p>
-<h4></h4>
-<h4><a href="https://drive.google.com/file/d/1hEICy7_5ui1ChZlpLPcjXKzBhtPZz_jC/view" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - ART (ART AGENDA, S.E.A)</a></h4>
-<p>by Chen Liang Jun - CG 15/20</p>
-<h4></h4>
-<h4><a href="https://drive.google.com/file/d/1CDPFSbsJ77n7ARSbno3Go3cK5um1YL1A/view" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - BUSINESS EDUCATION (360 EDUCATION PTE LTD / LEARNING GRID)</a></h4>
-<p>by Syakirah Binti Jamaludin
-<br>- CG 17/20</p>
-<h4><br><a href="https://youtu.be/PkrJogaaHnw" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - DENTAL (ALPHA DENTAL)</a></h4>
+<p></p>
+<h4><a href="https://www.canva.com/design/DAGW6fx2UCU/NT2KNeL1G1JuSJlcE32Jmg/view?utm_content=DAGW6fx2UCU&amp;utm_campaign=share_your_design&amp;utm_medium=link&amp;utm_source=shareyourdesignpanel" rel="noopener nofollow" target="_blank">TIP SHARING - BUSINESS [DIGITAL MARKETING] (SIXMOREDAYS)</a></h4>
+<p>by Wee Qian Yue Olin - CG19/24</p>
+<p></p>
+<h4><a href="https://youtu.be/PkrJogaaHnw" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - DENTAL (ALPHA DENTAL)</a></h4>
 <p>by Tay Qi Qi - CG 25/19</p>
-<h4><br><a href="https://drive.google.com/file/d/1TW4n64sUZjrfTPDCpfhorcByMtBex5Sm/view" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - EARLY CHILDHOOD (ACEKIDZ @ SG PTE LTD [YISHUN])</a></h4>
-<p>by Jonas Lee Yew Hwa - CG 17/20
-<br>and Young Yi Qian - CG 20/20</p>
-<h4></h4>
-<h4><a href="https://drive.google.com/file/u/0/d/1Dd_kALXgT8GwOcP-fAiFLotwKR4vKfYz/view" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - EDUCATION / LEADERSHIP (HALOGEN FOUNDATION)</a></h4>
-<p>by Janell Pang Zi Qian - CG 04/20
-<br>and Samiha Hossain - CG 11/20</p>
-<h4></h4>
-<h4><a href="https://youtu.be/umEsY8Vbp84" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - HEALTHCARE (TTSH RHEUMATOLOGY)</a></h4>
+<p></p>
+<p></p>
+<h4>TIP SHARING - EDUCATION/ LEADERSHIP (HALOGEN FOUNDATION)</h4>
+<p>by Ethan Sim Yu De - CG11/24; Wong Shi Ni Ally - CG13/24; Lee Yun Qian
+- CG16/24; Ellie Lee Yan Lin - CG07/24</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_TIP_sharing_Halogen_1.png">
+</div>
+<p></p>
+<h4><a href="/files/2024_TIP_sharing_TTSH.pdf" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - HEALTHCARE (TTSH RHEUMATOLOGY, ALLERGY AND IMMUNOLOGY)</a></h4>
+<p>by Sammi Chong - CG17/24 ; Tran Minh An - CG17/24</p>
+<h4><br><a href="https://youtu.be/umEsY8Vbp84" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - HEALTHCARE (TTSH RHEUMATOLOGY)</a></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/umEsY8Vbp84?si=59-yauXvnzu2xdfE"></iframe>
 </div>
@@ -151,15 +160,12 @@ in order to achieve synergy in this programme.</p>
 </div>
 <p>by Nur Farisah Syahirah Bte M S - CG 22/19 and Cheryl Pang Xue Le - CG
 22/19</p>
-<h4></h4>
+<p></p>
 <h4><a href="https://youtu.be/Pa1TH0Hk_sY" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - HOSPITALITY (CONRAD CENTENNIAL SINGAPORE)</a></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Pa1TH0Hk_sY?si=TVbFVhuBeo1JdlDw"></iframe>
 </div>
 <p>by Esther Yue En Qi - CG 02/19</p>
-<h4></h4>
-<h4><a href="https://drive.google.com/file/d/18KisQNVl9qDlU6A8YsgRIOOS54hOZ_c_/view" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - LAW (TITO ISAAC AND CO LLP)</a></h4>
-<p>by Kim Sang Ah - CG 14/20</p>
 <h4></h4>
 <h4><a href="https://youtu.be/2q_zGRVDzHI" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - LIFE SCIENCES (SCIENCE CENTRE)</a></h4>
 <div class="iframe-wrapper">
@@ -173,16 +179,16 @@ in order to achieve synergy in this programme.</p>
 </div>
 <p>by Nur Diyanah Bte Hasan Malik
 <br>- CG 06/19</p>
+<p></p>
+<h4><a href="/files/2024_TIP_sharing_Campus_Impact.pdf" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - SOCIAL SERVICES (CAMPUS IMPACT)</a></h4>
+<p>by Giam Zi Rui - CG12/24; Manimoorthi Raghavi - CG12/24; How Yi Ling -
+CG19/24</p>
 <h4></h4>
-<h4><a href="https://drive.google.com/file/d/1NsMImqPrSQ8zUH-SWNMDQ1i86i5t-zBB/view" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - SOCIAL WORK (MINISTRY OF SOCIAL AND FAMILY DEVELOPMENT - MSF)</a></h4>
-<p>by Koh Guang Wei Anson - CG 09/20</p>
-<p></p>
-<h4><a href="https://drive.google.com/file/d/1lnxt9wF9PTpZ5XsByJf20GAsGMnuF9Sw/view" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - SOCIAL WORK (MINISTRY OF SOCIAL AND FAMILY DEVELOPMENT - MSF)</a></h4>
-<p>by Goh Ying Xuan, Avril - CG 04/20
-<br>and Hannah Oh Hui Ling - CG 08/20</p>
-<p></p>
+<h4>TIP SHARING - SOCIAL SERVICES (SADEAF)</h4>
+<p>by Peng Zi Xin - CG06/24; Alicia Phua - CG05/24</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EmbeddedImage__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_TIP_sharing_SADeaf.png">
 </div>
+<p></p>
 <p></p>
