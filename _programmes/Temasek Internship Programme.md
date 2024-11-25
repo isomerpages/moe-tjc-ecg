@@ -121,8 +121,12 @@ in order to achieve synergy in this programme.</p>
 </div>
 <h4>HEAR WHAT YOUR SENIORS HAVE TO SAY ABOUT TIP.</h4>
 <p></p>
-<h4><a href="/files/2024_TIP_sharing_ACRES.pdf" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - ANIMAL CARE (ACRES)</a></h4>
+<h4>TIP SHARING - ANIMAL CARE (ACRES)</h4>
 <p>by Christabel Goh - CG17/24; Hamsini Ramachandran - CG15/24</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2024_TIP_sharing_ACRES.png">
+</div>
 <p></p>
 <h4><a href="https://www.youtube.com/watch?v=-fgATt682Jg" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - ANIMAL CARE (WILDLIFE RESERVES SINGAPORE RIVER SAFARI)</a></h4>
 <p>by Ong En Tong - CG 02/19</p>
