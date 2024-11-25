@@ -191,7 +191,4 @@ CG19/24</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_TIP_sharing_SADeaf.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EmbeddedImage__2_.jpg">
-</div>
 <p></p>
