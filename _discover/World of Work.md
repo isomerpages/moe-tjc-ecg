@@ -22,7 +22,7 @@ what some of these occupations you are interested in entail.</p>
 </p>
 </li>
 </ul>
-<p><strong><em><u>Misc<sup>8</sup></u></em></strong>
+<p><strong><em><u>Misc<sup>10</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
