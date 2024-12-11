@@ -12,12 +12,14 @@ third_nav_title: Local Universities
 </div>
 <p><strong><a href="https://uas.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">UAS</a> </strong>| <strong><a href="https://www.lasalle.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">LASALLE</a></strong>| <strong><a href="https://www.nafa.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">NAFA</a></strong>
 </p>
-<p><strong>Application period</strong>:&nbsp; <strong>&nbsp;From October 2023 </strong>until
+<p><strong>Application period</strong>:&nbsp; <strong>&nbsp;From October 2024 </strong>until
 the programme seats have been filled up.<strong> </strong>Please visit&nbsp;
 <a href="https://www.lasalle.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>LASALLE</u> 
 </a>&nbsp;and <a href="https://www.nafa.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>NAFA</u></a>&nbsp;for
 more updates.</p>
-<p><strong>Open House:</strong>  <a href="https://uas.edu.sg/news-and-events/EventDetails?title=Open+House+%40+UAS" rel="noopener noreferrer nofollow" target="_blank">2 March 2024</a>
+<p><strong>LASALLE Open House:</strong>  <a href="https://www.lasalle.edu.sg/experience/open-house-info-days" rel="noopener noreferrer nofollow" target="_blank">17-18 January 2025</a>
+</p>
+<p><strong>NAFA Open House:</strong>  <a href="https://enrol.nafa.edu.sg/openhouse" rel="noopener noreferrer nofollow" target="_blank">17-18 January 2025</a>
 </p>
 <ul>
 <li>
