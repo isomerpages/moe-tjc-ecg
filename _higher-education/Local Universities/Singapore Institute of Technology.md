@@ -41,7 +41,7 @@ third_nav_title: Local Universities
 </p>
 </li>
 </ul>
-<p>🎓 <a href="https://www.moe.gov.sg/-/media/files/post-secondary/ges-2023/web-publication-nus-ges-2023.ashx" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Graduate Employment Survey 2023</u></a>
+<p>🎓 <a href="https://www.moe.gov.sg/-/media/files/post-secondary/ges-2023/web-publication-sit-ges-2023.pdf" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Graduate Employment Survey 2023</u></a>
 </p>
 <p>📞&nbsp; <a href="https://www.singaporetech.edu.sg/connect/contact-us" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Contact Admissions</u></a>
 </p>
