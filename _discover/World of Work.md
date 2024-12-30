@@ -22,7 +22,7 @@ what some of these occupations you are interested in entail.</p>
 </p>
 </li>
 </ul>
-<p><strong><em><u>Misc<sup>8</sup></u></em></strong>
+<p><strong><em><u>Misc<sup>9</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -42,10 +42,6 @@ what some of these occupations you are interested in entail.</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://sgmoe-my.sharepoint.com/:b:/r/personal/irene_ng_ee_yen_schools_gov_sg/Documents/Irene/TJC%20ECG%20Website/20240815_Esplanade_BackStagePass.pdf?csf=1&amp;web=1&amp;e=oUudFS" rel="noopener noreferrer nofollow" target="_blank">Esplanade Backstage Pass Occupations</a></strong>
-</p>
-</li>
-<li>
 <p><strong><a href="https://www.skillsfuture.gov.sg/skills-framework" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture Framework</a></strong>
 </p>
 </li>
@@ -54,7 +50,11 @@ what some of these occupations you are interested in entail.</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.moe.gov.sg/-/media/files/post-secondary/ges-2023/joint-web-publication-4-aus-ges2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Graduate Employment Survey 2023</a></strong>
+<p><strong><a href="https://www.moe.gov.sg/-/media/files/post-secondary/ges-2023/joint-web-publication-4-aus-ges2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Graduate Employment Survey 2023 (NUS, NTU, SMU, SUSS)</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.moe.gov.sg/-/media/files/post-secondary/ges-2023/web-publication-sit-ges-2023.pdf" rel="noopener nofollow" target="_blank">Graduate Employment Survey 2023 (SIT)</a></strong>
 </p>
 </li>
 <li>

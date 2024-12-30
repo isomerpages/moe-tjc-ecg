@@ -26,7 +26,7 @@ third_nav_title: Local Universities
 </p>
 </li>
 <li>
-<p><a href="https://www.singaporetech.edu.sg/sites/default/files/SITApplicationUserGuide.pdf" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Application Guide</u></a> 
+<p><a href="https://www.singaporetech.edu.sg/sites/default/files/SITApplicationUserGuide.pdf" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Application Guide</u></a>
 </p>
 </li>
 <li>
@@ -37,11 +37,11 @@ third_nav_title: Local Universities
 </p>
 </li>
 <li>
-<p><a href="https://www.singaporetech.edu.sg/sites/default/files/2021-01/SIT_Indicative_Grade_Profile_0.pdf" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Indicative Grade Profile</u></a> 
+<p><a href="https://www.singaporetech.edu.sg/sites/default/files/2021-01/SIT_Indicative_Grade_Profile_0.pdf" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Indicative Grade Profile</u></a>
 </p>
 </li>
 </ul>
-<p>🎓 <a href="https://www.moe.gov.sg/-/media/files/post-secondary/ges-2022/web-publication-sit-ges-2022.pdf" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Graduate Employment Survey 2022</u></a>
+<p>🎓 <a href="https://www.moe.gov.sg/-/media/files/post-secondary/ges-2023/web-publication-sit-ges-2023.pdf" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Graduate Employment Survey 2023</u></a>
 </p>
 <p>📞&nbsp; <a href="https://www.singaporetech.edu.sg/connect/contact-us" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Contact Admissions</u></a>
 </p>
