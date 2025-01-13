@@ -30,7 +30,7 @@ third_nav_title: Local Universities
 </p>
 </li>
 <li>
-<p><a href="https://www.sutd.edu.sg/Admissions/Undergraduate/Financing-Your-Studies/Financial-Aid" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Financial Assistance</u></a>
+<p><a href="https://www.sutd.edu.sg/admissions/undergraduate/financing-options-and-aid/#tabs" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Financial Assistance</u></a>
 </p>
 </li>
 <li>
