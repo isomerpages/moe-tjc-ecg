@@ -26,7 +26,7 @@ third_nav_title: Local Universities
 </p>
 </li>
 <li>
-<p><a href="https://www.nus.edu.sg/oam/admissions/singapore-cambridge-gce-a-level/programme-prerequisites" rel="noopener noreferrer nofollow" target="_blank">Subject Pre-requisites</a>
+<p><a href="https://nus.edu.sg/oam/admissions/before-you-apply/programme-prerequisites" rel="noopener noreferrer nofollow" target="_blank">Subject Pre-requisites</a>
 </p>
 </li>
 <li>
