@@ -26,7 +26,7 @@ third_nav_title: Local Universities
 </p>
 </li>
 <li>
-<p><a href="https://www.singaporetech.edu.sg/sites/default/files/SITApplicationUserGuide.pdf" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Application Guide</u></a>
+<p><a href="https://www.singaporetech.edu.sg/sites/default/files/2024-11/Undergraduate%20Admissions_Applicant%20Guide_20%20Nov.pdf" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Application Guide</u></a>
 </p>
 </li>
 <li>
