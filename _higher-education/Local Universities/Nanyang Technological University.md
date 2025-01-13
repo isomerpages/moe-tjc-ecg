@@ -52,7 +52,7 @@ subject pre-requisites)</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.ntu.edu.sg/admissions/undergraduate/indicative-grade-profile" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Indicative Grade Profile</u></a> AY2023/2024</p>
+<p><a href="https://www.ntu.edu.sg/admissions/undergraduate/indicative-grade-profile" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Indicative Grade Profile</u></a> AY2024/2025</p>
 </li>
 <li>
 <p><a href="https://www.ntu.edu.sg/admissions/undergraduate-programmes?listingKeyword=&amp;disciplines=all&amp;programmelevels=all&amp;programmetypes=all&amp;page=1" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>NTU Course Finder</u></a>
