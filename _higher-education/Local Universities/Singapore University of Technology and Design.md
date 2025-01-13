@@ -12,7 +12,7 @@ third_nav_title: Local Universities
 </p>
 <ul>
 <li>
-<p><a href="https://www.sutd.edu.sg/About-Us/News-and-Events/Publications/Brochures" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Prospectus</u></a>&nbsp;</p>
+<p><a href="https://www.sutd.edu.sg/education/undergraduate" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Prospectus</u></a>&nbsp;</p>
 </li>
 <li>
 <p><a href="https://www.sutd.edu.sg/admissions/undergraduate" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Admission (including FAQ)</u></a>
