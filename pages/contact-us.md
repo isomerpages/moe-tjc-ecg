@@ -5,7 +5,7 @@ permalink: /contact-us/
 agency_name: the ECG team
 locations:
   - address:
-      - Student Services Hub (E108)
+      - Temasek Guidance Hub (E108)
       - Block E, Level 1
       - Temasek Junior College
     operating_hours:

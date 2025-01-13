@@ -11,18 +11,18 @@ third_nav_title: Local Universities
 <p><strong>Application period</strong>:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Full-time undergraduate programme (July 2024 intake): application closes
-on<strong> 19 Mar 2024</strong>
+<p>Full-time undergraduate programme (July 2025 intake): application closes
+on<strong> Mar 2025</strong>
 </p>
 </li>
 <li>
-<p>Part-time undergraduate programme (July 2024 intake): application closes
-on <strong>31 Mar 2024</strong>
+<p>Part-time undergraduate programme (July 2025 intake): application closes
+on <strong>31 Mar 2025</strong>
 </p>
 <p></p>
 </li>
 </ul>
-<p><strong>Open House/Talks: <em><a href="https://www.suss.edu.sg/news-and-events/open-house" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>24 Feb 2024</u></a></em></strong>
+<p><strong>Open House/Talks: <em><a href="https://www.suss.edu.sg/news-and-events/open-house" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>24 Feb 2024 (TBC)</u></a></em></strong>
 </p>
 <ul>
 <li>
@@ -36,9 +36,6 @@ on <strong>31 Mar 2024</strong>
 <li>
 <p><a href="https://www.suss.edu.sg/part-time-undergraduate" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Part-time Undergraduate</u></a>
 </p>
-</li>
-<li>
-<p><a href="https://www.suss.edu.sg/about-suss/resources/faqs#/path/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>FAQs for Admissions</u></a>&nbsp;</p>
 </li>
 <li>
 <p>SUSS- <a href="https://www.suss.edu.sg/full-time-undergraduate/admissions/suss-scholarships-awards" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Scholarships &amp; Awards |</u></a> 

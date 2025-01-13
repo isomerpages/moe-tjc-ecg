@@ -8,9 +8,9 @@ third_nav_title: Local Universities
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_01_28_154251.png">
 </div>
-<p><strong>Application period</strong>:&nbsp; <strong>10 Jan - 19 Mar 2024</strong>
+<p><strong>Application period</strong>:&nbsp; <strong>8 Jan - 19 Mar 2025</strong>
 </p>
-<p><strong>Hybrid Open House: <em><a href="https://www.singaporetech.edu.sg/openhouse" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Website&nbsp;</u></a></em></strong>
+<p><strong>Open House: 8-9 Feb 2025: <em><a href="https://www.singaporetech.edu.sg/openhouse" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Website&nbsp;</u></a></em></strong>
 </p>
 <ul>
 <li>
@@ -26,7 +26,7 @@ third_nav_title: Local Universities
 </p>
 </li>
 <li>
-<p><a href="https://www.singaporetech.edu.sg/sites/default/files/SITApplicationUserGuide.pdf" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Application Guide</u></a>
+<p><a href="https://www.singaporetech.edu.sg/sites/default/files/2024-11/Undergraduate%20Admissions_Applicant%20Guide_20%20Nov.pdf" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Application Guide</u></a>
 </p>
 </li>
 <li>
