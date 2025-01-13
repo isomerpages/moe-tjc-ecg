@@ -23,7 +23,7 @@ third_nav_title: Local Universities
 </p>
 </li>
 <li>
-<p><a href="https://www.sutd.edu.sg/Admissions/Undergraduate/Application/Application-Guide" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Application Guide</u></a>&nbsp;</p>
+<p><a href="https://www.sutd.edu.sg/admissions/undergraduate/application-guide/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Application Guide</u></a>&nbsp;</p>
 </li>
 <li>
 <p>SUTD <a href="https://www.sutd.edu.sg/scholarship" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Scholarships</u></a>
