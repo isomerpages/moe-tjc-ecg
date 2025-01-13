@@ -40,5 +40,5 @@ third_nav_title: Local Universities
 </ul>
 <p>🎓 <a href="https://www.moe.gov.sg/-/media/files/post-secondary/ges-2022/web-publication-sutd-ges-2022.ashx" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Graduate Employment Survey 2022</u></a>
 </p>
-<p>📞 <a href="https://www.sutd.edu.sg/About-Us/Contact-Us" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Contact Admissions</u></a>
+<p>📞 <a href="https://www.sutd.edu.sg/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Contact Admissions</u></a>
 </p>
