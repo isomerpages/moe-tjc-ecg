@@ -12,7 +12,7 @@ third_nav_title: Local Universities
 <ul data-tight="true" class="tight">
 <li>
 <p>Full-time undergraduate programme (July 2025 intake): application closes
-on<strong>  Mar 2025</strong>
+on<strong> Mar 2025</strong>
 </p>
 </li>
 <li>
@@ -36,9 +36,6 @@ on <strong>31 Mar 2025</strong>
 <li>
 <p><a href="https://www.suss.edu.sg/part-time-undergraduate" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Part-time Undergraduate</u></a>
 </p>
-</li>
-<li>
-<p><a href="https://www.suss.edu.sg/about-suss/resources/faqs#/path/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>FAQs for Admissions</u></a>&nbsp;</p>
 </li>
 <li>
 <p>SUSS- <a href="https://www.suss.edu.sg/full-time-undergraduate/admissions/suss-scholarships-awards" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Scholarships &amp; Awards |</u></a> 
