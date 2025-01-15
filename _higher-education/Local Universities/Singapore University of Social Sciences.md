@@ -12,7 +12,7 @@ third_nav_title: Local Universities
 <ul data-tight="true" class="tight">
 <li>
 <p>Full-time undergraduate programme (July 2025 intake): application closes
-on<strong> Mar 2025</strong>
+on<strong> 19 Mar 2025</strong>
 </p>
 </li>
 <li>
