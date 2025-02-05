@@ -15,7 +15,7 @@ your easy reference.</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.nus.edu.sg/oam/admissions/singapore-cambridge-gce-a-level/programme-prerequisites" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Subject Pre-requisites</u></a></strong>
+<p><strong><a href="https://nus.edu.sg/oam/admissions/before-you-apply/programme-prerequisites" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Subject Pre-requisites</u></a></strong>
 </p>
 </li>
 <li>
