@@ -48,7 +48,7 @@ your easy reference.</p>
 <h4><strong>SUTD</strong></h4>
 <ul>
 <li>
-<p><strong><a href="https://www.sutd.edu.sg/Admissions/Undergraduate/Application/Admission-Requirements" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Admission Requirements</u></a></strong>
+<p><strong><a href="https://www.sutd.edu.sg/admissions/undergraduate/singapore-cambridge-gce-a-level/criteria-for-admission" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Admission Requirements</u></a></strong>
 </p>
 </li>
 </ul>
