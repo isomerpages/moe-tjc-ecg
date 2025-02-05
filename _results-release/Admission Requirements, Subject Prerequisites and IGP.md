@@ -66,7 +66,7 @@ your easy reference.</p>
 <h4><strong>SIT</strong></h4>
 <ul>
 <li>
-<p><strong><a href="https://www.singaporetech.edu.sg/admissions/undergraduate/requirements/a-levels" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Admission Subject Requirements</u></a> / <a href="https://www.singaporetech.edu.sg/undergraduate-programmes/digital-communications-and-integrated-media#eligibility" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Digital Communication &amp; Integrated Media Eligibility</u></a></strong>
+<p><strong><a href="https://www.singaporetech.edu.sg/admissions/undergraduate/requirements/a-levels" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Admission Subject Requirements</u></a> / <a href="https://www.singaporetech.edu.sg/undergraduate-programmes/digital-communications-and-integrated-media#eligibility" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Communication and Digital Media Eligibility</u></a></strong>
 </p>
 </li>
 <li>
