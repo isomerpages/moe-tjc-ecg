@@ -15,7 +15,7 @@ your easy reference.</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.nus.edu.sg/oam/admissions/singapore-cambridge-gce-a-level/programme-prerequisites" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Subject Pre-requisites</u></a></strong>
+<p><strong><a href="https://nus.edu.sg/oam/admissions/before-you-apply/programme-prerequisites" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Subject Pre-requisites</u></a></strong>
 </p>
 </li>
 <li>
@@ -48,7 +48,7 @@ your easy reference.</p>
 <h4><strong>SUTD</strong></h4>
 <ul>
 <li>
-<p><strong><a href="https://www.sutd.edu.sg/Admissions/Undergraduate/Application/Admission-Requirements" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Admission Requirements</u></a></strong>
+<p><strong><a href="https://www.sutd.edu.sg/admissions/undergraduate/singapore-cambridge-gce-a-level/criteria-for-admission" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Admission Requirements</u></a></strong>
 </p>
 </li>
 </ul>
@@ -66,7 +66,7 @@ your easy reference.</p>
 <h4><strong>SIT</strong></h4>
 <ul>
 <li>
-<p><strong><a href="https://www.singaporetech.edu.sg/admissions/undergraduate/requirements/a-levels" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Admission Subject Requirements</u></a> / <a href="https://www.singaporetech.edu.sg/undergraduate-programmes/digital-communications-and-integrated-media#eligibility" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Digital Communication &amp; Integrated Media Eligibility</u></a></strong>
+<p><strong><a href="https://www.singaporetech.edu.sg/admissions/undergraduate/requirements/a-levels" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Admission Subject Requirements</u></a> / <a href="https://www.singaporetech.edu.sg/undergraduate-programmes/digital-communications-and-integrated-media#eligibility" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Communication and Digital Media Eligibility</u></a></strong>
 </p>
 </li>
 <li>
