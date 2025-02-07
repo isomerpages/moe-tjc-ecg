@@ -127,6 +127,10 @@ third_nav_title: Local Universities
 </p>
 </li>
 <li>
+<p><a href="https://www.ystmusic.nus.edu.sg/" rel="noopener nofollow" target="_blank">YST Conservatory of Music</a>
+</p>
+</li>
+<li>
 <p><a href="https://nusmods.com/courses" rel="noopener noreferrer nofollow" target="_blank">NUS MODS</a>
 </p>
 <p></p>
