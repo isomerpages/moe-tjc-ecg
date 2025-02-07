@@ -34,6 +34,10 @@ third_nav_title: Local Universities
 </p>
 </li>
 <li>
+<p><a href="https://nus.edu.sg/oam/admissions/faculty-interview-and-test-dates" rel="noopener nofollow" target="_blank">Faculty Interviews &amp; Test Dates</a>
+</p>
+</li>
+<li>
 <p><a href="http://www.nus.edu.sg/oam/undergraduate-programmes/aptitude-based-admission" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Aptitude-based Admissions</u></a>&nbsp;</p>
 </li>
 <li>
