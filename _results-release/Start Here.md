@@ -4,7 +4,7 @@ permalink: /results-release/permalink/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Congratulations! Class of 2023</strong></h4>
+<h4><strong>Congratulations! Class of 2024</strong></h4>
 <p>The GCE A-Level is not the destination. It is part of the process of learning
 and growing. Before you embark upon your next higher education journey,
 think about <strong><em>What you want to do? Who you want to be? Where do you want to go? and How do you get there?&nbsp;</em></strong>
