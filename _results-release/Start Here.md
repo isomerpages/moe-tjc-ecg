@@ -4,13 +4,13 @@ permalink: /results-release/permalink/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Congratulations! Class of 2023</strong></h4>
+<h4><strong>Congratulations! Class of 2024</strong></h4>
 <p>The GCE A-Level is not the destination. It is part of the process of learning
 and growing. Before you embark upon your next higher education journey,
 think about <strong><em>What you want to do? Who you want to be? Where do you want to go? and How do you get there?&nbsp;</em></strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="379" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTgYJqYkZ0uxSHxM8lO9D2b8XxH-FIuXtqbQYd-1KpwaKSzh4Q3ZCNyI2WnGSNxMQ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="379" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTBTKyY_g2SX-PPJObhasC7XmzMiDCN8PgvsYc0-fkL7Zk7e517W6eIQXzLCxeHrQ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p><strong>Student Info Deck</strong>: Contains FAQs, Tips for selecting
 universities/courses</p>
