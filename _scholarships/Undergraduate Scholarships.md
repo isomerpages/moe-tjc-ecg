@@ -37,8 +37,9 @@ agencies.</p>
 dispel these myths and start living your best life; access the <a href="https://go.gov.sg/scholarshipsproviders" rel="noopener noreferrer nofollow" target="_blank">list of scholarship providers</a> and
 start exploring the many available scholarships you can apply for!</p>
 <p></p>
-<p>You can also navigate to the resources <a href="ecg.temasekjc.moe.edu.sg/scholarships/resources/" rel="noopener noreferrer nofollow" target="_blank">page</a> to access
-e-magazines and an in-house application guide for the BrightSparks Portal!</p>
+<p>You can also navigate to the resources <a href="https://ecg.temasekjc.moe.edu.sg/scholarships/resources/" rel="noopener noreferrer nofollow" target="_blank">page</a> to
+access e-magazines and an in-house application guide for the BrightSparks
+Portal!</p>
 <p></p>
 <p></p>
 <p></p>
