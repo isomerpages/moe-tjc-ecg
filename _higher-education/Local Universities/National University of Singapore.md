@@ -45,10 +45,6 @@ third_nav_title: Local Universities
 </p>
 </li>
 <li>
-<p><a href="https://www.askstudentservice.nus.edu.sg/app/answers/detail/a_id/21/~/bonus-points-for-mother-tongue-language-related-programmes" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>NUS MTL Bonus Points for CHS admission</u></a>
-</p>
-</li>
-<li>
 <p><a href="https://nus.edu.sg/registrar/academic-information-policies/non-graduating/modular-system" rel="noopener noreferrer nofollow" target="_blank">NUS Modular System</a>
 </p>
 </li>
