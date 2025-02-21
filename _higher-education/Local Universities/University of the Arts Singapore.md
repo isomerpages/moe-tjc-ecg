@@ -17,6 +17,8 @@ the programme seats have been filled up.<strong> </strong>Please visit
 <a href="https://www.lasalle.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>LASALLE</u> 
 </a>and <a href="https://www.nafa.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>NAFA</u></a>&nbsp;for
 more updates.</p>
+<p><strong>UAS Open House:</strong>  <a href="https://uas.edu.sg/news-and-events/EventDetails?title=Open+House+%40+UAS+2025" rel="noopener nofollow" target="_blank">8 March 2025</a>
+</p>
 <p><strong>LASALLE Open House:</strong>  <a href="https://www.lasalle.edu.sg/experience/open-house-info-days" rel="noopener noreferrer nofollow" target="_blank">17-18 January 2025</a>
 </p>
 <p><strong>NAFA Open House:</strong>  <a href="https://enrol.nafa.edu.sg/openhouse" rel="noopener noreferrer nofollow" target="_blank">17-18 January 2025</a>
