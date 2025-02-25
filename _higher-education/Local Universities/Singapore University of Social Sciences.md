@@ -48,7 +48,7 @@ on <strong>31 Mar 2025</strong>
 </p>
 </li>
 <li>
-<p>🎓 <a href="https://www.moe.gov.sg/-/media/files/post-secondary/ges-2023/web-publication-suss-ges-2023.ashx" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Graduate Employment Survey 2023</u></a>
+<p>🎓 <a href="https://www.moe.gov.sg/-/media/files/post-secondary/ges-2024/web-publication-suss-ges-2024.ashx" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Graduate Employment Survey 2024</u></a>
 </p>
 </li>
 <li>
