@@ -78,7 +78,7 @@ third_nav_title: Local Universities
 </p>
 </li>
 <li>
-<p>🎓 <a href="https://www.moe.gov.sg/-/media/files/post-secondary/ges-2023/web-publication-nus-ges-2023.ashx" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Graduate Employment Survey 2023</u></a>
+<p>🎓 <a href="https://www.moe.gov.sg/-/media/files/post-secondary/ges-2024/web-publication-nus-ges-2024.pdf" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Graduate Employment Survey 2024</u></a>
 </p>
 </li>
 <li>
