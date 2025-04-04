@@ -34,11 +34,11 @@ what some of these occupations you are interested in entail.</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://discover.nyc.gov.sg/Explore-Worlds" rel="noopener noreferrer nofollow" target="_blank">NYC ~ Explore Worlds</a></strong>
+<p><strong><a href="https://discover.nyc.gov.sg/omw/Explore-Worlds" rel="noopener noreferrer nofollow" target="_blank">NYC ~ Explore Worlds</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="https://discover.nyc.gov.sg/Explore-Industries" rel="noopener noreferrer nofollow" target="_blank">NYC ~ Explore Industries</a></strong>
+<p><strong><a href="https://discover.nyc.gov.sg/omw/Explore-Industries" rel="noopener noreferrer nofollow" target="_blank">NYC ~ Explore Industries</a></strong>
 </p>
 </li>
 <li>

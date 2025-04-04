@@ -229,7 +229,7 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Special Programmes<sup>11</sup></u></em></strong>
+<p><strong><em><u>Special Programmes<sup>12</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -270,6 +270,14 @@ more inspirations!</p>
 </li>
 <li>
 <p><strong><a href="https://www.toastmasters.org/find-a-club" rel="noopener noreferrer nofollow" target="_blank">Toastmasters</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.ntu.edu.sg/education/talent-outreach/NRP" rel="noopener nofollow" target="_blank">Nanyang Research Programme</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.science.nus.edu.sg/undergraduates/schools-and-public-outreach/research-programmes/science-research-programme-srp/" rel="noopener nofollow" target="_blank">Science Research Programme (NUS)</a></strong>
 </p>
 <p></p>
 </li>
