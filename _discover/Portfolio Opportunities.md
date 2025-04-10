@@ -233,7 +233,7 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Special Programmes<sup>13</sup></u></em></strong>
+<p><strong><em><u>Special Programmes<sup>14</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -246,6 +246,10 @@ more inspirations!</p>
 </li>
 <li>
 <p><strong><a href="https://www.csa.gov.sg/our-programmes/talents-skills-development/sg-cyber-talent/sg-cyber-youth/youth-cyber-exploration-programme" rel="noopener noreferrer nofollow" target="_blank">Youth Cyber Exploration Programme (YCEP)</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.mindef.gov.sg/dis/sentinel" rel="noopener nofollow" target="_blank">DIS - The Sentinel Programme</a></strong>
 </p>
 </li>
 <li>
