@@ -42,7 +42,7 @@ third_nav_title: Local Universities
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.singaporetech.edu.sg/" rel="noopener nofollow" target="_blank">Undergraduate Education Programmes (Course Finder)</a></strong>
+<p><strong><a href="https://www.singaporetech.edu.sg/undergraduate-programmes" rel="noopener nofollow" target="_blank">SIT Course Finder</a></strong>
 </p>
 </li>
 </ul>
