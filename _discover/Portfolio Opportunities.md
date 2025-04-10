@@ -127,7 +127,7 @@ more inspirations!</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.science.edu.sg/visit-us/join-us/volunteering" rel="noopener noreferrer nofollow" target="_blank">Science Centre Singapore</a></strong>
+<p><strong><a href="https://www.science.edu.sg/visit-us/join-us/volunteering" rel="noopener noreferrer nofollow" target="_blank">Science Centre Singapore - Volunteer</a></strong>
 </p>
 </li>
 <li>
@@ -294,7 +294,7 @@ more inspirations!</p>
 <p></p>
 </li>
 </ul>
-<p><strong><em><u>Competitions<sup>17</sup></u></em></strong>
+<p><strong><em><u>Competitions<sup>18</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -363,6 +363,10 @@ more inspirations!</p>
 </li>
 <li>
 <p><strong><a href="https://www.sso.org.sg/whats-on/npvc" rel="noopener nofollow" target="_blank">National Piano &amp; Violin Competition</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.science.edu.sg/for-schools/competitions" rel="noopener nofollow" target="_blank">Science Centre Singapore - Competition</a></strong>
 </p>
 </li>
 </ul>
