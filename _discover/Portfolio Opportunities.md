@@ -111,7 +111,7 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Volunteering Opportunities<sup>18</sup></u></em></strong>
+<p><strong><em><u>Volunteering Opportunities<sup>19</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -127,7 +127,7 @@ more inspirations!</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.science.edu.sg/visit-us/join-us/volunteering" rel="noopener noreferrer nofollow" target="_blank">Science Centre Singapore</a></strong>
+<p><strong><a href="https://www.science.edu.sg/visit-us/join-us/volunteering" rel="noopener noreferrer nofollow" target="_blank">Science Centre Singapore - Volunteer</a></strong>
 </p>
 </li>
 <li>
@@ -186,6 +186,10 @@ more inspirations!</p>
 <p><strong><a href="https://www.nparks.gov.sg/partner-us/volunteer" rel="noopener noreferrer nofollow" target="_blank">National Parks (NParks)</a></strong>
 </p>
 </li>
+<li>
+<p><strong><a href="https://www.esplanade.com/get-involved/volunteering" rel="noopener nofollow" target="_blank">Esplanade Volunteering (min age 16 yrs old)</a></strong>
+</p>
+</li>
 </ul>
 <p></p>
 <p><strong><em><u>Free Online Courses<sup>9</sup></u></em></strong>
@@ -229,7 +233,7 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Special Programmes<sup>12</sup></u></em></strong>
+<p><strong><em><u>Special Programmes<sup>14</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -242,6 +246,10 @@ more inspirations!</p>
 </li>
 <li>
 <p><strong><a href="https://www.csa.gov.sg/our-programmes/talents-skills-development/sg-cyber-talent/sg-cyber-youth/youth-cyber-exploration-programme" rel="noopener noreferrer nofollow" target="_blank">Youth Cyber Exploration Programme (YCEP)</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.mindef.gov.sg/dis/sentinel" rel="noopener nofollow" target="_blank">DIS - The Sentinel Programme</a></strong>
 </p>
 </li>
 <li>
@@ -279,10 +287,14 @@ more inspirations!</p>
 <li>
 <p><strong><a href="https://www.science.nus.edu.sg/undergraduates/schools-and-public-outreach/research-programmes/science-research-programme-srp/" rel="noopener nofollow" target="_blank">Science Research Programme (NUS)</a></strong>
 </p>
+</li>
+<li>
+<p><strong><a href="https://chemistry.nus.edu.sg/outreach-event-calendar/" rel="noopener nofollow" target="_blank">NUS Chemistry Outreach (updated end Jan each calendar year)</a></strong>
+</p>
 <p></p>
 </li>
 </ul>
-<p><strong><em><u>Competitions<sup>16</sup></u></em></strong>
+<p><strong><em><u>Competitions<sup>18</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -342,11 +354,19 @@ more inspirations!</p>
 </p>
 </li>
 <li>
+<p><strong><a href="https://hydrogen.nus.edu.sg/hydrogen-innovation-challenge-2025/" rel="noopener nofollow" target="_blank">NUS Hydrogen Innovation Challenge</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://www.cpcll.sg/events/culture-group/script-it-right-chinese-radio-drama-script-writing-competition-n-workshops/2024-script-it-right-chinese-radio-drama-script-writing-competition-n-workshops" rel="noopener noreferrer nofollow" target="_blank">Chinese Radio Drama Script Writing Competition &amp; Workshop</a></strong>
 </p>
 </li>
 <li>
 <p><strong><a href="https://www.sso.org.sg/whats-on/npvc" rel="noopener nofollow" target="_blank">National Piano &amp; Violin Competition</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.science.edu.sg/for-schools/competitions" rel="noopener nofollow" target="_blank">Science Centre Singapore - Competition</a></strong>
 </p>
 </li>
 </ul>
