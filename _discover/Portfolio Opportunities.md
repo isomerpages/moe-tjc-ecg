@@ -81,9 +81,13 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Job Shadowing<sup>4</sup></u></em></strong>
+<p><strong><em><u>Job Shadowing<sup>5</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://www.nhgeducation.nhg.com.sg/our-learners/pre-uni-student-attachments" rel="noopener nofollow" target="_blank">National Healthcare Group</a></strong>
+</p>
+</li>
 <li>
 <p><strong><a href="https://www.ttsh.com.sg/About-TTSH/Careers/Pages/Student-Opportunities.aspx" rel="noopener noreferrer nofollow" target="_blank">Tan Tock Seng Hospital</a></strong>
 </p>
