@@ -22,7 +22,6 @@ sections:
             url: /students/graduate
   - infopic:
       title: A Level Pathways
-      subtitle: Add an image and text
       id: infopic
       button: Infographic on A Level Pathway
       url: https://go.gov.sg/alevel-pathways
