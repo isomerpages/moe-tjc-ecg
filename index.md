@@ -23,10 +23,11 @@ sections:
   - infopic:
       title: A Level Pathways
       id: infopic
-      button: Infographic on A Level Pathway
+      button: Access links on Infographic
       url: https://go.gov.sg/alevel-pathways
       image: /images/20250425_Infographic__A_Level_Pathways_TJC.png
       alt: Image alt text
+      subtitle: infographic
   - infopic:
       title: ECG Buzz
       subtitle: 2024 Issue 3
