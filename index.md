@@ -21,6 +21,14 @@ sections:
           - title: Graduate
             url: /students/graduate
   - infopic:
+      title: A Level Pathways
+      subtitle: Add an image and text
+      id: infopic
+      button: Infographic on A Level Pathway
+      url: https://go.gov.sg/alevel-pathways
+      image: /images/20250425_Infographic__A_Level_Pathways_TJC.png
+      alt: Image alt text
+  - infopic:
       title: ECG Buzz
       subtitle: 2024 Issue 3
       id: infopic
