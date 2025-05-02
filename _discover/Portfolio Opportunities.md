@@ -373,6 +373,10 @@ more inspirations!</p>
 <p><strong><a href="https://www.science.edu.sg/for-schools/competitions" rel="noopener nofollow" target="_blank">Science Centre Singapore - Competition</a></strong>
 </p>
 </li>
+<li>
+<p><strong><a href="https://lkyspp.nus.edu.sg/news-events/events/details/singapore-futures-youth-competition-2025" rel="noopener nofollow" target="_blank">Singapore Futures Youth Competition</a></strong>
+</p>
+</li>
 </ul>
 <p></p>
 <p><strong><em><u>Oxbridge<sup>2</sup></u></em></strong>
