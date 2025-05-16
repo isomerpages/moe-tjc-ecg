@@ -285,6 +285,10 @@ more inspirations!</p>
 </p>
 </li>
 <li>
+<p><strong><a href="https://www.nyc.gov.sg/youthpanels" rel="noopener nofollow" target="_blank">Youth Panel (NYC)</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://www.sal.org.sg/events/JCLP2023" rel="noopener noreferrer nofollow" target="_blank">Singapore Academy of Law JC Law Programme (Annual)</a></strong>
 </p>
 </li>
