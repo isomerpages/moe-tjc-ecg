@@ -72,6 +72,10 @@ more inspirations!</p>
 </p>
 </li>
 <li>
+<p><strong><a href="https://www.mti.gov.sg/Careers/Join-The-Economist-Service/Economist-Service-Research-Assistant-Programme" rel="noopener nofollow" target="_blank">Ministry of Trade &amp; Industry (MTI) Internship</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://www.mnd.gov.sg/join-us/internship-programme" rel="noopener noreferrer nofollow" target="_blank">Ministry of National Development Internship Programme</a></strong>
 </p>
 </li>
