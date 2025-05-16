@@ -411,6 +411,10 @@ more inspirations!</p>
 <p><strong><a href="https://www.nyc.gov.sg/programmes-grants" rel="noopener noreferrer nofollow" target="_blank">National Youth Council (various including leadership, youth panel etc.)</a></strong>
 </p>
 </li>
+<li>
+<p><strong><a href="https://redcross.sg/about-us.html" rel="noopener nofollow" target="_blank">Red Cross (Volunteer/Training Academy / Internship)</a></strong>
+</p>
+</li>
 </ul>
 <p></p>
 <p>Above are just some examples of potential portfolio opportunities. Do
