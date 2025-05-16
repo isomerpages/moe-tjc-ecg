@@ -390,7 +390,7 @@ more inspirations!</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://lkyspp.nus.edu.sg/news-events/events/details/singapore-futures-youth-competition-2025" rel="noopener nofollow" target="_blank">Singapore Futures Youth Competition</a></strong>
+<p><strong><a href="https://lkyspp.nus.edu.sg/news-events/events/details/singapore-futures-youth-competition-2025" rel="noopener nofollow" target="_blank">LKY SPP - Singapore Futures Youth Competition</a></strong>
 </p>
 </li>
 </ul>
