@@ -412,7 +412,7 @@ more inspirations!</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://redcross.sg/about-us.html" rel="noopener nofollow" target="_blank">Red Cross (Volunteer/Training Academy / Internship)</a></strong>
+<p><strong><a href="https://redcross.sg/about-us.html" rel="noopener nofollow" target="_blank">Red Cross (Volunteer/Training Academy (Psycho 1st Aid / Internship)</a></strong>
 </p>
 </li>
 </ul>
