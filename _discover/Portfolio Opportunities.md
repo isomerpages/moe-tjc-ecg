@@ -40,6 +40,10 @@ more inspirations!</p>
 </p>
 </li>
 <li>
+<p><strong><a href="https://www.tech.gov.sg/careers/students-and-graduates/internships/" rel="noopener nofollow" target="_blank">GovTech Internship</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://www.htx.gov.sg/join-us/internships" rel="noopener noreferrer nofollow" target="_blank">HTX Internship Programme</a></strong>
 </p>
 </li>
