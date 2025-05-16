@@ -16,7 +16,7 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Internships/Part-time Jobs<sup>17</sup></u></em></strong>
+<p><strong><em><u>Internships/Part-time Jobs<sup>18</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -81,6 +81,10 @@ more inspirations!</p>
 </li>
 <li>
 <p><strong><a href="https://www.sla.gov.sg/join-us/internship" rel="noopener noreferrer nofollow" target="_blank">Singapore Land Authority (SLA) Internship</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.singaporeartmuseum.sg/get-involved" rel="noopener nofollow" target="_blank">Singapore Art Museum</a></strong>
 </p>
 </li>
 <li>
