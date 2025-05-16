@@ -16,7 +16,7 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Internships/Part-time Jobs<sup>15</sup></u></em></strong>
+<p><strong><em><u>Internships/Part-time Jobs<sup>16</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -396,11 +396,15 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Misc<sup>2</sup></u></em></strong>
+<p><strong><em><u>Misc<sup>3</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong><a href="https://www.temasekjc.moe.edu.sg/temasek-experience/co-curricular-activities/" rel="noopener noreferrer nofollow" target="_blank">CCA @ TJC</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://sites.google.com/moe.edu.sg/tjc-sig/home?authuser=0" rel="noopener nofollow" target="_blank">SIG @ TJC</a></strong>
 </p>
 </li>
 <li>
