@@ -399,7 +399,7 @@ more inspirations!</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://www.undergraduate.study.cam.ac.uk/apply/before/improve-application" rel="noopener nofollow" target="_blank">How to improve your application (Cambridge Super-Curricular Resource)</a></strong>
+<p><strong><a href="https://www.undergraduate.study.cam.ac.uk/apply/before/improve-application" rel="noopener nofollow" target="_blank">How to Improve Your Application (Cambridge Super-Curricular Resource)</a></strong>
 </p>
 </li>
 <li>
