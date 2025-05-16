@@ -391,9 +391,13 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Oxbridge<sup>2</sup></u></em></strong>
+<p><strong><em><u>Oxbridge<sup>3</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://www.undergraduate.study.cam.ac.uk/apply/before/improve-application" rel="noopener nofollow" target="_blank">How to improve your application (Cambridge Super-Curricular Resource)</a></strong>
+</p>
+</li>
 <li>
 <p><strong><a href="https://www.clickcambridge.co.uk/supercurricularresources" rel="noopener noreferrer nofollow" target="_blank">Super-Curricular Resource Bank (Cambridge)</a></strong>
 </p>
