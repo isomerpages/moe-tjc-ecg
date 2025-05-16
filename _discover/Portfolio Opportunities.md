@@ -16,7 +16,7 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Internships/Part-time Jobs<sup>15</sup></u></em></strong>
+<p><strong><em><u>Internships/Part-time Jobs<sup>18</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -37,6 +37,10 @@ more inspirations!</p>
 </li>
 <li>
 <p><strong><a href="https://sg.indeed.com/" rel="noopener noreferrer nofollow" target="_blank">Indeed</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.tech.gov.sg/careers/students-and-graduates/internships/" rel="noopener nofollow" target="_blank">GovTech Internship</a></strong>
 </p>
 </li>
 <li>
@@ -68,11 +72,19 @@ more inspirations!</p>
 </p>
 </li>
 <li>
+<p><strong><a href="https://www.mti.gov.sg/Careers/Join-The-Economist-Service/Economist-Service-Research-Assistant-Programme" rel="noopener nofollow" target="_blank">Ministry of Trade &amp; Industry (MTI) Internship</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://www.mnd.gov.sg/join-us/internship-programme" rel="noopener noreferrer nofollow" target="_blank">Ministry of National Development Internship Programme</a></strong>
 </p>
 </li>
 <li>
 <p><strong><a href="https://www.sla.gov.sg/join-us/internship" rel="noopener noreferrer nofollow" target="_blank">Singapore Land Authority (SLA) Internship</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.singaporeartmuseum.sg/get-involved" rel="noopener nofollow" target="_blank">Singapore Art Museum</a></strong>
 </p>
 </li>
 <li>
@@ -237,7 +249,7 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Special Programmes<sup>14</sup></u></em></strong>
+<p><strong><em><u>Special Programmes<sup>15</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -273,6 +285,10 @@ more inspirations!</p>
 </p>
 </li>
 <li>
+<p><strong><a href="https://www.nyc.gov.sg/youthpanels" rel="noopener nofollow" target="_blank">Youth Panel (NYC)</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://www.sal.org.sg/events/JCLP2023" rel="noopener noreferrer nofollow" target="_blank">Singapore Academy of Law JC Law Programme (Annual)</a></strong>
 </p>
 </li>
@@ -298,7 +314,7 @@ more inspirations!</p>
 <p></p>
 </li>
 </ul>
-<p><strong><em><u>Competitions<sup>18</sup></u></em></strong>
+<p><strong><em><u>Competitions<sup>19</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -373,11 +389,19 @@ more inspirations!</p>
 <p><strong><a href="https://www.science.edu.sg/for-schools/competitions" rel="noopener nofollow" target="_blank">Science Centre Singapore - Competition</a></strong>
 </p>
 </li>
+<li>
+<p><strong><a href="https://lkyspp.nus.edu.sg/news-events/events/details/singapore-futures-youth-competition-2025" rel="noopener nofollow" target="_blank">LKY SPP - Singapore Futures Youth Competition</a></strong>
+</p>
+</li>
 </ul>
 <p></p>
-<p><strong><em><u>Oxbridge<sup>2</sup></u></em></strong>
+<p><strong><em><u>Oxbridge<sup>3</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://www.undergraduate.study.cam.ac.uk/apply/before/improve-application" rel="noopener nofollow" target="_blank">How to Improve Your Application (Cambridge Super-Curricular Resource)</a></strong>
+</p>
+</li>
 <li>
 <p><strong><a href="https://www.clickcambridge.co.uk/supercurricularresources" rel="noopener noreferrer nofollow" target="_blank">Super-Curricular Resource Bank (Cambridge)</a></strong>
 </p>
@@ -388,7 +412,7 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Misc<sup>2</sup></u></em></strong>
+<p><strong><em><u>Misc<sup>4</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -396,7 +420,15 @@ more inspirations!</p>
 </p>
 </li>
 <li>
+<p><strong><a href="https://sites.google.com/moe.edu.sg/tjc-sig/home?authuser=0" rel="noopener nofollow" target="_blank">SIG @ TJC</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://www.nyc.gov.sg/programmes-grants" rel="noopener noreferrer nofollow" target="_blank">National Youth Council (various including leadership, youth panel etc.)</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://redcross.sg/about-us.html" rel="noopener nofollow" target="_blank">Red Cross (Volunteer/Training Academy (Psycho 1st Aid / Internship)</a></strong>
 </p>
 </li>
 </ul>
