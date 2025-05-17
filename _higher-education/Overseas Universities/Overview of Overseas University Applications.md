@@ -5,9 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: Overseas Universities
 ---
-<p><strong>Overview of the 2024 Overseas University Application Process and Deadlines</strong>
+<p><strong>Overview of the 2025 Overseas University Application Process and Deadlines</strong>
 </p>
-<p><strong><a href="/files/TJC_Overseas_University_Education_Application_Overview_2024_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for the overview</a></strong>
+<p><a href="/files/TJC_Overseas_University_Education_Application_Overview_2025.pdf" rel="noopener nofollow" target="_blank">Click here for the overview</a>
+</p>
+<p><strong>Click below for the briefing slides:</strong>
+</p>
+<p><strong><a href="/files/2025_Overseas_Higher_Ed_Briefing_Slides_Overview.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Overseas Higher Education Briefing Slides Overview</a></strong>
 </p>
 <p></p>
 <p><strong>***Join the </strong><a href="https://t.me/+L7ol0u9QD5o3MWNl" rel="noopener noreferrer nofollow" target="_blank">TJC Overseas University Telegram Channel</a><strong> for more updates***</strong>
@@ -19,10 +23,10 @@ third_nav_title: Overseas Universities
 <p><strong>UK applications:</strong> Ms Ng Lay Ling (ng_lay_ling@moe.edu.sg)</p>
 </li>
 <li>
-<p><strong>US applications:</strong> Ms Jane Lin (lin_luyuan_jane@moe.edu.sg)</p>
+<p><strong>US applications:</strong> Ms Joanne Tan</p>
+<p>(tan_siu_hwei_joanne@moe.edu.sg)</p>
 </li>
 </ul>
-<p></p>
 <p></p>
 <p><strong>Good reads:</strong>
 </p>
