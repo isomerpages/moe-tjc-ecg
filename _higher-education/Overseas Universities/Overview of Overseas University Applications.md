@@ -23,8 +23,7 @@ third_nav_title: Overseas Universities
 <p><strong>UK applications:</strong> Ms Ng Lay Ling (ng_lay_ling@moe.edu.sg)</p>
 </li>
 <li>
-<p><strong>US applications:</strong> Ms Joanne Tan</p>
-<p>(tan_siu_hwei_joanne@moe.edu.sg)</p>
+<p><strong>US applications:</strong> Ms Joanne Tan (tan_siu_hwei_joanne@moe.edu.sg)</p>
 </li>
 </ul>
 <p></p>
