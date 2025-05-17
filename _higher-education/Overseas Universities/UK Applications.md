@@ -22,25 +22,25 @@ third_nav_title: Overseas Universities
 </ul>
 <p></p>
 <p></p>
-<p><strong>Administrative matters (AY2024):</strong>
+<p><strong>Administrative matters (AY2025):</strong>
 </p>
 <p>Please read through the guidelines carefully and take note of the deadlines
 to submit your documents.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1BnE9vBaEZ0XV0bocb03ykS742Rki4UQP/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Guidelines to considering a degree in UK and key internal deadlines</a>
+<p><a href="https://drive.google.com/file/d/1JzBgN9_fc5QCdAd7i-qNXCCFEihiWdpS/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Guidelines to considering a degree in UK and key internal deadlines</a>
 </p>
 </li>
 <li>
-<p><a href="https://docs.google.com/document/d/1Zj2beNFFrYANENsWnrV7c7OtuTxAAqAb/edit?usp=drive_link&amp;ouid=115803237660093668302&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">TJC UK Form 2024 to be signed and submitted</a>
+<p><a href="https://docs.google.com/document/d/1C4UcntlwtT98TQPXikY867fSSzWaYc7r/edit" rel="noopener noreferrer nofollow" target="_blank">TJC UK Form 2025 to be signed and submitted</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1JYujOOdkLzlbuahw0r2KnA0t1CJZ73EP/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">TJC Guide to UK Applications (UCAS) 2024</a>
+<p><a href="https://drive.google.com/file/d/1tt3bZCTwecMOE0SbmBCRB9ilsD4s9nBh/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">TJC Guide to UK Applications (UCAS) for 2026 Entry</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1yT-L_zSOIcG1oCdbTxrgxrZnrvQFzRRL/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Walkthrough of UCAS Portal &amp; Application 2024</a>
+<p><a href="https://docs.google.com/presentation/d/1crOBZrACL-zqFM5FMtcNxwwUSmYEbKhf/edit?usp=sharing&amp;ouid=115803237660093668302&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">Walkthrough of UCAS Portal &amp; Application for 2026 Entry</a>
 </p>
 </li>
 <li>
