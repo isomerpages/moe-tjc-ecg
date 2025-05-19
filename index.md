@@ -21,6 +21,11 @@ sections:
           - title: Graduate
             url: /students/graduate
   - infopic:
+      title: TJC ECG Journey
+      id: infopic
+      image: /images/TJC_ECG_Journey_F.png
+      alt: Image alt text
+  - infopic:
       title: A Level Pathways
       id: infopic
       button: Access links on Infographic
@@ -74,9 +79,4 @@ sections:
           description: New Digital; Tips for Aptitude-based Admissions & Personal Statements
           linktext: Access 2022 Issue 1
           url: files/2022_explorer_issue1_preu.pdf
-  - infopic:
-      title: TJC ECG Journey
-      id: infopic
-      image: /images/TJC_ECG_Journey_F.png
-      alt: Image alt text
 ---
