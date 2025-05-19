@@ -25,6 +25,9 @@ sections:
       id: infopic
       image: /images/TJC_ECG_Journey_F.png
       alt: Image alt text
+      description: "Begin your TJC ECG journey: grow through self-exploration,
+        discover your purpose, explore careers, unis, and build a portfolio for
+        your future."
   - infopic:
       title: A Level Pathways
       id: infopic
