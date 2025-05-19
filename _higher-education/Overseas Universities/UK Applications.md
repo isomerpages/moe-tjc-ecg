@@ -124,6 +124,33 @@ to submit your documents.</p>
 <a href="https://www.st-annes.ox.ac.uk/study-here/undergraduate/outreach/for-students/super-curriculars-and-resources/" rel="noopener noreferrer nofollow" target="_blank">St Anne's College Oxford</a>
 </p>
 </li>
+<li>
+<p><a href="https://unibuddy.com/for-students/" rel="noopener nofollow" target="_blank">Connect with Real Students and Future Classmates from Institutions Around the World!</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.undergraduate.study.cam.ac.uk/international-students/chat-our-students" rel="noopener nofollow" target="_blank">Connect With Students From Cambridge!</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.virtualtour.study.cam.ac.uk/" rel="noopener nofollow" target="_blank">Explore Cambridge by Joining Their Virtual Tour</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.undergraduate.study.cam.ac.uk/applicant-webinars" rel="noopener nofollow" target="_blank">Applicant Webinar Series For Cambridge</a>
+</p>
+</li>
+<li>
+<p><a href="https://linktr.ee/cumsa_" rel="noopener nofollow" target="_blank">Cambridge University Malaysia and Singapore Association (CUMSA)</a>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CUMSA outreach department provides support for Singaporeans interested
+in applying to Cambridge by conducting mentorship programs, talks/webinars
+and release admission and university-related guides.</p>
+</li>
+</ul>
+</li>
 </ul>
 <p></p>
 <p><strong>Sharing by Alumni:</strong>
