@@ -14,15 +14,15 @@ third_nav_title: Overseas Universities
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Teacher I/C: Ms Jane Lin</p>
+<p>Teacher I/C: Ms Joanne Tan</p>
 </li>
 <li>
-<p>(email address: <a href="mailto:lin_luyuan_jane@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_luyuan_jane@moe.edu.sg</a>)&nbsp;&nbsp;</p>
+<p>(email address: <a href="mailto:lin_luyuan_jane@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siu_hwei_joanne@moe.edu.sg</a>)&nbsp;&nbsp;</p>
 </li>
 </ul>
 <p></p>
 <p></p>
-<p><strong>Administrative matters (AY2024):</strong>
+<p><strong>Administrative matters (AY2025):</strong>
 </p>
 <p>Please read through the guidelines carefully and take note of the deadlines
 to submit your documents.</p>
