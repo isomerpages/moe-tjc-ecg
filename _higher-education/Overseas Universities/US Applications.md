@@ -26,28 +26,22 @@ third_nav_title: Overseas Universities
 </p>
 <p>Please read through the guidelines carefully and take note of the deadlines
 to submit your documents.</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2024_Overseas_Higher_Ed_Briefing_Slides_US.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Guidelines for applying to US universities</a>
+<p><a href="/files/2025_TJC_US_Form__for_current_students_.pdf" rel="noopener nofollow" target="_blank">2025 TJC US Form (for current students)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2024_TJC_US_Form__for_current_students_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 TJC US Form (for current students)</a>
+<p><a href="/files/2025_TJC_US_Form__for_alumni_.pdf" rel="noopener nofollow" target="_blank">2025 TJC US Form (for alumni)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2024_TJC_US_Form__for_TJC_alumni_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 TJC US Form (for TJC alumni</a>)</p>
-</li>
-<li>
-<p><a href="/files/2024_TJC_Student_Guide_to_CommonApp.pdf" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>TJC Guide to the CommonApp platform (for students)</u></a>
+<p><a href="/files/2025_TJC_Student_Guide_to_University_of_California_admissions_portal.pdf" rel="noopener nofollow" target="_blank">2025 TJC Student Guide to University of California admissions portal</a>
 </p>
 </li>
 <li>
-<p><a href="/files/TJC_Student_Guide_to_University_of_California_admissions_portal.pdf" rel="noopener noreferrer nofollow" target="_blank">TJC Guide to University of California applications (for students)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/5__Tips_on_US_university_applications.pdf" rel="noopener noreferrer nofollow" target="_blank">Tips on US university applications</a>
+<p><a href="/files/2025_Tips_on_US_university_applications.pdf" rel="noopener nofollow" target="_blank">2025 Tips on US University applications</a>
 </p>
 </li>
 </ul>
