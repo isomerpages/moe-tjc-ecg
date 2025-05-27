@@ -44,6 +44,10 @@ to submit your documents.</p>
 <p><a href="/files/2025_Tips_on_US_university_applications.pdf" rel="noopener nofollow" target="_blank">2025 Tips on US University applications</a>
 </p>
 </li>
+<li>
+<p><a href="/files/2025_TJC_Student_Guide_to_CommonApp_updated.pdf" rel="noopener nofollow" target="_blank">2025_TJC_Student_Guide_to_Common App</a>
+</p>
+</li>
 </ul>
 <p></p>
 <p></p>
