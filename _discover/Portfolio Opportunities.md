@@ -16,7 +16,7 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Internships/Part-time Jobs<sup>18</sup></u></em></strong>
+<p><strong><em><u>Internships/Part-time Jobs<sup>19</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -89,6 +89,10 @@ more inspirations!</p>
 </li>
 <li>
 <p><strong><a href="https://www.careers.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Careers@Gov</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.a-star.edu.sg/Scholarships/Junior-College-and-Polytechnic-and-Secondary-School-Students/Overview" rel="noopener nofollow" target="_blank">A*STAR Awards/Attachments (Research/Engineering)</a></strong>
 </p>
 </li>
 </ul>
