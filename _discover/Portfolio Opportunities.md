@@ -309,6 +309,10 @@ more inspirations!</p>
 </p>
 </li>
 <li>
+<p><strong><a href="https://www.tll.org.sg/careers/internship/" rel="noopener nofollow" target="_blank">REsearch Attachment Programme (REAP) at Temasek Life Sciences Laboratory (TLL)</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://www.ntu.edu.sg/education/talent-outreach/seeNTU" rel="noopener nofollow" target="_blank">Nanyang Research Programme / seeNTU</a></strong>
 </p>
 </li>
