@@ -305,7 +305,11 @@ more inspirations!</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.ntu.edu.sg/education/talent-outreach/seeNTU" rel="noopener nofollow" target="_blank">Nanyang Research Programme / seeNTU </a></strong>
+<p><strong><a href="https://www.dsta.gov.sg/join-us/student/young-defence-scientists-programme" rel="noopener nofollow" target="_blank">DSTA Youth Defence Scientist Programme</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.ntu.edu.sg/education/talent-outreach/seeNTU" rel="noopener nofollow" target="_blank">Nanyang Research Programme / seeNTU</a></strong>
 </p>
 </li>
 <li>
