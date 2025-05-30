@@ -305,7 +305,7 @@ more inspirations!</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.ntu.edu.sg/education/talent-outreach/NRP" rel="noopener nofollow" target="_blank">Nanyang Research Programme</a></strong>
+<p><strong><a href="https://www.ntu.edu.sg/education/talent-outreach/seeNTU" rel="noopener nofollow" target="_blank">Nanyang Research Programme / seeNTU </a></strong>
 </p>
 </li>
 <li>
