@@ -390,7 +390,7 @@ more inspirations!</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.science.edu.sg/for-schools/competitions/singapore-science-and-engineering-fair#:~:text=The%20Singapore%20Science%20%26%20Engineering%20Fair%20%28SSEF%29%20is,and%20Research%20%28A%2ASTAR%29%2C%20and%20Science%20Centre%20Singapore%20%28SCS%29." rel="noopener nofollow" target="_blank">Singapore Science &amp; Engineering Fair -Competition</a></strong>
+<p><strong><a href="https://www.science.edu.sg/for-schools/competitions/singapore-science-and-engineering-fair#:~:text=The%20Singapore%20Science%20%26%20Engineering%20Fair%20%28SSEF%29%20is,and%20Research%20%28A%2ASTAR%29%2C%20and%20Science%20Centre%20Singapore%20%28SCS%29." rel="noopener nofollow" target="_blank">Singapore Science &amp; Engineering Fair - Competition</a></strong>
 </p>
 </li>
 <li>
