@@ -313,7 +313,7 @@ more inspirations!</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://chemistry.nus.edu.sg/outreach-event-calendar/" rel="noopener nofollow" target="_blank">NUS Chemistry Outreach (updated end Jan each calendar year)</a></strong>
+<p><strong><a href="https://chemistry.nus.edu.sg/outreach-event-calendar/" rel="noopener nofollow" target="_blank">NUS Chemistry Outreach, including competition (updated end Jan each calendar year)</a></strong>
 </p>
 <p></p>
 </li>
