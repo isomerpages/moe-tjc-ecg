@@ -18,7 +18,7 @@ more inspirations!</p>
 <p></p>
 <p><strong><em><u>Internships/Part-time Jobs<sup>19</sup></u></em></strong>
 </p>
-<ul data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
 <p><strong><a href="https://www.internsg.com/jobs/" rel="noopener noreferrer nofollow" target="_blank">InternSG</a></strong>
 </p>
@@ -95,11 +95,11 @@ more inspirations!</p>
 <p><strong><a href="https://www.a-star.edu.sg/Scholarships/Junior-College-and-Polytechnic-and-Secondary-School-Students/Overview" rel="noopener nofollow" target="_blank">A*STAR Awards/Attachments (Research/Engineering)</a></strong>
 </p>
 </li>
-</ul>
+</ol>
 <p></p>
 <p><strong><em><u>Job Shadowing<sup>5</sup></u></em></strong>
 </p>
-<ul data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
 <p><strong><a href="https://www.nhgeducation.nhg.com.sg/our-learners/pre-uni-student-attachments" rel="noopener nofollow" target="_blank">National Healthcare Group</a></strong>
 </p>
@@ -120,20 +120,20 @@ more inspirations!</p>
 <p><strong><a href="https://www.skh.com.sg/education-training/Pages/Clinical-Job-Shadowing.aspx" rel="noopener noreferrer nofollow" target="_blank">Sengkang General Hospital</a></strong>
 </p>
 </li>
-</ul>
+</ol>
 <p></p>
 <p><strong><em><u>Leadership Opportunities<sup>1</sup></u></em></strong>
 </p>
-<ul data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
 <p><strong><a href="https://www.youthcorps.gov.sg/lead" rel="noopener noreferrer nofollow" target="_blank">Youth Corps Leadership Programme</a></strong>
 </p>
 </li>
-</ul>
+</ol>
 <p></p>
 <p><strong><em><u>Volunteering Opportunities<sup>19</sup></u></em></strong>
 </p>
-<ul data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
 <p><strong><a href="https://www.youthcorps.gov.sg/volunteer" rel="noopener noreferrer nofollow" target="_blank">Youth Corps Singapore</a></strong>
 </p>
@@ -210,11 +210,11 @@ more inspirations!</p>
 <p><strong><a href="https://www.esplanade.com/get-involved/volunteering" rel="noopener nofollow" target="_blank">Esplanade Volunteering (min age 16 yrs old)</a></strong>
 </p>
 </li>
-</ul>
+</ol>
 <p></p>
 <p><strong><em><u>Free Online Courses<sup>9</sup></u></em></strong>
 </p>
-<ul data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
 <p><strong><a href="https://www.coursera.org/" rel="noopener noreferrer nofollow" target="_blank">Coursera</a></strong>
 </p>
@@ -251,11 +251,11 @@ more inspirations!</p>
 <p><strong><a href="https://unccelearn.org/" rel="noopener noreferrer nofollow" target="_blank">United Nation Climate Change E-learn</a></strong>
 </p>
 </li>
-</ul>
+</ol>
 <p></p>
 <p><strong><em><u>Special Programmes<sup>17</sup></u></em></strong>
 </p>
-<ul data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
 <p><strong><a href="https://www.syfc.sg/Home/ApplyNow" rel="noopener nofollow" target="_blank">Singapore Youth Flying Club (Free Flying Course/Open Unit CCA)</a></strong>
 </p>
@@ -325,10 +325,10 @@ more inspirations!</p>
 </p>
 <p></p>
 </li>
-</ul>
+</ol>
 <p><strong><em><u>Competitions<sup>19</sup></u></em></strong>
 </p>
-<ul data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
 <p><strong><a href="https://www.johnlockeinstitute.com/essay-competition" rel="noopener noreferrer nofollow" target="_blank">John Locke Essay Competition</a></strong>
 </p>
@@ -405,11 +405,11 @@ more inspirations!</p>
 <p><strong><a href="https://lkyspp.nus.edu.sg/news-events/events/details/singapore-futures-youth-competition-2025" rel="noopener nofollow" target="_blank">LKY SPP - Singapore Futures Youth Competition</a></strong>
 </p>
 </li>
-</ul>
+</ol>
 <p></p>
 <p><strong><em><u>Oxbridge<sup>3</sup></u></em></strong>
 </p>
-<ul data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
 <p><strong><a href="https://www.undergraduate.study.cam.ac.uk/apply/before/improve-application" rel="noopener nofollow" target="_blank">How to Improve Your Application (Cambridge Super-Curricular Resource)</a></strong>
 </p>
@@ -422,11 +422,11 @@ more inspirations!</p>
 <p><strong>Super-Curricular Resource (Oxford): <a href="https://www.ox.ac.uk/admissions/undergraduate/courses/suggested-subject-resources" rel="noopener noreferrer nofollow" target="_blank">Suggested Subject Resource</a> / <a href="https://www.univ.ox.ac.uk/applying-to-univ/explore-your-subject/" rel="noopener noreferrer nofollow" target="_blank">UNVI Oxford</a> / <a href="https://www.hertford.ox.ac.uk/study-here/outreach/digital/challenge" rel="noopener noreferrer nofollow" target="_blank">Hertford College Oxford</a></strong>
 </p>
 </li>
-</ul>
+</ol>
 <p></p>
 <p><strong><em><u>Misc<sup>4</sup></u></em></strong>
 </p>
-<ul data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
 <p><strong><a href="https://www.temasekjc.moe.edu.sg/temasek-experience/co-curricular-activities/" rel="noopener noreferrer nofollow" target="_blank">CCA @ TJC</a></strong>
 </p>
@@ -443,7 +443,7 @@ more inspirations!</p>
 <p><strong><a href="https://redcross.sg/about-us.html" rel="noopener nofollow" target="_blank">Red Cross (Volunteer/Training Academy (Psycho 1st Aid / Internship)</a></strong>
 </p>
 </li>
-</ul>
+</ol>
 <p></p>
 <p>Above are just some examples of potential portfolio opportunities. Do
 google the internet for more inspirations and ideas.</p>
