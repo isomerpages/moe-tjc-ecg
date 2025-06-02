@@ -38,8 +38,8 @@ contacts:
     title: University Applications
   - content:
       - phone: ""
-      - email: lin_luyuan_jane@moe.edu.sg
-      - other: Ms Jane Lin
+      - email: tan_siu_hwei_joanne@moe.edu.sg
+      - other: Ms Joanne Tan
     title: US Universities
   - content:
       - phone: ""
@@ -50,16 +50,6 @@ contacts:
       - phone: ""
       - email: han_song_guang@moe.edu.sg
       - other: Mr Han Song Guang
-    title: Scholarship Applications
-  - content:
-      - phone: ""
-      - email: chan_yan_ying_janice@moe.edu.sg
-      - other: Ms Janice Chan
-    title: Scholarship Applications
-  - content:
-      - phone: ""
-      - email: yeo_kai_xiang_a@moe.edu.sg
-      - other: Mr Yeo Kai Xiang
     title: Scholarship Applications
 feedback: ""
 ---
