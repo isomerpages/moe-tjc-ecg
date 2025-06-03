@@ -60,7 +60,7 @@ Portal!</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.birmingham.ac.uk/funding/undergraduate/university-of-birmingham-singapore-high-fliers-undergraduate-scholarships" rel="noopener nofollow" target="_blank">Singapore High Fliers Undergraduate Scholarships</a></strong>
+<p><strong><a href="https://www.birmingham.ac.uk/funding/undergraduate/university-of-birmingham-singapore-high-fliers-undergraduate-scholarships" rel="noopener nofollow" target="_blank">Singapore High Fliers Undergraduate Scholarships (Birmingham)</a></strong>
 </p>
 </li>
 <li>
