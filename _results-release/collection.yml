@@ -1,0 +1,8 @@
+collections:
+  results-release:
+    output: true
+    order:
+      - Start Here.md
+      - How to Calculate Your UAS.md
+      - Admission Requirements, Subject Prerequisites and IGP.md
+      - Contact Us.md

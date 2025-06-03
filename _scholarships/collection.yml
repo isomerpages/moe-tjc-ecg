@@ -1,0 +1,9 @@
+collections:
+  scholarships:
+    output: true
+    order:
+      - Overview of Scholarships.md
+      - Secondary School Scholarships.md
+      - Pre University Scholarships.md
+      - Undergraduate Scholarships.md
+      - Resources.md
