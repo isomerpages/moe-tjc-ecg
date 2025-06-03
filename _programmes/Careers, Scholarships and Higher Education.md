@@ -15,12 +15,12 @@ various agencies about the scholarships they offer and clarify questions
 they have about studying in the local autonomous universities. TJC also
 invites alumni and representatives from overseas universities to share
 with our students on what studying overseas is like.</p>
-<h4>Careers, Scholarships and Higher Education (CSHE) Day</h4>
+<h4><strong>Careers, Scholarships and Higher Education (CSHE) Day</strong></h4>
 <p>Annually, TJC organises the Careers, Scholarships and Higher Education
 (CSHE) Fair, which consists of career talks and an exhibition with participating
 organisations from both public and private sectors.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Career_Talk.jpeg">
+<img style="box-sizing: content-box; border-style: none; max-width: 100%; width: 1012px;" height="auto" width="100%" alt="" src="https://github.com/isomerpages/moe-tjc-ecg/raw/staging/images/Career_Talk.jpeg">
 </div>
 <p>A career talk by Mr Khoo Peng Beng, Director of ARC Studio Architecture
 + Urbanism</p>
@@ -31,9 +31,7 @@ TJC alumni and professionals from various industries to share their experiences
 in the different fields of work as well as their experiences while studying
 in universities.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3345.JPG">
+<img style="box-sizing: content-box; border-style: none; max-width: 100%; width: 1012px;" height="auto" width="100%" alt="" src="https://github.com/isomerpages/moe-tjc-ecg/raw/staging/images/IMG_3345.JPG">
 </div>
 <p>A career talk by Ms Mong Chin, Mongabong Productions, Graphic Designer
 Intern</p>
-<p></p>
-<p></p>

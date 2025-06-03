@@ -41,6 +41,39 @@ start exploring the many available scholarships you can apply for!</p>
 access e-magazines and an in-house application guide for the BrightSparks
 Portal!</p>
 <p></p>
+<p><strong><u>Some UK Scholarships for Singapore students</u></strong>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://www.fitz.cam.ac.uk/ug-finances-and-support" rel="noopener nofollow" target="_blank">ST Telemedia – Lee Kuan Yew Undergraduate Scholarship (Cambridge)</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.some.ox.ac.uk/funding-and-opportunities/undergraduate-scholarships/lee-kuan-yew-thatcher-scholarship/" rel="noopener nofollow" target="_blank">Lee Kuan Yew – Thatcher Scholarship (Oxford)</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.imperial.ac.uk/computing/prospective-students/scholarships/" rel="noopener nofollow" target="_blank">World Scientific Scholarship (Imperial College London)</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.lse.ac.uk/study-at-lse/Undergraduate/fees-and-funding/Singapore-LSE-Trust-Undergraduate-Scholarship" rel="noopener nofollow" target="_blank">Singapore LSE Trust Undergraduate Scholarship</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://warwick.ac.uk/study/scholarships-and-bursaries/scholarships/friends_singapore" rel="noopener nofollow" target="_blank">Friends of the University of Warwick in Singapore Scholarship</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.birmingham.ac.uk/funding/undergraduate/university-of-birmingham-singapore-high-fliers-undergraduate-scholarships" rel="noopener nofollow" target="_blank">Singapore High Fliers Undergraduate Scholarships (Birmingham)</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.manchester.ac.uk/study/international/finance-and-scholarships/funding/global-futures-scholarship/" rel="noopener nofollow" target="_blank">Global Futures Scholarships - University of Manchester</a></strong>
+</p>
+<p></p>
+</li>
+</ul>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
