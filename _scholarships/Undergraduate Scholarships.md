@@ -52,6 +52,10 @@ Portal!</p>
 </p>
 </li>
 <li>
+<p><strong><a href="https://www.imperial.ac.uk/computing/prospective-students/scholarships/" rel="noopener nofollow" target="_blank">World Scientific Scholarship (Imperial College London)</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://www.lse.ac.uk/study-at-lse/Undergraduate/fees-and-funding/Singapore-LSE-Trust-Undergraduate-Scholarship" rel="noopener nofollow" target="_blank">Singapore LSE Trust Undergraduate Scholarship</a></strong>
 </p>
 </li>
@@ -66,10 +70,7 @@ Portal!</p>
 <li>
 <p><strong><a href="https://www.manchester.ac.uk/study/international/finance-and-scholarships/funding/global-futures-scholarship/" rel="noopener nofollow" target="_blank">Global Futures Scholarships - University of Manchester</a></strong>
 </p>
-</li>
-<li>
-<p><strong><a href="https://www.imperial.ac.uk/computing/prospective-students/scholarships/" rel="noopener nofollow" target="_blank">World Scientific Scholarship (Imperial College London)</a></strong>
-</p>
+<p></p>
 </li>
 </ul>
 <p></p>
