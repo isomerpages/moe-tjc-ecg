@@ -44,7 +44,11 @@ Portal!</p>
 <p><strong><u>Some UK Scholarships for Singapore students</u></strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://www.fitz.cam.ac.uk/ug-finances-and-support" rel="noopener nofollow" target="_blank">ST Telemedia – Lee Kuan Yew Undergraduate Scholarship</a></strong>
+<p><strong><a href="https://www.fitz.cam.ac.uk/ug-finances-and-support" rel="noopener nofollow" target="_blank">ST Telemedia – Lee Kuan Yew Undergraduate Scholarship (Cambridge)</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.some.ox.ac.uk/funding-and-opportunities/undergraduate-scholarships/lee-kuan-yew-thatcher-scholarship/" rel="noopener nofollow" target="_blank">Lee Kuan Yew – Thatcher Scholarship (Oxford)</a></strong>
 </p>
 </li>
 <li>
