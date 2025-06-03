@@ -44,7 +44,7 @@ Portal!</p>
 <p><strong><u>Some UK Scholarships for Singapore students</u></strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://www.fitz.cam.ac.uk/ug-finances-and-support" rel="noopener nofollow" target="_blank">ST Telemedia – Lee Kuan Yew Undergraduate Scholarship</a> </strong>
+<p><strong><a href="https://www.fitz.cam.ac.uk/ug-finances-and-support" rel="noopener nofollow" target="_blank">ST Telemedia – Lee Kuan Yew Undergraduate Scholarship</a></strong>
 </p>
 </li>
 <li>
@@ -56,7 +56,16 @@ Portal!</p>
 </p>
 </li>
 <li>
-<p></p>
+<p><strong><a href="https://www.birmingham.ac.uk/funding/undergraduate/university-of-birmingham-singapore-high-fliers-undergraduate-scholarships" rel="noopener nofollow" target="_blank">Singapore High Fliers Undergraduate Scholarships</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.manchester.ac.uk/study/international/finance-and-scholarships/funding/global-futures-scholarship/" rel="noopener nofollow" target="_blank">Global Futures Scholarships - University of Manchester</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.imperial.ac.uk/computing/prospective-students/scholarships/" rel="noopener nofollow" target="_blank">World Scientific Scholarship (Imperial College London)</a></strong>
+</p>
 </li>
 </ul>
 <p></p>
