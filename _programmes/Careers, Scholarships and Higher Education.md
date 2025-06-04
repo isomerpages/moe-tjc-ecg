@@ -19,6 +19,10 @@ with our students on what studying overseas is like.</p>
 <p>Annually, TJC organises the Careers, Scholarships and Higher Education
 (CSHE) Fair, which consists of career talks and an exhibition with participating
 organisations from both public and private sectors.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Career Talk" src="/images/Career_Talk.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: content-box; border-style: none; max-width: 100%; width: 1012px;" height="auto" width="100%" alt="" src="https://github.com/isomerpages/moe-tjc-ecg/raw/staging/images/Career_Talk.jpeg">
 </div>
