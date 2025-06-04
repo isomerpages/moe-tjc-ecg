@@ -39,4 +39,8 @@ in universities.</p>
 <p>One to one conversation with Mr Isaac Tito Shane, Tito Isaac &amp; Co
 LLP, Founding Partner (Law)</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Human Library" src="/images/Human_Library.jpg">
+</div>
+<p>TJC alumni share their experiences while studying in universities, both
+locally &amp; overseas.</p>
