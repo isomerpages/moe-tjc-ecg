@@ -17,8 +17,9 @@ invites alumni and representatives from overseas universities to share
 with our students on what studying overseas is like.</p>
 <h4><strong>Careers, Scholarships and Higher Education (CSHE) Day</strong></h4>
 <p>Annually, TJC organises the Careers, Scholarships and Higher Education
-(CSHE) Fair, which consists of career talks and an exhibition with participating
-organisations from both public and private sectors.</p>
+(CSHE) Fair, which consists of career talks, human library, fireside chats
+and an exhibition with participating organisations from both public and
+private sectors.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Career Talk" src="/images/Career_Talk.png">
