@@ -37,7 +37,7 @@ in universities.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Career Talk" src="/images/One_to_One_Conversation_with__Industry_Prof.jpg">
 </div>
 <p>One to one conversation with Mr Isaac Tito Shane, Tito Isaac &amp; Co
-LLP, Founding Partner (Law)</p>
+LLP, Founding Partner (Law).</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Human Library" src="/images/Human_Library.jpg">
