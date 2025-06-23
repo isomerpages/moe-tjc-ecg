@@ -14,7 +14,7 @@ think about <strong><em>What you want to do? Who you want to be? Where do you wa
 </div>
 <p><strong>Student Info Deck</strong>: Contains FAQs, Tips for selecting
 universities/courses</p>
-<p><strong><a href="https://ecg.temasekjc.moe.edu.sg/contact-us/" rel="noopener nofollow" target="_blank">Contact Us for more ECG Support! </a></strong>
+<p><strong><a href="https://ecg.temasekjc.moe.edu.sg/contact-us/" rel="noopener nofollow" target="_blank">Contact Us for more ECG Support!</a></strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
