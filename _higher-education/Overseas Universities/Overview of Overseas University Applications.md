@@ -35,7 +35,7 @@ third_nav_title: Overseas Universities
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.ucas.com/advisers/help-and-training/guides-resources-and-training/pre-application-support/personal-statements-2026-entry-onwards" rel="noopener noreferrer nofollow" target="_blank">UCAS Personal Statement for 2026 Entry Onwards</a><em> (Source: UCAS)</em></strong>
+<p><strong><a href="https://www.crimsoneducation.org/sg/blog/national-service-ns-deferment-policies/" rel="noopener nofollow" target="_blank">National Service (NS) Deferment Policies for Universities: A Comprehensive Guide</a><em> (Source: Crimson)</em></strong>
 </p>
 </li>
 <li>
