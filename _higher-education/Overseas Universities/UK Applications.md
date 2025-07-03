@@ -47,12 +47,17 @@ to submit your documents.</p>
 <p><a href="https://www.ucas.com/search/frequently-asked-questions/undergraduate" rel="noopener noreferrer nofollow" target="_blank">Student's FAQ</a>
 </p>
 </li>
+</ul>
+<p></p>
+<p><strong>UCAS Personal Statements Resources:</strong>
+</p>
+<ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.ucas.com/undergraduate/applying-university/writing-your-personal-statement" rel="noopener noreferrer nofollow" target="_blank">Personal Statement Guide</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1sH4UbgAJl33B6MX75es7waitwYpGlWqy/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Personal Statement Dos and Don'ts</a>
+<p><a href="https://www.ucas.com/advisers/help-and-training/toolkits/personal-statement-toolkit" rel="noopener nofollow" target="_blank">Personal Statement Toolkit</a>
 </p>
 </li>
 <li>
