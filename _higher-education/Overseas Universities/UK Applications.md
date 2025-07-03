@@ -47,12 +47,17 @@ to submit your documents.</p>
 <p><a href="https://www.ucas.com/search/frequently-asked-questions/undergraduate" rel="noopener noreferrer nofollow" target="_blank">Student's FAQ</a>
 </p>
 </li>
+</ul>
+<p></p>
+<p><strong>UCAS Personal Statements Resources:</strong>
+</p>
+<ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.ucas.com/undergraduate/applying-university/writing-your-personal-statement" rel="noopener noreferrer nofollow" target="_blank">Personal Statement Guide</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1sH4UbgAJl33B6MX75es7waitwYpGlWqy/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Personal Statement Dos and Don'ts</a>
+<p><a href="https://www.ucas.com/advisers/help-and-training/toolkits/personal-statement-toolkit" rel="noopener nofollow" target="_blank">Personal Statement Toolkit</a>
 </p>
 </li>
 <li>
@@ -116,8 +121,7 @@ to submit your documents.</p>
 </li>
 <li>
 <p>Super-Curricular Resource (Oxford): <a href="https://www.ox.ac.uk/admissions/undergraduate/courses/suggested-subject-resources" rel="noopener noreferrer nofollow" target="_blank">Suggested Subject Resource</a> /
-<a href="https://www.univ.ox.ac.uk/applying-to-univ/explore-your-subject/" rel="noopener noreferrer nofollow" target="_blank">UNVI Oxford</a>/ <a href="https://www.hertford.ox.ac.uk/study-here/outreach/digital/challenge" rel="noopener noreferrer nofollow" target="_blank">Hertford College Oxford</a> /
-<a href="https://www.st-annes.ox.ac.uk/study-here/undergraduate/outreach/for-students/super-curriculars-and-resources/" rel="noopener noreferrer nofollow" target="_blank">St Anne's College Oxford</a>
+<a href="https://www.univ.ox.ac.uk/applying-to-univ/explore-your-subject/" rel="noopener noreferrer nofollow" target="_blank">UNVI Oxford</a>/ <a href="https://www.hertford.ox.ac.uk/study-here/outreach/digital/challenge" rel="noopener noreferrer nofollow" target="_blank">Hertford College Oxford</a>
 </p>
 </li>
 <li>

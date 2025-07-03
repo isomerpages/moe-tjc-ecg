@@ -7,14 +7,14 @@ third_nav_title: Overseas Universities
 ---
 <p><strong>Overview of the 2025 Overseas University Application Process and Deadlines</strong>
 </p>
-<p><a href="/files/TJC_Overseas_University_Education_Application_Overview_2025.pdf" rel="noopener nofollow" target="_blank">Click here for the overview</a>
+<p><strong><a href="/files/TJC_Overseas_University_Education_Application_Overview_2025.pdf" rel="noopener nofollow" target="_blank">Click here for the overview</a></strong>
 </p>
 <p><strong>Click below for the briefing slides:</strong>
 </p>
 <p><strong><a href="/files/2025_Overseas_Higher_Ed_Briefing_Slides_Overview.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Overseas Higher Education Briefing Slides Overview</a></strong>
 </p>
 <p></p>
-<p><strong>***Join the </strong><a href="https://t.me/+L7ol0u9QD5o3MWNl" rel="noopener noreferrer nofollow" target="_blank">TJC Overseas University Telegram Channel</a><strong> for more updates***</strong>
+<p><strong>***Join the <a href="https://t.me/+L7ol0u9QD5o3MWNl" rel="noopener noreferrer nofollow" target="_blank">TJC Overseas University Telegram Channel</a> for more updates***</strong>
 </p>
 <p></p>
 <p><strong>Teachers in charge</strong>:</p>
@@ -35,7 +35,7 @@ third_nav_title: Overseas Universities
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.ucas.com/advisers/help-and-training/guides-resources-and-training/pre-application-support/personal-statements-2026-entry-onwards" rel="noopener noreferrer nofollow" target="_blank">UCAS Personal Statement for 2026 Entry Onwards</a><em> (Source: UCAS)</em></strong>
+<p><strong><a href="https://www.crimsoneducation.org/sg/blog/national-service-ns-deferment-policies/" rel="noopener nofollow" target="_blank">National Service (NS) Deferment Policies for Universities: A Comprehensive Guide</a><em> (Source: Crimson)</em></strong>
 </p>
 </li>
 <li>
