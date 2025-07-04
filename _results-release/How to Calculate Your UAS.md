@@ -26,19 +26,19 @@ description: ""
 </li>
 </ul>
 <p></p>
-<p><strong><u>Note</u>: </strong>
+<p><strong><u>Note</u>:</strong>
 </p>
-<p><strong>(1)  H1 Mother Tongue Language and/or the fourth H1/H2 content-based subject may be considered if it improves the UAS.&nbsp;</strong>
+<p><strong>(1) H1 Mother Tongue Language and/or the fourth H1/H2 content-based subject may be considered if it improves the UAS.&nbsp;</strong>
 </p>
 <p><strong>(2) H2 Knowledge &amp; Inquiry (KI) will no longer be considered in lieu of GP. If offered, H2 KI will be considered as a H2 content-based subject.</strong>
 </p>
 <p><strong>(3) Students will be required to obtain a pass grade in Project Work to be eligible for admission.</strong>
 </p>
-<p><strong>(4) FAQ on Revised UAS Computation: </strong>
+<p><strong>(4) FAQ on Revised UAS Computation:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://nus.edu.sg/oam/docs/default-source/singapore-cambridge-gce-a-level/faqs-on-revised-uas-computation.pdf" rel="noopener nofollow" target="_blank">NUS </a></strong>
+<p><strong><a href="https://nus.edu.sg/oam/docs/default-source/singapore-cambridge-gce-a-level/faqs-on-revised-uas-computation.pdf" rel="noopener nofollow" target="_blank">NUS</a></strong>
 </p>
 </li>
 <li>
