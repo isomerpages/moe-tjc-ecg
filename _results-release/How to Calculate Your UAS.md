@@ -42,7 +42,7 @@ description: ""
 </p>
 </li>
 </ul>
-<p><a href="https://www.ntu.edu.sg/docs/default-source/undergraduate-admissions/a-level/faq-revised-uas-computation-for-au-admission-ay2026.pdf?sfvrsn=c36e4baf_1" rel="noopener nofollow" target="_blank">NTU</a>
+<p><a href="https://www.ntu.edu.sg/docs/default-source/undergraduate-admissions/a-level/faq-revised-uas-computation-for-au-admission-ay2026.pdf" rel="noopener nofollow" target="_blank">NTU</a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
