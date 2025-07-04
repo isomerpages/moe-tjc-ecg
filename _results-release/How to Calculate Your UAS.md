@@ -42,6 +42,10 @@ description: ""
 </p>
 </li>
 <li>
+<p><a href="https://www.ntu.edu.sg/docs/default-source/undergraduate-admissions/a-level/faq-revised-uas-computation-for-au-admission-ay2026.pdf?sfvrsn=c36e4baf_1" rel="noopener nofollow" target="_blank">NTU</a>
+</p>
+</li>
+<li>
 <p><strong><a href="https://www.ntu.edu.sg/docs/default-source/undergraduate-admissions/a-level/faq-revised-uas-computation-for-au-admission-ay2026.pdf?sfvrsn=c36e4baf_1" rel="noopener nofollow" target="_blank">NTU</a></strong>
 </p>
 </li>
