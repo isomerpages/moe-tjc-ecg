@@ -41,25 +41,16 @@ description: ""
 <p><strong><a href="https://nus.edu.sg/oam/docs/default-source/singapore-cambridge-gce-a-level/faqs-on-revised-uas-computation.pdf" rel="noopener nofollow" target="_blank">NUS</a></strong>
 </p>
 </li>
-</ul>
-<p><a href="https://www.ntu.edu.sg/docs/default-source/undergraduate-admissions/a-level/faq-revised-uas-computation-for-au-admission-ay2026.pdf" rel="noopener nofollow" target="_blank">NTU</a>
-</p>
-<ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://www.ntu.edu.sg/docs/default-source/undergraduate-admissions/a-level/faq-revised-uas-computation-for-au-admission-ay2026.pdf?sfvrsn=c36e4baf_1" rel="noopener nofollow" target="_blank">NTU</a></strong>
+<p><strong><a href="https://www.ntu.edu.sg/docs/default-source/undergraduate-admissions/a-level/faq-revised-uas-computation-for-au-admission-ay2026.pdf" rel="noopener nofollow" target="_blank">NTU</a></strong>
 </p>
 </li>
 <li>
 <p><strong><a href="https://admissions.smu.edu.sg/sites/admissions.smu.edu.sg/files/2024-03/Revised%20UAS%20Computation%20from%20AY2026.pdf" rel="noopener nofollow" target="_blank">SMU</a></strong>
 </p>
-</li>
-<li>
-<p><a href="https://www.ntu.edu.sg/docs/default-source/undergraduate-admissions/a-level/faq-revised-uas-computation-for-au-admission-ay2026.pdf?sfvrsn=c36e4baf_1" rel="noopener nofollow" target="_blank">NTU</a>
-</p>
 <p></p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/UAS_70_Calculation.png">
 </div>
