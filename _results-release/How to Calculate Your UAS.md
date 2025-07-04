@@ -51,9 +51,17 @@ description: ""
 <p></p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/UAS_70_Calculation.png">
+</div>
+<p></p>
 <p><strong>Below is an illustration for the rebasing effect of H1 MTL/H1 content-based subject if they improve the UAS calculation.</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Rebasing_effect_of_H1_MTL.png">
+</div>
 <p><strong>&nbsp;</strong>
 </p>
 <p>&nbsp;</p>
