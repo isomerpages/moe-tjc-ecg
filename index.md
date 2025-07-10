@@ -98,8 +98,8 @@ sections:
           linktext: Watch
           url: https://www.youtube.com/watch?v=SX7Em_daei4
         - title: Ep 3 - Software Engineer
-          description: Ms Kan Zijun, Google Software Engineer, share tips & journey to top
-            tech firm
+          description: Ms Kan Zijun, Google Software Engineer, shares tips & journey to
+            top tech firm
           linktext: Watch
           url: https://www.youtube.com/watch?v=4sFlNd1iGPw
 ---
