@@ -82,4 +82,24 @@ sections:
           description: New Digital; Tips for Aptitude-based Admissions & Personal Statements
           linktext: Access 2022 Issue 1
           url: files/2022_explorer_issue1_preu.pdf
+  - textcards:
+      title: Tick Talk
+      id: textcards
+      description: "Source: ECG Buzz 2025 Issues"
+      cards:
+        - title: Ep 1 - Regional Director
+          description: Mr Rex Eng, a Regional Director in Human Resources shares industry
+            insights
+          linktext: Watch
+          url: https://www.youtube.com/watch?v=fZcTCBFsuGk
+        - title: Ep 2 - Accounts Manager
+          description: Mr Aylwin Low, Account Manager (STEM industry) shares challenges &
+            perseverance
+          linktext: Watch
+          url: https://www.youtube.com/watch?v=SX7Em_daei4
+        - title: Ep 3 - Software Engineer
+          description: Ms Kan Zijun, Google Software Engineer, share tips & journey to top
+            tech firm
+          linktext: Watch
+          url: https://www.youtube.com/watch?v=4sFlNd1iGPw
 ---
