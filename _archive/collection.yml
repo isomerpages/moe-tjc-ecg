@@ -2,4 +2,4 @@ collections:
   archive:
     output: true
     order:
-      - folder-page.md
+      - Archive.md
