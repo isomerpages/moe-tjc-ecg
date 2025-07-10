@@ -1,5 +1,5 @@
 collections:
-  archive:
+  miscellaneous:
     output: true
     order:
       - Archive.md
