@@ -95,6 +95,10 @@ more inspirations!</p>
 <p><strong><a href="https://www.a-star.edu.sg/Scholarships/Junior-College-and-Polytechnic-and-Secondary-School-Students/Overview" rel="noopener nofollow" target="_blank">A*STAR Awards/Attachments (Research/Engineering)</a></strong>
 </p>
 </li>
+<li>
+<p><strong><a href="https://www.fabrica.ai/careers" rel="noopener nofollow" target="_blank">Fabrica AI</a></strong>
+</p>
+</li>
 </ol>
 <p></p>
 <p><strong><em><u>Job Shadowing<sup>5</sup></u></em></strong>
