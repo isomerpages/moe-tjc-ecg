@@ -36,6 +36,26 @@ sections:
       image: /images/20250425_Infographic__A_Level_Pathways_TJC.png
       alt: Image alt text
       subtitle: infographic
+  - textcards:
+      title: Tick Talk
+      id: textcards
+      description: "Source: ECG Buzz 2025 Issues"
+      cards:
+        - title: Ep 1 - Regional Director
+          description: Mr Rex Eng, a Regional Director in Human Resources shares industry
+            insights
+          linktext: Watch
+          url: https://www.youtube.com/watch?v=fZcTCBFsuGk
+        - title: Ep 2 - Accounts Manager
+          description: Mr Aylwin Low, Account Manager (STEM industry) shares challenges &
+            perseverance
+          linktext: Watch
+          url: https://www.youtube.com/watch?v=SX7Em_daei4
+        - title: Ep 3 - Software Engineer
+          description: Ms Kan Zijun, Google Software Engineer, shares tips & journey to
+            top tech firm
+          linktext: Watch
+          url: https://www.youtube.com/watch?v=4sFlNd1iGPw
   - infopic:
       title: ECG Buzz
       subtitle: 2024 Issue 3
