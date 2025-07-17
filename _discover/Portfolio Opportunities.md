@@ -16,7 +16,7 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Internships/Part-time Jobs<sup>19</sup></u></em></strong>
+<p><strong><em><u>Internships/Part-time Jobs<sup>23</sup></u></em></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -37,6 +37,10 @@ more inspirations!</p>
 </li>
 <li>
 <p><strong><a href="https://sg.indeed.com/" rel="noopener noreferrer nofollow" target="_blank">Indeed</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.careers.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Careers@Gov</a></strong>
 </p>
 </li>
 <li>
@@ -80,15 +84,15 @@ more inspirations!</p>
 </p>
 </li>
 <li>
+<p><strong><a href="https://www.mha.gov.sg/careers/internships" rel="noopener nofollow" target="_blank">Ministry of Home Affairs Internship</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://www.sla.gov.sg/join-us/internship" rel="noopener noreferrer nofollow" target="_blank">Singapore Land Authority (SLA) Internship</a></strong>
 </p>
 </li>
 <li>
 <p><strong><a href="https://www.singaporeartmuseum.sg/get-involved" rel="noopener nofollow" target="_blank">Singapore Art Museum</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://www.careers.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Careers@Gov</a></strong>
 </p>
 </li>
 <li>
@@ -101,6 +105,10 @@ more inspirations!</p>
 </li>
 <li>
 <p><strong><a href="https://www.makethechange.sg/internship" rel="noopener nofollow" target="_blank">Make The Change (MTC): Young Changemaker Programme</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://redcross.sg/get-involved/internship-opportunities" rel="noopener nofollow" target="_blank">Red Cross</a></strong>
 </p>
 </li>
 </ol>
