@@ -16,7 +16,7 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Internships/Part-time Jobs<sup>23</sup></u></em></strong>
+<p><strong><em><u>Internships/Part-time Jobs<sup>24</sup></u></em></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -105,6 +105,10 @@ more inspirations!</p>
 </li>
 <li>
 <p><strong><a href="https://www.makethechange.sg/internship" rel="noopener nofollow" target="_blank">Make The Change (MTC): Young Changemaker Programme</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.youthcorps.gov.sg/whats-new/youth-corps-community-internship" rel="noopener nofollow" target="_blank">Youth Corps Community Internship </a></strong>
 </p>
 </li>
 <li>
