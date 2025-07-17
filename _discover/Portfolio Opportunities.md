@@ -100,7 +100,7 @@ more inspirations!</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.fabrica.ai/careers" rel="noopener nofollow" target="_blank">Fabrica AI</a></strong>
+<p><strong><a href="https://www.fabrica.ai/careers" rel="noopener nofollow" target="_blank">Fabrica AI (post A levels students)</a></strong>
 </p>
 </li>
 <li>
@@ -108,7 +108,7 @@ more inspirations!</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.youthcorps.gov.sg/whats-new/youth-corps-community-internship" rel="noopener nofollow" target="_blank">Youth Corps Community Internship </a></strong>
+<p><strong><a href="https://www.youthcorps.gov.sg/whats-new/youth-corps-community-internship" rel="noopener nofollow" target="_blank">Youth Corps Community Internship</a></strong>
 </p>
 </li>
 <li>
