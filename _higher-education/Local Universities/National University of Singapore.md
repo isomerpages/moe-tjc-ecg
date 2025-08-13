@@ -103,7 +103,8 @@ third_nav_title: Local Universities
 </p>
 </li>
 <li>
-<p><a href="https://cde.nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">College of Design &amp; Engineering</a>
+<p><a href="https://cde.nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">College of Design &amp; Engineering / </a>
+<a href="https://cde.nus.edu.sg/wp-content/uploads/2024/03/CDE-BridgingCoursesInfo.pdf" rel="noopener nofollow" target="_blank">CDE Bridging Details</a>
 </p>
 </li>
 <li>
