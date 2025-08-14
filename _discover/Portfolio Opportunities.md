@@ -338,7 +338,7 @@ more inspirations!</p>
 <p></p>
 </li>
 </ol>
-<p><strong><em><u>Competitions<sup>20</sup></u></em></strong>
+<p><strong><em><u>Competitions<sup>19</sup></u></em></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -403,10 +403,6 @@ more inspirations!</p>
 </li>
 <li>
 <p><strong><a href="https://hydrogen.nus.edu.sg/hydrogen-innovation-challenge-2025/" rel="noopener nofollow" target="_blank">NUS Hydrogen Innovation Challenge</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://www.cpcll.sg/events/culture-group/script-it-right-chinese-radio-drama-script-writing-competition-n-workshops/2024-script-it-right-chinese-radio-drama-script-writing-competition-n-workshops" rel="noopener noreferrer nofollow" target="_blank">Chinese Radio Drama Script Writing Competition &amp; Workshop</a></strong>
 </p>
 </li>
 <li>
