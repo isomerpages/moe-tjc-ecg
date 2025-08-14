@@ -293,7 +293,7 @@ more inspirations!</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.sla.gov.sg/geospatial-development-and-services/map-our-world" rel="noopener noreferrer nofollow" target="_blank">SLA - Map Our World</a></strong>
+<p><strong><a href="https://www.sla.gov.sg/geospatial/map-our-world/" rel="noopener noreferrer nofollow" target="_blank">SLA - Map Our World</a></strong>
 </p>
 </li>
 <li>
@@ -305,7 +305,7 @@ more inspirations!</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.nyc.gov.sg/youthpanels" rel="noopener nofollow" target="_blank">Youth Panel (NYC)</a></strong>
+<p><strong><a href="https://www.nyc.gov.sg/programmes-grants/programmes/youth-action-empowerment/" rel="noopener nofollow" target="_blank">NYC - Youth Action &amp; Empowerment</a></strong>
 </p>
 </li>
 <li>
