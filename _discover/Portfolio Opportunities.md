@@ -16,7 +16,7 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Internships/Part-time Jobs<sup>24</sup></u></em></strong>
+<p><strong><em><u>Internships/Part-time Jobs<sup>23</sup></u></em></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -29,10 +29,6 @@ more inspirations!</p>
 </li>
 <li>
 <p><strong><a href="https://www.jobstreet.com.sg/" rel="noopener noreferrer nofollow" target="_blank">JobStreet</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://jobscentral.com.sg/" rel="noopener noreferrer nofollow" target="_blank">JobsCentral</a></strong>
 </p>
 </li>
 <li>
