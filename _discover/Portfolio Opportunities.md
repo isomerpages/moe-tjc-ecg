@@ -346,9 +346,13 @@ more inspirations!</p>
 <p></p>
 </li>
 </ol>
-<p><strong><em><u>Competitions<sup>19</sup></u></em></strong>
+<p><strong><em><u>Competitions<sup>20</sup></u></em></strong>
 </p>
 <ol data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://nyaa.org/" rel="noopener nofollow" target="_blank">National Youth Achievement Award (NYAA)</a></strong>
+</p>
+</li>
 <li>
 <p><strong><a href="https://www.johnlockeinstitute.com/essay-competition" rel="noopener noreferrer nofollow" target="_blank">John Locke Essay Competition</a></strong>
 </p>
