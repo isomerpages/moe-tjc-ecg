@@ -7,7 +7,7 @@ description: ""
 <p>TJC offers a comprehensive Education and Career Guidance (ECG) curriculum
 for JC students.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250814_JC_Subject_Combination_1_Pager.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250814_JC_Subject_Combination_1_Pager_E.jpg">
 </div>
 <p>If you have yet to give much thought to career planning, begin with
 <a href="\discover\purpose" rel="noopener noreferrer nofollow" target="_blank">Discover</a>to profile your own values, interests, personality and skills.</p>
