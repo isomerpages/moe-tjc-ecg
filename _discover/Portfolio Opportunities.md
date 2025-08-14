@@ -378,7 +378,7 @@ more inspirations!</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://snic.org.sg/index.php/event/sjcho" rel="noopener noreferrer nofollow" target="_blank">Singapore Junior Chemistry Olympiad</a></strong>
+<p><strong><a href="https://global.olympiadsuccess.com/singapore-junior-chemistry-olympiad-sjcho" rel="noopener noreferrer nofollow" target="_blank">Singapore Junior Chemistry Olympiad</a></strong>
 </p>
 </li>
 <li>
