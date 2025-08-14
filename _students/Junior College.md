@@ -6,7 +6,6 @@ description: ""
 ---
 <p>TJC offers a comprehensive Education and Career Guidance (ECG) curriculum
 for JC students.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250814_JC_Subject_Combination_1_Pager.jpg">
 </div>
