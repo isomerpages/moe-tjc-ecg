@@ -117,7 +117,7 @@ more inspirations!</p>
 </li>
 </ol>
 <p></p>
-<p><strong><em><u>Job Shadowing<sup>5</sup></u></em></strong>
+<p><strong><em><u>Job Shadowing<sup>4</sup></u></em></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -126,10 +126,6 @@ more inspirations!</p>
 </li>
 <li>
 <p><strong><a href="https://www.ttsh.com.sg/About-TTSH/Careers/Pages/Student-Opportunities.aspx" rel="noopener noreferrer nofollow" target="_blank">Tan Tock Seng Hospital</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://www.dentistry.nus.edu.sg/Education/fod_jobshadowing.html" rel="noopener noreferrer nofollow" target="_blank">NUS Faculty of Dentistry</a></strong>
 </p>
 </li>
 <li>
