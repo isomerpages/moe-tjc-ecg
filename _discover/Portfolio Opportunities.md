@@ -269,7 +269,7 @@ more inspirations!</p>
 </li>
 </ol>
 <p></p>
-<p><strong><em><u>Special Programmes<sup>17</sup></u></em></strong>
+<p><strong><em><u>Special Programmes<sup>16</sup></u></em></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -306,10 +306,6 @@ more inspirations!</p>
 </li>
 <li>
 <p><strong><a href="https://www.nyc.gov.sg/programmes-grants/programmes/youth-action-empowerment/" rel="noopener nofollow" target="_blank">NYC - Youth Action &amp; Empowerment</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://www.sal.org.sg/events/JCLP2023" rel="noopener noreferrer nofollow" target="_blank">Singapore Academy of Law JC Law Programme (Annual)</a></strong>
 </p>
 </li>
 <li>
