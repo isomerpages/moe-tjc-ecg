@@ -16,7 +16,7 @@ more inspirations!</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Internships/Part-time Jobs<sup>24</sup></u></em></strong>
+<p><strong><em><u>Internships/Part-time Jobs<sup>23</sup></u></em></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -29,10 +29,6 @@ more inspirations!</p>
 </li>
 <li>
 <p><strong><a href="https://www.jobstreet.com.sg/" rel="noopener noreferrer nofollow" target="_blank">JobStreet</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://jobscentral.com.sg/" rel="noopener noreferrer nofollow" target="_blank">JobsCentral</a></strong>
 </p>
 </li>
 <li>
@@ -117,7 +113,7 @@ more inspirations!</p>
 </li>
 </ol>
 <p></p>
-<p><strong><em><u>Job Shadowing<sup>5</sup></u></em></strong>
+<p><strong><em><u>Job Shadowing<sup>4</sup></u></em></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -126,10 +122,6 @@ more inspirations!</p>
 </li>
 <li>
 <p><strong><a href="https://www.ttsh.com.sg/About-TTSH/Careers/Pages/Student-Opportunities.aspx" rel="noopener noreferrer nofollow" target="_blank">Tan Tock Seng Hospital</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://www.dentistry.nus.edu.sg/Education/fod_jobshadowing.html" rel="noopener noreferrer nofollow" target="_blank">NUS Faculty of Dentistry</a></strong>
 </p>
 </li>
 <li>
@@ -273,7 +265,7 @@ more inspirations!</p>
 </li>
 </ol>
 <p></p>
-<p><strong><em><u>Special Programmes<sup>17</sup></u></em></strong>
+<p><strong><em><u>Special Programmes<sup>16</sup></u></em></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -297,7 +289,7 @@ more inspirations!</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.sla.gov.sg/geospatial-development-and-services/map-our-world" rel="noopener noreferrer nofollow" target="_blank">SLA - Map Our World</a></strong>
+<p><strong><a href="https://www.sla.gov.sg/geospatial/map-our-world/" rel="noopener noreferrer nofollow" target="_blank">SLA - Map Our World</a></strong>
 </p>
 </li>
 <li>
@@ -309,15 +301,11 @@ more inspirations!</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.nyc.gov.sg/youthpanels" rel="noopener nofollow" target="_blank">Youth Panel (NYC)</a></strong>
+<p><strong><a href="https://www.nyc.gov.sg/programmes-grants/programmes/youth-action-empowerment/" rel="noopener nofollow" target="_blank">NYC - Youth Action &amp; Empowerment</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.sal.org.sg/events/JCLP2023" rel="noopener noreferrer nofollow" target="_blank">Singapore Academy of Law JC Law Programme (Annual)</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://www.reach.gov.sg/Participate/singapore-model-parliament-2024/about" rel="noopener noreferrer nofollow" target="_blank">Singapore Model Parliament</a></strong>
+<p><strong><a href="https://www.reach.gov.sg/what-we-do/youth-engagement/" rel="noopener nofollow" target="_blank">Reach's Singapore Model Parliament</a></strong>
 </p>
 </li>
 <li>
@@ -350,6 +338,10 @@ more inspirations!</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
+<p><strong><a href="https://nyaa.org/" rel="noopener nofollow" target="_blank">National Youth Achievement Award (NYAA)</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://www.johnlockeinstitute.com/essay-competition" rel="noopener noreferrer nofollow" target="_blank">John Locke Essay Competition</a></strong>
 </p>
 </li>
@@ -358,11 +350,11 @@ more inspirations!</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://sms.math.nus.edu.sg/smec/" rel="noopener noreferrer nofollow" target="_blank">Singapore Mathematical Society Essay Competition</a></strong>
+<p><strong><a href="https://sgmathsociety.org/smec/" rel="noopener noreferrer nofollow" target="_blank">Singapore Mathematical Society Essay Competition</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="https://sms.math.nus.edu.sg/singapore-mathematical-olympiad-smo/" rel="noopener noreferrer nofollow" target="_blank">Singapore Mathematical Olympiad</a></strong>
+<p><strong><a href="https://sgmathsociety.org/singapore-mathematical-olympiad-smo/" rel="noopener noreferrer nofollow" target="_blank">Singapore Mathematical Olympiad</a></strong>
 </p>
 </li>
 <li>
@@ -382,7 +374,7 @@ more inspirations!</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://snic.org.sg/index.php/event/sjcho" rel="noopener noreferrer nofollow" target="_blank">Singapore Junior Chemistry Olympiad</a></strong>
+<p><strong><a href="https://global.olympiadsuccess.com/singapore-junior-chemistry-olympiad-sjcho" rel="noopener noreferrer nofollow" target="_blank">Singapore Junior Chemistry Olympiad</a></strong>
 </p>
 </li>
 <li>
@@ -407,10 +399,6 @@ more inspirations!</p>
 </li>
 <li>
 <p><strong><a href="https://hydrogen.nus.edu.sg/hydrogen-innovation-challenge-2025/" rel="noopener nofollow" target="_blank">NUS Hydrogen Innovation Challenge</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://www.cpcll.sg/events/culture-group/script-it-right-chinese-radio-drama-script-writing-competition-n-workshops/2024-script-it-right-chinese-radio-drama-script-writing-competition-n-workshops" rel="noopener noreferrer nofollow" target="_blank">Chinese Radio Drama Script Writing Competition &amp; Workshop</a></strong>
 </p>
 </li>
 <li>
