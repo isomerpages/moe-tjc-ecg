@@ -117,9 +117,13 @@ more inspirations!</p>
 </li>
 </ol>
 <p></p>
-<p><strong><em><u>Job Shadowing<sup>4</sup></u></em></strong>
+<p><strong><em><u>Job Shadowing<sup>5</sup></u></em></strong>
 </p>
 <ol data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://www.nhghealth.com.sg/for-healthcare-professionals/clinical-education/trainees/pre-uni-student-attachments" rel="noopener nofollow" target="_blank">NHG Pre-University Student Attachment</a></strong>
+</p>
+</li>
 <li>
 <p><strong><a href="https://www.nhgeducation.nhg.com.sg/our-learners/pre-uni-student-attachments" rel="noopener nofollow" target="_blank">National Healthcare Group</a></strong>
 </p>
