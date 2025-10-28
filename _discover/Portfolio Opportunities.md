@@ -117,7 +117,7 @@ more inspirations!</p>
 </li>
 </ol>
 <p></p>
-<p><strong><em><u>Job Shadowing<sup>5</sup></u></em></strong>
+<p><strong><em><u>Job Shadowing<sup>6</sup></u></em></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -138,6 +138,10 @@ more inspirations!</p>
 </li>
 <li>
 <p><strong><a href="https://www.skh.com.sg/education-training/Pages/Clinical-Job-Shadowing.aspx" rel="noopener noreferrer nofollow" target="_blank">Sengkang General Hospital</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.singhealth.com.sg/careers/career-tracks/allied-health-professionals" rel="noopener nofollow" target="_blank">SingHealth Allied Health </a></strong>
 </p>
 </li>
 </ol>
