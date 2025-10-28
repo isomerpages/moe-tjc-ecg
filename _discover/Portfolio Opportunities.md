@@ -141,7 +141,7 @@ more inspirations!</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.singhealth.com.sg/careers/career-tracks/allied-health-professionals" rel="noopener nofollow" target="_blank">SingHealth Allied Health </a></strong>
+<p><strong><a href="https://www.singhealth.com.sg/careers/career-tracks/allied-health-professionals" rel="noopener nofollow" target="_blank">SingHealth Allied Health</a></strong>
 </p>
 </li>
 </ol>
