@@ -10,8 +10,8 @@ third_nav_title: IP
 -LLI).</p>
 <p>The experiences give them opportunities to explore the world of work even
 as they embark on their own self-exploration journey.</p>
-<p>In 2025, at the SYFC, students were introduced to SYFC's signature Youth
-Flight Training and the various aviation careers opportunities.</p>
+<p>In 2025, at the SYFC, students were introduced to SYFC's Signature Youth
+Flight Training and the various aviation career opportunities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Group_Students_Shortlisted.jpg">
 </div>
