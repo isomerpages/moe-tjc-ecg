@@ -15,17 +15,14 @@ Flight Training and the various aviation careers opportunities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Group_Students_Shortlisted.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students__Shortlisted.jpg">
 </div>
 <p>Students also got the opportunity to come close and personal with the
-DA40 Aircraft (Hangar Tour) and the Microsoft Flight Simulator (MSFS).</p>
-<p>&nbsp;</p>
+DA40 Aircraft (Hangar Tour) and the Microsoft Flight Simulator (MSFS).&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA40_Aircraft_Hangar_Tour__Shortlisted.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Microsoft_Flight_Simulator___Shortlisted.jpg">
 </div>
