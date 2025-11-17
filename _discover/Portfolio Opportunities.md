@@ -155,7 +155,7 @@ more inspirations!</p>
 </li>
 </ol>
 <p></p>
-<p><strong><em><u>Volunteering Opportunities<sup>19</sup></u></em></strong>
+<p><strong><em><u>Volunteering Opportunities<sup>20</sup></u></em></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -175,7 +175,11 @@ more inspirations!</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.singhealth.com.sg/SCH/volunteer-give/volunteer-with-us" rel="noopener noreferrer nofollow" target="_blank">SingHealth Community Hospitals</a></strong>
+<p><strong><a href="https://www.skh.com.sg/community-care/volunteers-opportunities" rel="noopener nofollow" target="_blank">SengKang General Hospital</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.cgh.com.sg/about-cgh/volunteer" rel="noopener nofollow" target="_blank">Changi General Hospital</a></strong>
 </p>
 </li>
 <li>
