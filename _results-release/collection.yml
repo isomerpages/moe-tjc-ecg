@@ -2,8 +2,8 @@ collections:
   results-release:
     output: true
     order:
-      - Do You Know Abt Your Local Universities?.md
       - Start Here.md
+      - Do You Know Abt Your Local Universities?.md
       - How to Calculate Your UAS.md
       - Admission Requirements, Subject Prerequisites and IGP.md
       - Archive.md
