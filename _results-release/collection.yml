@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Start Here.md
-      - Local Universities Latest Highlights.md
       - How to Calculate Your UAS.md
       - Admission Requirements, Subject Prerequisites and IGP.md
       - Archive.md
