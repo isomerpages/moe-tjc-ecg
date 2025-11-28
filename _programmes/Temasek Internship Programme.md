@@ -183,12 +183,11 @@ Tay Li Yang - CG17/25; Teo Hwee Qi - CG17/25</p>
 <h4>TIP SHARING - NURSING (KHOO TECK PUAT HOSPITAL (KTPH))</h4>
 <p>by Lisa Ng Wan Fei - CG08/25; Loo Wan Xuan - CG16/25</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Nursing.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/KTPH.png">
 </div>
 <p></p>
 <h4><a href="https://www.canva.com/design/DAG5Mns9h5I/vWq6MwZp01cd6C3orK8pVQ/view?utm_content=DAG5Mns9h5I&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=hfbc83d5509" rel="noopener nofollow" target="_blank">TIP SHARING - PERFORMING ARTS (ASIAN FILM ARCHIVE)</a></h4>
 <p>by Sarah Ho Xue Le - CG02/25; Low Joseph - CG11/25; Lee En Qi - CG18/25</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_11_28_143402.png">
 </div>
