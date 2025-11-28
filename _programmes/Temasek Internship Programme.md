@@ -193,3 +193,7 @@ CG19/24</p>
 <h4><a href="https://www.canva.com/design/DAG5Mns9h5I/vWq6MwZp01cd6C3orK8pVQ/view?utm_content=DAG5Mns9h5I&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=hfbc83d5509" rel="noopener nofollow" target="_blank">TIP SHARING - PERFORMING ARTS (ASIAN FILM ARCHIVE)</a></h4>
 <p>by Sarah Ho Xue Le - CG02/25; Low Joseph - CG11/25; Lee En Qi - CG18/25</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_11_28_143402.png">
+</div>
+<p></p>
