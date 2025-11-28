@@ -181,7 +181,6 @@ Tay Li Yang - CG17/25; Teo Hwee Qi - CG17/25</p>
 <p>by Jenna Teo Hui Yun - CG 22/19</p>
 <p></p>
 <h4>TIP SHARING - NURSING (KHOO TECK PUAT HOSPITAL (KTPH))</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Nursing.png">
 </div>
