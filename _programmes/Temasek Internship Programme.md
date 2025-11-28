@@ -194,6 +194,6 @@ CG19/24</p>
 <p>by Sarah Ho Xue Le - CG02/25; Low Joseph - CG11/25; Lee En Qi - CG18/25</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_11_28_143402.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_11_28_143402.png">
 </div>
 <p></p>
