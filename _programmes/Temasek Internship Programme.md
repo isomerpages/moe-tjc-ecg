@@ -131,6 +131,13 @@ in order to achieve synergy in this programme.</p>
 <h4><a href="https://www.youtube.com/watch?v=-fgATt682Jg" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - ANIMAL CARE (WILDLIFE RESERVES SINGAPORE RIVER SAFARI)</a></h4>
 <p>by Ong En Tong - CG 02/19</p>
 <p></p>
+<h4><a href="https://www.canva.com/design/DAG5Msjqb9k/SP-kyt-VD4a7JOQfU4XX8w/view?utm_content=DAG5Msjqb9k&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=hccde5febc0" rel="noopener nofollow" target="_blank">TIP SHARING - BUSINESS (DESIGN)</a></h4>
+<p>by Anshi Sai Ramineni - CG06/25; Phoon Zi Xin, Rianne - CG06/25; Joel
+Tay Li Yang - CG17/25; Teo Hwee Qi - CG17/25</p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Make_The_Change.png">
+</div>
+<p></p>
 <h4><a href="https://www.canva.com/design/DAGW6fx2UCU/NT2KNeL1G1JuSJlcE32Jmg/view?utm_content=DAGW6fx2UCU&amp;utm_campaign=share_your_design&amp;utm_medium=link&amp;utm_source=shareyourdesignpanel" rel="noopener nofollow" target="_blank">TIP SHARING - BUSINESS [DIGITAL MARKETING] (SIXMOREDAYS)</a></h4>
 <p>by Wee Qian Yue Olin - CG19/24</p>
 <p></p>
