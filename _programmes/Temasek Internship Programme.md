@@ -172,7 +172,14 @@ in order to achieve synergy in this programme.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2q_zGRVDzHI?si=69cpdTkkh1MqBcPB"></iframe>
 </div>
 <p>by Jenna Teo Hui Yun - CG 22/19</p>
-<h4></h4>
+<p></p>
+<h4><a href="https://www.canva.com/design/DAG5Mns9h5I/vWq6MwZp01cd6C3orK8pVQ/view?utm_content=DAG5Mns9h5I&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=hfbc83d5509" rel="noopener nofollow" target="_blank">TIP SHARING - PERFORMING ARTS (ASIAN FILM ARCHIVE)</a></h4>
+<p>by Sarah Ho Xue Le - CG02/25; Low Joseph - CG11/25; Lee En Qi - CG18/25</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_11_28_143402.png">
+</div>
+<p></p>
 <h4><a href="https://youtu.be/xpX9KkykhTM" rel="noopener noreferrer nofollow" target="_blank">TIP SHARING - SAL JC LAW PROGRAMME</a></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xpX9KkykhTM?si=KOlpMcV8UTBe6Xkc"></iframe>
@@ -190,10 +197,6 @@ CG19/24</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_TIP_sharing_SADeaf.png">
 </div>
-<h4><a href="https://www.canva.com/design/DAG5Mns9h5I/vWq6MwZp01cd6C3orK8pVQ/view?utm_content=DAG5Mns9h5I&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=hfbc83d5509" rel="noopener nofollow" target="_blank">TIP SHARING - PERFORMING ARTS (ASIAN FILM ARCHIVE)</a></h4>
-<p>by Sarah Ho Xue Le - CG02/25; Low Joseph - CG11/25; Lee En Qi - CG18/25</p>
+<h4></h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_11_28_143402.png">
-</div>
 <p></p>
