@@ -37,6 +37,14 @@ third_nav_title: Local Universities
 </p>
 </li>
 <li>
+<p><a href="https://admissions.smu.edu.sg/programmes/majors-and-tracks-offered-smu" rel="noopener nofollow" target="_blank">Majors &amp; Tracks Offered</a>
+</p>
+</li>
+<li>
+<p><a href="https://courses.smu.edu.sg/courses" rel="noopener nofollow" target="_blank">SMU Course Catalogue</a>
+</p>
+</li>
+<li>
 <p>SMU <a href="https://admissions.smu.edu.sg/scholarships" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Scholarships </u></a>|
 <a href="https://admissions.smu.edu.sg/financial-matters/financial-aid" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Financial Assistance</u>
 </a>
