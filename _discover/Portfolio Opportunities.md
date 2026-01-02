@@ -24,6 +24,10 @@ more inspirations!</p>
 </p>
 </li>
 <li>
+<p><strong><a href="https://www.fastjobs.sg/" rel="noopener nofollow" target="_blank">FastJobs</a>/ <a href="https://www.fastgig.sg/about-us" rel="noopener nofollow" target="_blank">FastGig</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://www.mycareersfuture.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MyCareersFuture</a></strong>
 </p>
 </li>
