@@ -25,18 +25,52 @@ the day of exploration includes:</p>
 Career Simulation Game, etc.)</p>
 </li>
 </ul>
+<p><strong><u>Career Simulation Experience </u></strong>
+</p>
+<p>The IP4 cohort experienced an immersive and multifaceted Careers Day designed
+to bridge the gap between academic learning and real-world professional
+environments. The day commenced with an engaging career simulation game
+facilitated by an external vendor, allowing students to step into realistic
+workplace scenarios and gain hands-on understanding of professional challenges,
+decision-making processes, and career dynamics.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_8665.jpg">
-</div>
-<p>Career Simulation Game</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Careers_4.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP4_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Careers_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP4_2.jpg">
 </div>
-<p>Sharing of W.O.W! projects by Year 5 to Year 4 students</p>
+<p></p>
+<p><strong><u>W.O.W. Internship Sharing</u></strong>
+</p>
+<p>This interactive experience was followed by a sharing session where seniors
+reflected on their Wonder Observe Weave (W.O.W.) experiences, offering
+authentic insights into workplace culture, industry expectations, and the
+practical application of skills in professional settings. Their personal
+stories provided valuable lessons on navigating real work environments
+and building professional relationships.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP4_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP4_4.jpg">
+</div>
+<p><strong><u>Building Future-Ready Mindsets</u></strong>
+</p>
+<p>The programme concluded with a classroom segment that encouraged students
+to broaden their career perspectives and develop essential mindsets for
+future success. Participants explored how global problems and challenges
+can give rise to diverse and unexpected career pathways, learning to remain
+open-minded, flexible, and adaptable when opportunities arise. The session
+emphasized the importance of cultivating resilience and hope in navigating
+today's VUCA (Volatile, Uncertain, Complex, and Ambiguous) world, equipping
+students with both practical knowledge and the adaptive mindset necessary
+to thrive in an ever-evolving professional landscape.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP4_5.jpg">
+</div>
 <p></p>
