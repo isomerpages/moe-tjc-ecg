@@ -25,7 +25,7 @@ the day of exploration includes:</p>
 Career Simulation Game, etc.)</p>
 </li>
 </ul>
-<p><strong><u>Career Simulation Experience </u></strong>
+<p><strong><u>Career Simulation Experience</u></strong>
 </p>
 <p>The IP4 cohort experienced an immersive and multifaceted Careers Day designed
 to bridge the gap between academic learning and real-world professional
