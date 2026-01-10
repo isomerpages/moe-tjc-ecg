@@ -1,5 +1,5 @@
 ---
-title: Job Shadowing Day
+title: IP3 Job Shadowing Day
 permalink: /job-shadowing/
 variant: tiptap
 description: ""
@@ -18,9 +18,17 @@ gained an understanding of the essential hard and soft skills necessary
 to perform those jobs. Through their own experiences, coupled with sharings
 by their peers, the students are able to make more informed considerations
 for what they may want to pursue in future.</p>
-<p>Pictured below is a poster summarising the main takeaways of one of the
-students, Javier Wong.</p>
+<p>Here are some photos of the students' experiences in 2025:</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Javier_Wong.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Job_Shadowing_Day_Slide1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Job_Shadowing_Day_Slide3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Job_Shadowing_Day_Slide5.jpg">
 </div>
 <p></p>

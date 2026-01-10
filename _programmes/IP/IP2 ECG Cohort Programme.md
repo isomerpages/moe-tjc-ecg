@@ -7,89 +7,57 @@ third_nav_title: IP
 ---
 <p>Our Education and Career Guidance (ECG) programme aims to equip students
 with the relevant knowledge and skills to make more informed decisions
-about their education and career paths. For our IP2 cohort the programme
-comprises three customised components to expose students to areas concerning
-their future decision-making - the IP3 Subject Combinations Talk, Introduction
-to the ECG Framework, as well as on Building Career Skills Beyond The Classroom.</p>
+about their education and career paths.</p>
+<p><strong><u>Learning from Alumni</u></strong><u>&nbsp;</u>
+</p>
+<p>The IP2 cohort participated in an enriching panel discussion designed
+to provide valuable insights into future career pathways and professional
+development. The session featured alumni from Temasek Junior College who
+shared their real-world experiences and perspectives on navigating the
+transition from education to employment. To ground the conversation in
+contemporary issues, participants watched a video from the CNA Youth Forum
+2022, which served as a springboard for deeper discussions about job prospects,
+workplace expectations, and essential career preparation strategies.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP2_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP2_2.jpg">
+</div>
+<p><strong><u>Key Themes and Insights</u></strong><u>&nbsp;</u>
+</p>
+<p>Throughout the panel, key themes emerged around maintaining an open mindset
+toward opportunities, the importance of consistently delivering one's best
+effort, and embracing career development as an ongoing journey of self-discovery
+rather than a fixed destination. The alumni shared candid stories about
+their own professional paths, highlighting how flexibility and adaptability
+played crucial roles in their career success.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP2_3.png">
+</div>
+<p><strong><u>Professional Guidance</u></strong><u>&nbsp;</u>
+</p>
+<p>The discussion was further enriched by contributions from the school's
+Education and Career Guidance counsellor, who joined as a panelist to provide
+professional insights on skill development and career planning. Students
+gained practical advice on cultivating the adaptability, resilience, and
+core competencies needed to thrive in today's dynamic job market, equipping
+them with a more informed perspective as they prepare for their own professional
+futures.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP2_4.png">
+</div>
 <p>
-<br>
-</p>
-<ol>
-<li>
-<p><strong><u>ACTIVE LEARNER - SUBJECT COMBINATION TALK</u></strong>
-</p>
-</li>
-</ol>
-<p><strong><em>How might we take a proactive approach to deepen our learning in our areas of interest?</em></strong>
 <br>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP_ECG1.png">
-</div>
-<p>The subject combination talk is a crucial component of ECG exposure. It
-is designed to help our IP2 students make more informed decisions about
-their academic pathways. A preliminary engagement with the IP2 cohort about
-the IP3 curriculum and subject combinations goes beyond simply listing
-available subjects by delving into various factors which influence subject
-choice. These include the importance of balancing their interests and aptitudes
-through emphasising holistic development to guide IP students towards making
-choices that not only support their academic journey, but contribute to
-their overall personal growth and future career prospects.&nbsp;</p>
+<p></p>
 <p>
 <br>
-</p>
-<ol start="2">
-<li>
-<p><strong><u>Introduction to ECG Framework</u></strong>
-</p>
-</li>
-</ol>
-<p><strong><em>How might we use the framework for more informed decision making on upper IP subject combinations?</em></strong>
-</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP_ECG6.png">
-</div>
-<p>For the second component, the IP2 students focus on self-discovery and
-understanding their personal values, identity and qualities through self-reflection
-and personality assessments. This scaffolded approach enables the IP2s
-to gain a clearer understanding of themselves, which then forms the foundation
-for making choices aligned with their authentic selves. They are also introduced
-to our <a href="https://ecg.temasekjc.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>one-stop portal</u></a> for
-ease of access to ECG resources available to support them on their journey
-of self-discovery.&nbsp;</p>
-<p>
-<br>
-</p>
-<ol start="3">
-<li>
-<p><strong><u>Building Career Skills Beyond The Classroom</u></strong>
-</p>
-</li>
-</ol>
-<p><strong><em>How might we keep abreast of the changing world of work, to be ready for the future of work?&nbsp;</em></strong>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP_ECG4.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP_ECG5.png">
-</div>
 <p></p>
-<p>For the final component, the IP2 will attend a sharing by the <a href="http://SkillsFuture.SG" rel="noopener noreferrer nofollow" target="_blank">SkillsFuture.SG</a> team
-to gain awareness of the key growth industries in Singapore and the fast-changing
-future of work. Additionally, they learn about the importance of developing
-soft skills, as well as the development of digital literacy and 21st century
-competencies essential for career success in the modern, technology-driven
-workplace. Through early exposure to these key developments, we aim to
-promote greater student agency amongst the IP2 students in creating practical
-action plans that complement their academic knowledge as they envision
-their future. Overall, this will make them well-prepared for the challenges
-and opportunities of the modern workplace.&nbsp;</p>

@@ -3,10 +3,11 @@ collections:
     output: true
     order:
       - IP/.keep
-      - IP/IP2 ECG Cohort Programme.md
       - IP/IP1 ECG Learning Journey.md
-      - IP/Job Shadowing Day.md
-      - IP/Wonder,Observe,Weave Programme.md
-      - IP/Careers Day.md
+      - IP/IP2 ECG Cohort Programme.md
+      - IP/IP3 Job Shadowing Day.md
+      - IP/IP4 Careers Day.md
+      - IP/IP5 Wonder,Observe,Weave Programme.md
       - Temasek Internship Programme.md
+      - Temasek Internship Programme (Lite).md
       - Careers, Scholarships and Higher Education.md
