@@ -362,7 +362,7 @@ more inspirations!</p>
 <p></p>
 </li>
 </ol>
-<p><strong><em><u>Competitions<sup>19</sup></u></em></strong>
+<p><strong><em><u>Competitions<sup>20</sup></u></em></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -441,8 +441,11 @@ more inspirations!</p>
 <p><strong><a href="https://lkyspp.nus.edu.sg/news-events/events/details/singapore-futures-youth-competition-2025" rel="noopener nofollow" target="_blank">LKY SPP - Singapore Futures Youth Competition</a></strong>
 </p>
 </li>
+<li>
+<p><strong><a href="https://www.ipsyo.org/about.html" rel="noopener nofollow" target="_blank">International Psychology Olympiad</a></strong>
+</p>
+</li>
 </ol>
-<p></p>
 <p><strong><em><u>Oxbridge<sup>3</sup></u></em></strong>
 </p>
 <ol data-tight="true" class="tight">
