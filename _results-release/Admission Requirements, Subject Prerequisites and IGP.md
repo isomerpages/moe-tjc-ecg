@@ -30,7 +30,7 @@ your easy reference.</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www3.ntu.edu.sg/oad2/website_files/igp/ntu_igp.pdf" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>IGP</u></a></strong>
+<p><strong><a href="https://www.ntu.edu.sg/admissions/undergraduate/indicative-grade-profile" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>IGP</u></a></strong>
 </p>
 </li>
 </ul>
