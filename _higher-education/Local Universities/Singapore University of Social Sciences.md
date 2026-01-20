@@ -20,7 +20,7 @@ on <strong>31 Mar 2026</strong>
 </p>
 </li>
 <li>
-<p>Law undergraduate programme: application closes on<strong> 15 Mar 2026</strong>
+<p>Law programme (July 2026 intake): application closes on<strong> 15 Mar 2026</strong>
 </p>
 <p></p>
 </li>
