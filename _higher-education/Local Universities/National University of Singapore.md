@@ -16,8 +16,8 @@ third_nav_title: Local Universities
 </p>
 </li>
 <li>
-<p><a href="https://www.nus.edu.sg/oam/apply-to-nus/singapore-cambridge-gce-a-level/admissions-requirements" rel="noopener noreferrer nofollow" target="_blank">Admission Requirements/ </a>
-<a href="https://www.askadmissions.nus.edu.sg/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>FAQ for Admissions</u>
+<p><a href="https://faq.nus.edu.sg/s/" rel="noopener noreferrer nofollow" target="_blank">Admission Requirements/ </a>
+<a href="https://faq.nus.edu.sg/s/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>FAQ for Admissions</u>
 </a>
 </p>
 </li>
