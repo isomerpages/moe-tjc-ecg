@@ -30,9 +30,6 @@ on <strong>31 Mar 2026</strong>
 </p>
 <ul>
 <li>
-<p><a href="https://www.suss.edu.sg/about-suss/resources/brochures" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Prospectus</u></a>&nbsp;</p>
-</li>
-<li>
 <p><a href="https://www.suss.edu.sg/full-time-undergraduate" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Full-time Undergraduate | </u></a>
 <a href="https://www.suss.edu.sg/full-time-undergraduate/admissions/eligibility" rel="noopener noreferrer nofollow" target="_blank">Admission Requirements |</a><a href="https://sfcms.suss.edu.sg/docs/default-source/contentdoc/src/faqs-on-revised-uas-computation-for-au-admission-from-ay2026.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ for Revised UAS Computation</a>
 </p>
