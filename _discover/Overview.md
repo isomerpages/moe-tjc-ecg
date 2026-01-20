@@ -18,6 +18,10 @@ the <strong><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/5f3
 and skills, more in the next section.</p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20260120_Career_Wheel_v2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20260120_Career_Wheel.png">
 </div>
 <div class="isomer-image-wrapper">
