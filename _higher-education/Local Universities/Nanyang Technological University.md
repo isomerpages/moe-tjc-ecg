@@ -46,12 +46,6 @@ subject pre-requisites)</p>
 </p>
 </li>
 <li>
-<p><a href="https://www3.ntu.edu.sg/careertracks/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>NTU Career Tracks</u></a> |
-<a href="https://youtube.com/playlist?list=PLDTMSZHelsY6cwLbOzxqbE2uuO1FtT7FQ" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>NTU College of Science E-Career Talk 2022&nbsp;</u>
-</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.ntu.edu.sg/admissions/undergraduate/indicative-grade-profile" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Indicative Grade Profile</u></a> AY2024/2025</p>
 </li>
 <li>
