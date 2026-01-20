@@ -11,13 +11,16 @@ third_nav_title: Local Universities
 <p><strong>Application period</strong>:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Full-time undergraduate programme (July 2025 intake): application closes
-on<strong> 19 Mar 2025</strong>
+<p>Full-time undergraduate programme (ex-Law): application closes on<strong> 19 Mar 2026</strong>
 </p>
 </li>
 <li>
-<p>Part-time undergraduate programme (July 2025 intake): application closes
-on <strong>31 Mar 2025</strong>
+<p>Part-time undergraduate programme (July 2026 intake): application closes
+on <strong>31 Mar 2026</strong>
+</p>
+</li>
+<li>
+<p>Law undergraduate programme: application closes on<strong> 15 Mar 2026</strong>
 </p>
 <p></p>
 </li>
