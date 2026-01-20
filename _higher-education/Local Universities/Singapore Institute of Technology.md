@@ -8,9 +8,9 @@ third_nav_title: Local Universities
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_01_28_154251.png">
 </div>
-<p><strong>Application period</strong>:&nbsp; <strong>8 Jan - 19 Mar 2025</strong>
+<p><strong>Application period</strong>:&nbsp; <strong>8 Jan - 19 Mar 2026</strong>
 </p>
-<p><strong>Open House: 8-9 Feb 2025: <em><a href="https://www.singaporetech.edu.sg/openhouse" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Website&nbsp;</u></a></em></strong>
+<p><strong>Open House: 7-8 Feb 2026: <em><a href="https://www.singaporetech.edu.sg/openhouse" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Website&nbsp;</u></a></em></strong>
 </p>
 <ul>
 <li>
