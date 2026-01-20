@@ -6,9 +6,9 @@ description: ""
 third_nav_title: Local Universities
 ---
 <p></p><a class="isomer-image-wrapper" href="https://nus.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/NUS_logo.png"></a>
-<p><strong>Application period</strong>:&nbsp; <strong>&nbsp;End Feb 2025 - 19 Mar 2025&nbsp;</strong>
+<p><strong>Application period</strong>:&nbsp; <strong>&nbsp;Result Release Date - 19 Mar 2026&nbsp;</strong>
 </p>
-<p><strong>Open House/Talks: <a href="https://nus.edu.sg/openhouse/home" rel="noopener noreferrer nofollow" target="_blank">1-7 March 2025(online) &amp; 8 March 2025 (on campus)</a></strong>
+<p><strong>Open House/Talks: <a href="https://nus.edu.sg/openhouse/home" rel="noopener noreferrer nofollow" target="_blank">1-7 March 2025(online) &amp; 8 March 2025 (on campus) ~ TBC</a></strong>
 </p>
 <ul>
 <li>
