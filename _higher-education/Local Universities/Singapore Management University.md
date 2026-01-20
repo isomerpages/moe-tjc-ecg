@@ -7,7 +7,7 @@ third_nav_title: Local Universities
 ---
 <p></p><a class="isomer-image-wrapper" href="https://www.smu.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMU_Logo.png"></a>
 <p></p>
-<p><strong>Application period</strong>:&nbsp;<strong>&nbsp;18 Nov 2024 - 19 Mar 2025&nbsp;</strong>
+<p><strong>Application period</strong>:&nbsp;<strong>&nbsp;17 Nov 2025 - 19 Mar 2026&nbsp;</strong>
 </p>
 <p><strong>Open House/Talks: <em><a href="https://admissions.smu.edu.sg/openhouse" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>28 Feb - 1 Mar 2026</u></a></em></strong>
 </p>
