@@ -17,7 +17,7 @@ the <strong><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/5f3
 <p>You may also explore the internal factors, i.e. values, interests, personalities
 and skills, more in the next section.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="career wheel" src="/images/career_wheel.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20260120_Career_Wheel_v2.png">
 </div>
 <p>Different people may give different emphasis to the same factor. For instance,
 one person may consider educational background to be very important; whereas,
@@ -25,3 +25,4 @@ another person might focus more intently on work experience.</p>
 <p>You will also find the MySkillsFuture students' portal very helpful. Access
 the respective <a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">secondary</a> and
 <a href="https://www.myskillsfuture.gov.sg/content/student/en/preu.html" rel="noopener noreferrer nofollow" target="_blank">pre-university</a>pages here.</p>
+<p></p>
