@@ -26,7 +26,7 @@ on <strong>31 Mar 2026</strong>
 <p></p>
 </li>
 </ul>
-<p><strong>Open House/Talks: <em><a href="https://www.suss.edu.sg/news-and-events/open-house" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>TBC</u></a></em></strong>
+<p><strong>Open House/Talks: <em><a href="https://www.suss.edu.sg/news-events/happenings/open-house/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>28 Feb 2026</u></a></em></strong>
 </p>
 <ul>
 <li>
