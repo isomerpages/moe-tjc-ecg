@@ -10,7 +10,7 @@ description: ""
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>Chat with <strong><a href="https://openai.com/chatgpt" rel="noopener noreferrer nofollow" target="_blank">"ChatGPT"</a> </strong>for <strong>more inspirations for experiential self-discovery, learning &amp; growth!</strong>
+<p>Chat with <strong><a href="https://openai.com/chatgpt" rel="noopener noreferrer nofollow" target="_blank">"ChatGPT"</a> </strong>for <strong>more inspirations for <u>experiential self-discovery, learning &amp; growth!</u></strong>
 </p>
 </li>
 </ul>
