@@ -6,9 +6,9 @@ description: ""
 third_nav_title: Local Universities
 ---
 <a class="isomer-image-wrapper" href="https://www.ntu.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_01_28_155954.png"></a>
-<p><strong>Application period</strong>:&nbsp; <strong>Day of Result Release to 19 Mar 2025</strong>
+<p><strong>Application period</strong>:&nbsp; <strong>Day of Result Release to 19 Mar 2026</strong>
 </p>
-<p><strong>Open House/Talks:<em> <a href="https://www.ntu.edu.sg/openhouse" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>10 to 22 Feb 2025 </u></a></em><a href="https://www.ntu.edu.sg/openhouse" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>(</u></a><em><a href="https://www.ntu.edu.sg/openhouse" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Virtual Sessions</u></a></em><a href="https://www.ntu.edu.sg/openhouse" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>)</u></a><em><a href="https://www.ntu.edu.sg/openhouse" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u> and 1 Mar 2025 </u></a></em><a href="https://www.ntu.edu.sg/openhouse" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>(</u></a><em><a href="https://www.ntu.edu.sg/openhouse" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>in-person</u></a></em><a href="https://www.ntu.edu.sg/openhouse" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>)</u></a><em>&nbsp;</em></strong>
+<p><strong>Open House/Talks:<em> <a href="https://www.ntu.edu.sg/OpenHouse" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>9 to 23 Feb 2026 </u></a></em><a href="https://www.ntu.edu.sg/OpenHouse" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>(</u></a><em><a href="https://www.ntu.edu.sg/OpenHouse" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>virtual</u></a></em><a href="https://www.ntu.edu.sg/OpenHouse" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>)</u></a><em><a href="https://www.ntu.edu.sg/OpenHouse" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u> / 28 Feb 2026 </u></a></em><a href="https://www.ntu.edu.sg/OpenHouse" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>(</u></a><em><a href="https://www.ntu.edu.sg/OpenHouse" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>in-person</u></a></em><a href="https://www.ntu.edu.sg/OpenHouse" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>)</u></a><em>&nbsp;</em></strong>
 </p>
 <ul>
 <li>
@@ -46,13 +46,8 @@ subject pre-requisites)</p>
 </p>
 </li>
 <li>
-<p><a href="https://www3.ntu.edu.sg/careertracks/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>NTU Career Tracks</u></a> |
-<a href="https://youtube.com/playlist?list=PLDTMSZHelsY6cwLbOzxqbE2uuO1FtT7FQ" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>NTU College of Science E-Career Talk 2022&nbsp;</u>
-</a>
+<p><a href="https://www.ntu.edu.sg/admissions/undergraduate/indicative-grade-profile" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Indicative Grade Profile</u></a>
 </p>
-</li>
-<li>
-<p><a href="https://www.ntu.edu.sg/admissions/undergraduate/indicative-grade-profile" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Indicative Grade Profile</u></a> AY2024/2025</p>
 </li>
 <li>
 <p><a href="https://www.ntu.edu.sg/admissions/undergraduate-programmes?listingKeyword=&amp;disciplines=all&amp;programmelevels=all&amp;programmetypes=all&amp;page=1" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>NTU Programme Finder</u></a>

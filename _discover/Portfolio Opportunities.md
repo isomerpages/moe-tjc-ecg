@@ -10,13 +10,12 @@ description: ""
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>Chat with <strong><a href="https://openai.com/chatgpt" rel="noopener noreferrer nofollow" target="_blank">"ChatGPT"</a> or </strong>
-<a href="https://careerkaki.pic.gov.sg/?utm_source=share_button_desktop&amp;utm_medium=email" rel="noopener nofollow" target="_blank">"</a><strong><a href="https://careerkaki.pic.gov.sg/?utm_source=share_button_desktop&amp;utm_medium=email" rel="noopener nofollow" target="_blank">Career Kaki"</a> </strong>for
-more inspirations!</p>
+<p>Chat with <strong><a href="https://openai.com/chatgpt" rel="noopener noreferrer nofollow" target="_blank">"ChatGPT"</a> </strong>for <strong>more inspirations for <em><u>experiential self-discovery, learning &amp; growth!</u></em></strong>
+</p>
 </li>
 </ul>
 <p></p>
-<p><strong><em><u>Internships/Part-time Jobs<sup>24</sup></u></em></strong>
+<p><strong><em><u>Internships/Part-time Jobs<sup>25</sup></u></em></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
