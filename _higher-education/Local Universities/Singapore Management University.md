@@ -21,6 +21,10 @@ third_nav_title: Local Universities
 </p>
 </li>
 <li>
+<p><a href="https://admissions.smu.edu.sg/admissions-requirements/singapore-cambridge-gce-levels" rel="noopener nofollow" target="_blank">Application Sample Form (under "Application Steps")</a>
+</p>
+</li>
+<li>
 <p><a href="https://admissions.smu.edu.sg/faqs" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>FAQ for Admissions</u></a>
 </p>
 </li>
