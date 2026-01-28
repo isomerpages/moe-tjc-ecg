@@ -39,6 +39,10 @@ on <strong>31 Mar 2026</strong>
 </p>
 </li>
 <li>
+<p><a href="https://www.suss.edu.sg/admissions/application-process/how-to-apply/full-time-undergraduate-application-guide#submitting-an-application" rel="noopener nofollow" target="_blank">Full-time Undergraduate Application Guide &amp; Form (under "Submitting an Application")</a>
+</p>
+</li>
+<li>
 <p>SUSS- <a href="https://www.suss.edu.sg/full-time-undergraduate/admissions/suss-scholarships-awards" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Scholarships &amp; Awards |</u></a> 
 <a href="https://www.suss.edu.sg/full-time-undergraduate/admissions/financial-aid" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Financial Aid</u>
 </a>
