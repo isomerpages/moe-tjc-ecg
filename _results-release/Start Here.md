@@ -4,13 +4,13 @@ permalink: /results-release/permalink/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Congratulations! Class of 2024</strong></h4>
+<h4><strong>Congratulations! Class of 2025</strong></h4>
 <p>The GCE A-Level is not the destination. It is part of the process of learning
 and growing. Before you embark upon your next higher education journey,
 think about <strong><em>What you want to do? Who you want to be? Where do you want to go? and How do you get there?&nbsp;</em></strong>
 </p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="379" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTBTKyY_g2SX-PPJObhasC7XmzMiDCN8PgvsYc0-fkL7Zk7e517W6eIQXzLCxeHrQ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="379" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRj3-rtrj8dekqatzX9KAqEIB8SLomAAxAwUJwD8hczy7xPJ3ZJYBKm6aM_aWh-Pg/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p><strong>Student Info Deck</strong>: Contains FAQs, Tips for selecting
 universities/courses</p>
@@ -27,6 +27,8 @@ universities/courses</p>
 <p><strong>Parents Resource (online): <a href="https://go.gov.sg/tips-for-parents" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/tips-for-parents</a></strong>
 </p>
 <p><strong>Instagram: <a href="https://go.gov.sg/ecg-instagram" rel="noopener nofollow" target="_blank">@explore.ecg</a></strong>
+</p>
+<p><strong>LinkedIn: <a href="https://go.gov.sg/moe-ecgb-linkedin" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecgb-linkedin</a></strong>
 </p>
 <hr>
 <p>These are some sites which you can access to help you find greater clarity:</p>

@@ -16,9 +16,15 @@ third_nav_title: Local Universities
 </p>
 </li>
 <li>
-<p><a href="https://faq.nus.edu.sg/s/" rel="noopener noreferrer nofollow" target="_blank">Admission Requirements/ </a>
-<a href="https://faq.nus.edu.sg/s/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>FAQ</u>
-</a>
+<p><a href="https://www.nus.edu.sg/oam/admissions/admissions" rel="noopener nofollow" target="_blank">Admissions</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.nus.edu.sg/oam/admissions/application-guides-sample-forms" rel="noopener nofollow" target="_blank">Application Guide &amp; Sample Form</a>
+</p>
+</li>
+<li>
+<p><a href="https://faq.nus.edu.sg/s/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>FAQ (general)</u></a>
 </p>
 </li>
 <li>
@@ -78,7 +84,7 @@ third_nav_title: Local Universities
 </p>
 </li>
 <li>
-<p>🎓 <a href="https://www.moe.gov.sg/-/media/files/post-secondary/ges-2024/web-publication-nus-ges-2024.pdf" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Graduate Employment Survey 2024</u></a>
+<p>🎓 <a href="https://www.moe.gov.sg/api/media/4e72b2aa-2ee1-4a79-9c91-622b8bb6e867/Web-Publication-NUS-GES-2024.pdf" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Graduate Employment Survey 2024</u></a>
 </p>
 </li>
 <li>
