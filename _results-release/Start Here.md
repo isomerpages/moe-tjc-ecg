@@ -12,6 +12,9 @@ think about <strong><em>What you want to do? Who you want to be? Where do you wa
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="379" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTBTKyY_g2SX-PPJObhasC7XmzMiDCN8PgvsYc0-fkL7Zk7e517W6eIQXzLCxeHrQ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="379" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRj3-rtrj8dekqatzX9KAqEIB8SLomAAxAwUJwD8hczy7xPJ3ZJYBKm6aM_aWh-Pg/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p><strong>Student Info Deck</strong>: Contains FAQs, Tips for selecting
 universities/courses</p>
 <p></p>
