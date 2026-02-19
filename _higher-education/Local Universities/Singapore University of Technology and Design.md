@@ -8,7 +8,7 @@ third_nav_title: Local Universities
 <a class="isomer-image-wrapper" href="https://www.sutd.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/sutd_singapore_university_of_technology_and_design5828.jpg"></a>
 <p><strong>Application period</strong>:&nbsp; <strong>&nbsp;Result Release Date -&nbsp;19 Mar 2026</strong>
 </p>
-<p><strong>Open House/Talks: </strong><a href="https://openhouse.sutd.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">6 - 8 Feb 2026</a>
+<p><strong>Open House/Talks: </strong><a href="https://openhouse.sutd.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">6 - 8 Feb 2026 / 27 Feb - 1 Mar 2026</a>
 </p>
 <ul>
 <li>
