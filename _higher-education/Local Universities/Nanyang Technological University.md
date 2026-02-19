@@ -58,7 +58,7 @@ subject pre-requisites)</p>
 </p>
 </li>
 </ul>
-<p>🎓<a href="https://www.moe.gov.sg/-/media/files/post-secondary/ges-2024/web-publication-ntu-ges-2024.ashx" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u> Graduate Employment Survey 2024</u></a>
+<p>🎓<a href="https://www.moe.gov.sg/api/media/fb9de2bc-833b-4a1e-8a26-855a12712083/Web-Publication-NTU-GES-2024.pdf" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u> Graduate Employment Survey 2024</u></a>
 </p>
 <p>📞 <a href="https://www.ntu.edu.sg/about-us/contact-us" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Contact Admissions</u></a>
 </p>
