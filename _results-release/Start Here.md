@@ -28,6 +28,8 @@ universities/courses</p>
 </p>
 <p><strong>Instagram: <a href="https://go.gov.sg/ecg-instagram" rel="noopener nofollow" target="_blank">@explore.ecg</a></strong>
 </p>
+<p><strong>LinkedIn: <a href="https://go.gov.sg/moe-ecgb-linkedin" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecgb-linkedin</a></strong>
+</p>
 <hr>
 <p>These are some sites which you can access to help you find greater clarity:</p>
 <ul>
