@@ -16,6 +16,10 @@ third_nav_title: Local Universities
 </p>
 </li>
 <li>
+<p><a href="https://www.nus.edu.sg/oam/admissions/admissions" rel="noopener nofollow" target="_blank">Admissions</a>
+</p>
+</li>
+<li>
 <p><a href="https://www.nus.edu.sg/oam/admissions/application-guides-sample-forms" rel="noopener nofollow" target="_blank">Application Guide &amp; Sample Form</a>
 </p>
 </li>
