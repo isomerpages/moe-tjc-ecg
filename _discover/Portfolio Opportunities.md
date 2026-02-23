@@ -75,7 +75,7 @@ description: ""
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.mti.gov.sg/Careers/Join-The-Economist-Service/Economist-Service-Research-Assistant-Programme" rel="noopener nofollow" target="_blank">Ministry of Trade &amp; Industry (MTI) Internship</a></strong>
+<p><strong><a href="https://www.mti.gov.sg/who-we-are/careers-at-mti/economist-service/join-the-economist-service/" rel="noopener nofollow" target="_blank">Ministry of Trade &amp; Industry (MTI) Internship - Economist Service Research Assistant Programme</a></strong>
 </p>
 </li>
 <li>
