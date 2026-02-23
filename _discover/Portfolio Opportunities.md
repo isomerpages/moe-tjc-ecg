@@ -304,7 +304,7 @@ description: ""
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.mindef.gov.sg/dis/sentinel" rel="noopener nofollow" target="_blank">DIS - The Sentinel Programme</a></strong>
+<p><strong><a href="https://www.dis.gov.sg/sentinel-programme/about/" rel="noopener nofollow" target="_blank">DIS - The Sentinel Programme</a></strong>
 </p>
 </li>
 <li>
