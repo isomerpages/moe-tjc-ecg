@@ -11,7 +11,7 @@ your easy reference.</p>
 <h4><strong>NUS</strong></h4>
 <ul>
 <li>
-<p><strong><a href="https://www.nus.edu.sg/oam/apply-to-nus/singapore-cambridge-gce-a-level/admissions-requirements" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Admission Requirements</u></a></strong>
+<p><strong><a href="https://www.nus.edu.sg/oam/admissions/admissions" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Admission</u></a></strong>
 </p>
 </li>
 <li>
