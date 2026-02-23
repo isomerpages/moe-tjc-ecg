@@ -53,7 +53,7 @@ on <strong>31 Mar 2026</strong>
 </p>
 </li>
 <li>
-<p>🎓 <a href="https://www.sutd.edu.sg/media-releases-listing/strong-demand-for-sutd-fresh-graduates-despite-uncertainties-in-the-global-economy-one-third-get-two-or-more-offers" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Graduate Employment Survey 2024</u></a>
+<p>🎓 <a href="https://www.moe.gov.sg/api/media/c5bb12e3-26bf-48fe-b95b-67132954b1e8/Web%20Publication%20SUSS%20GES%202024.pdf" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Graduate Employment Survey 2024</u></a>
 </p>
 </li>
 <li>
