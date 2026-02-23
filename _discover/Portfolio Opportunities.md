@@ -210,7 +210,7 @@ description: ""
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.mha.gov.sg/volunteers" rel="noopener noreferrer nofollow" target="_blank">Volunteer with SPF / SCDF / CNB</a></strong>
+<p><strong><a href="https://www.mha.gov.sg/getinvolved/i-want-to-volunteer/home-team-volunteer-schemes/" rel="noopener noreferrer nofollow" target="_blank">Volunteer with SPF / SCDF / CNB</a></strong>
 </p>
 </li>
 <li>
