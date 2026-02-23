@@ -33,10 +33,6 @@ third_nav_title: Local Universities
 <p><a href="https://www.sutd.edu.sg/admissions/undergraduate/financing-options-and-aid/#tabs" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Financial Assistance</u></a>
 </p>
 </li>
-<li>
-<p>SUTD <a href="https://issuu.com/gtimediaasia/docs/issuu_sutd2021" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Career Guide 2021</u></a>
-</p>
-</li>
 </ul>
 <p>🎓 <a href="https://www.sutd.edu.sg/media-releases-listing/strong-demand-for-sutd-fresh-graduates-despite-uncertainties-in-the-global-economy-one-third-get-two-or-more-offers" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Graduate Employment Survey 2024</u></a>
 </p>

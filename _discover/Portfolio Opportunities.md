@@ -75,7 +75,7 @@ description: ""
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.mti.gov.sg/Careers/Join-The-Economist-Service/Economist-Service-Research-Assistant-Programme" rel="noopener nofollow" target="_blank">Ministry of Trade &amp; Industry (MTI) Internship</a></strong>
+<p><strong><a href="https://www.mti.gov.sg/who-we-are/careers-at-mti/economist-service/join-the-economist-service/" rel="noopener nofollow" target="_blank">Ministry of Trade &amp; Industry (MTI) Internship - Economist Service Research Assistant Programme</a></strong>
 </p>
 </li>
 <li>
@@ -95,7 +95,7 @@ description: ""
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.a-star.edu.sg/Scholarships/Junior-College-and-Polytechnic-and-Secondary-School-Students/Overview" rel="noopener nofollow" target="_blank">A*STAR Awards/Attachments (Research/Engineering)</a></strong>
+<p><strong><a href="https://www.a-star.edu.sg/scholarships/home/student-awards" rel="noopener nofollow" target="_blank">A*STAR Awards/Attachments (Research/Engineering)</a></strong>
 </p>
 </li>
 <li>
@@ -120,15 +120,11 @@ description: ""
 </li>
 </ol>
 <p></p>
-<p><strong><em><u>Job Shadowing<sup>6</sup></u></em></strong>
+<p><strong><em><u>Job Shadowing<sup>5</sup></u></em></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong><a href="https://www.nhghealth.com.sg/for-healthcare-professionals/clinical-education/trainees/pre-uni-student-attachments" rel="noopener nofollow" target="_blank">NHG Pre-University Student Attachment</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://www.nhgeducation.nhg.com.sg/our-learners/pre-uni-student-attachments" rel="noopener nofollow" target="_blank">National Healthcare Group</a></strong>
 </p>
 </li>
 <li>
@@ -214,7 +210,7 @@ description: ""
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.mha.gov.sg/volunteers" rel="noopener noreferrer nofollow" target="_blank">Volunteer with SPF / SCDF / CNB</a></strong>
+<p><strong><a href="https://www.mha.gov.sg/getinvolved/i-want-to-volunteer/home-team-volunteer-schemes/" rel="noopener noreferrer nofollow" target="_blank">Volunteer with SPF / SCDF / CNB</a></strong>
 </p>
 </li>
 <li>
@@ -292,7 +288,7 @@ description: ""
 </li>
 </ol>
 <p></p>
-<p><strong><em><u>Special Programmes<sup>16</sup></u></em></strong>
+<p><strong><em><u>Special Programmes<sup>15</sup></u></em></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -308,11 +304,7 @@ description: ""
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.mindef.gov.sg/dis/sentinel" rel="noopener nofollow" target="_blank">DIS - The Sentinel Programme</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://www.ura.gov.sg/Corporate/Singapore-City-Gallery/Programmes" rel="noopener noreferrer nofollow" target="_blank">URA - Challenge for the Urban &amp; Built Environment (CUBE) / Young Planners' Forum (Annual)</a></strong>
+<p><strong><a href="https://www.dis.gov.sg/sentinel-programme/about/" rel="noopener nofollow" target="_blank">DIS - The Sentinel Programme</a></strong>
 </p>
 </li>
 <li>
@@ -361,7 +353,7 @@ description: ""
 <p></p>
 </li>
 </ol>
-<p><strong><em><u>Competitions<sup>20</sup></u></em></strong>
+<p><strong><em><u>Competitions<sup>19</sup></u></em></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -394,10 +386,6 @@ description: ""
 </li>
 <li>
 <p><strong><a href="https://sgphysicsleague.org/" rel="noopener noreferrer nofollow" target="_blank">Singapore Physics League (SPhL)</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://iyptsypt.moe.edu.sg/" rel="noopener nofollow" target="_blank">Singapore Young Physicists' Tournament</a></strong>
 </p>
 </li>
 <li>
