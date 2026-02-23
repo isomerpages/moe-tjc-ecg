@@ -95,7 +95,7 @@ description: ""
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.a-star.edu.sg/Scholarships/Junior-College-and-Polytechnic-and-Secondary-School-Students/Overview" rel="noopener nofollow" target="_blank">A*STAR Awards/Attachments (Research/Engineering)</a></strong>
+<p><strong><a href="https://www.a-star.edu.sg/scholarships/home/student-awards" rel="noopener nofollow" target="_blank">A*STAR Awards/Attachments (Research/Engineering)</a></strong>
 </p>
 </li>
 <li>
