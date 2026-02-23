@@ -40,10 +40,7 @@ universities/courses</p>
 <li>
 <p><strong><a href="https://youthopia.sg/resources/gradgowhere/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Youthopia Career Guidance: </u></a><em><a href="https://youthopia.sg/resources/gradgowhere/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>GradGoWhere</u></a></em></strong>
 </p>
-</li>
-<li>
-<p>National Youth Council: <strong><a href="https://www.nyc.gov.sg/omw/dayinthelife" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>A Day in the life of ... (Career videos)</u></a> </strong>| <strong><a href="https://www.nyc.gov.sg/omw/knowitall" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Concise Industry Information</u></a></strong>
-</p>
+<p></p>
 </li>
 </ul>
 <hr>
