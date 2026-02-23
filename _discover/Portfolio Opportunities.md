@@ -353,7 +353,7 @@ description: ""
 <p></p>
 </li>
 </ol>
-<p><strong><em><u>Competitions<sup>19</sup></u></em></strong>
+<p><strong><em><u>Competitions<sup>18</sup></u></em></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -390,10 +390,6 @@ description: ""
 </li>
 <li>
 <p><strong><a href="https://global.olympiadsuccess.com/singapore-junior-chemistry-olympiad-sjcho" rel="noopener noreferrer nofollow" target="_blank">Singapore Junior Chemistry Olympiad</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://www.sgchemleague.org/" rel="noopener noreferrer nofollow" target="_blank">Singapore Chemistry League (SChL)</a></strong>
 </p>
 </li>
 <li>
