@@ -288,7 +288,7 @@ description: ""
 </li>
 </ol>
 <p></p>
-<p><strong><em><u>Special Programmes<sup>16</sup></u></em></strong>
+<p><strong><em><u>Special Programmes<sup>15</sup></u></em></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -353,7 +353,7 @@ description: ""
 <p></p>
 </li>
 </ol>
-<p><strong><em><u>Competitions<sup>20</sup></u></em></strong>
+<p><strong><em><u>Competitions<sup>19</sup></u></em></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -386,10 +386,6 @@ description: ""
 </li>
 <li>
 <p><strong><a href="https://sgphysicsleague.org/" rel="noopener noreferrer nofollow" target="_blank">Singapore Physics League (SPhL)</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://iyptsypt.moe.edu.sg/" rel="noopener nofollow" target="_blank">Singapore Young Physicists' Tournament</a></strong>
 </p>
 </li>
 <li>
