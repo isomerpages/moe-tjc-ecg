@@ -9,7 +9,7 @@ actively planning ahead and thinking about your post-JC aspirations!</p>
 <p>Watch this video to understand some of the benefits applying for a scholarship
 may bring!</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3_V-gmVK2qg?si=EVOKuFWlHZq5LRle"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3_V-gmVK2qg?si=EVOKuFWlHZq5LRle"></iframe>
 </div>
 <p></p>
 <p>A scholarship might be one way for you to support your post-JC aspirations,
@@ -41,12 +41,8 @@ start exploring the many available scholarships you can apply for!</p>
 access e-magazines and an in-house application guide for the BrightSparks
 Portal!</p>
 <p></p>
-<p><strong><u>Some UK Scholarships for Singapore students</u></strong>:</p>
+<p><strong><u>Some UK Scholarships for Singapore students<sup>6</sup></u></strong>:</p>
 <ul data-tight="true" class="tight">
-<li>
-<p><strong><a href="https://www.fitz.cam.ac.uk/ug-finances-and-support" rel="noopener nofollow" target="_blank">ST Telemedia – Lee Kuan Yew Undergraduate Scholarship (Cambridge)</a></strong>
-</p>
-</li>
 <li>
 <p><strong><a href="https://www.some.ox.ac.uk/funding-and-opportunities/undergraduate-scholarships/lee-kuan-yew-thatcher-scholarship/" rel="noopener nofollow" target="_blank">Lee Kuan Yew – Thatcher Scholarship (Oxford)</a></strong>
 </p>
