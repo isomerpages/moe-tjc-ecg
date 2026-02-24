@@ -4,9 +4,9 @@ permalink: /students/graduate/
 variant: tiptap
 description: ""
 ---
-<p>Congratulations on graduating, Class of 2025!! Click here to access the
-<a href="/results-release/permalink/" rel="noopener noreferrer nofollow" target="_blank">Release of Results</a>page to find out more how you can plan your next
-steps.</p>
+<p><strong>Congratulations on graduating, Class of 2025!!</strong> Click here
+to access the <a href="/results-release/permalink/" rel="noopener noreferrer nofollow" target="_blank">Release of Results</a>page
+to find out more how you can plan your next steps.</p>
 <p>If you have yet to give much thought to <a href="/higher-education/overview/" rel="noopener noreferrer nofollow" target="_blank">Higher Education</a> and career planning,
 begin with <a href="\discover\purpose" rel="noopener noreferrer nofollow" target="_blank">Discover</a> to
 profile your own values, interests, personality and skills.</p>
