@@ -29,8 +29,8 @@ pre-university and undergraduate level:</p>
 <li>
 <p>Bond-free e.g. Jardine Foundation</p>
 <p></p>
-<p>Click here for a list of <a href="https://go.gov.sg/preuscholarships" rel="noopener noreferrer nofollow" target="_blank">Pre-U Scholarships</a> that TJC
-offers, as well as a list of <a href="https://go.gov.sg/tjcscholarshipsproviders2025" rel="noopener noreferrer nofollow" target="_blank">scholarship providers for Undergraduate scholarships</a>.</p>
+<p>Click here for a list of <a href="https://go.gov.sg/preuscholarships2026" rel="noopener noreferrer nofollow" target="_blank">Pre-U Scholarships</a> that
+TJC offers, as well as a list of <a href="https://go.gov.sg/undergradscholarships2026" rel="noopener noreferrer nofollow" target="_blank">scholarship providers for Undergraduate scholarships</a>.</p>
 </li>
 </ul>
 <p></p>
