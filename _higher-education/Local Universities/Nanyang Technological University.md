@@ -12,6 +12,10 @@ third_nav_title: Local Universities
 </p>
 <ul>
 <li>
+<p><a href="https://drive.google.com/file/d/1I8w_Da7NK43IppQUHloT-ypmxS2-CPay/view?usp=drive_link" rel="noopener nofollow" target="_blank">Overview</a>
+</p>
+</li>
+<li>
 <p><a href="https://www.ntu.edu.sg/admissions/undergraduate/brochures" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Prospectus</u></a>&nbsp;</p>
 </li>
 <li>
