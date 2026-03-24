@@ -34,7 +34,7 @@ third_nav_title: Local Universities
 </p>
 </li>
 </ul>
-<p>🎓 <a href="https://www.sutd.edu.sg/media-releases-listing/strong-demand-for-sutd-fresh-graduates-despite-uncertainties-in-the-global-economy-one-third-get-two-or-more-offers" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Graduate Employment Survey 2024</u></a>
+<p>🎓 <a href="https://www.sutd.edu.sg/media-releases-listing/sutd-graduates-remain-employable-amidst-cautious-hiring-landscape/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Graduate Employment Survey 2025</u></a>
 </p>
 <p>📞 <a href="https://www.sutd.edu.sg/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Contact Admissions</u></a>
 </p>
