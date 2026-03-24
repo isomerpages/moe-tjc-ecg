@@ -51,7 +51,7 @@ third_nav_title: Local Universities
 </p>
 </li>
 <li>
-<p>🎓 <a href="https://news.smu.edu.sg/sites/news.smu.edu.sg/files/smu/news_room/ANNEX%20A_Web%20Publication%20SMU%20GES%202024%20%28final%29.pdf" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Graduate Employment Survey 2024</u></a>
+<p>🎓 <a href="https://news.smu.edu.sg/news/2026/03/05/singapore-management-university-graduates-remain-resilient-cautious-job-market-914" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Graduate Employment Survey 2025</u></a>
 </p>
 </li>
 <li>
