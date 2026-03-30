@@ -433,7 +433,7 @@ description: ""
 </p>
 </li>
 <li>
-<p><strong><a href="https://youngsdgleaders.com/about/" rel="noopener nofollow" target="_blank">CDL-GCNS Young SDG Leaders Award</a></strong>
+<p><strong><a href="https://youngsdgleaders.com" rel="noopener nofollow" target="_blank">CDL-GCNS Young SDG Leaders Award</a></strong>
 </p>
 </li>
 <li>
