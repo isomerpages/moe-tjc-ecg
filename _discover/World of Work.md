@@ -30,6 +30,10 @@ what some of these occupations you are interested in entail.</p>
 </p>
 </li>
 <li>
+<p><strong><a href="https://corporatefinanceinstitute.com/resources/career/esg-careers/" rel="noopener nofollow" target="_blank">Environment, Social &amp; Governance (ESG) Career Path in Finance</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://www.youtube.com/watch?v=UKCr4fQIdfw" rel="noopener nofollow" target="_blank">Advanced Practice Nurse</a></strong>
 </p>
 </li>
