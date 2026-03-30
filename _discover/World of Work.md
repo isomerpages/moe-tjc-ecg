@@ -22,7 +22,7 @@ what some of these occupations you are interested in entail.</p>
 </p>
 </li>
 </ul>
-<p><strong><em><u>Interesting Careers<sup>9</sup></u></em></strong>
+<p><strong><em><u>Interesting Careers<sup>3</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -36,9 +36,6 @@ what some of these occupations you are interested in entail.</p>
 <li>
 <p><strong><a href="https://www.youtube.com/watch?v=UKCr4fQIdfw" rel="noopener nofollow" target="_blank">Advanced Practice Nurse</a></strong>
 </p>
-</li>
-<li>
-<p></p>
 </li>
 </ul>
 <p><strong><em><u>Misc<sup>9</sup></u></em></strong>
