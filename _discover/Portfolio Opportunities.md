@@ -437,7 +437,7 @@ description: ""
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.imda.gov.sg/activities/activities-catalogue/national-youth-tech-championship" rel="noopener nofollow" target="_blank">National Youth Tech Championship </a></strong>
+<p><strong><a href="https://www.imda.gov.sg/activities/activities-catalogue/national-youth-tech-championship" rel="noopener nofollow" target="_blank">National Youth Tech Championship</a></strong>
 </p>
 </li>
 </ol>
