@@ -428,6 +428,10 @@ description: ""
 <p><strong><a href="https://www.ipsyo.org/about.html" rel="noopener nofollow" target="_blank">International Psychology Olympiad</a></strong>
 </p>
 </li>
+<li>
+<p><strong><a href="https://youngsdgleaders.com/about/" rel="noopener nofollow" target="_blank">CDL-GCNS Young SDG Leaders Award</a></strong>
+</p>
+</li>
 </ol>
 <p><strong><em><u>Oxbridge<sup>3</sup></u></em></strong>
 </p>
