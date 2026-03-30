@@ -353,7 +353,7 @@ description: ""
 <p></p>
 </li>
 </ol>
-<p><strong><em><u>Competitions<sup>20</sup></u></em></strong>
+<p><strong><em><u>Competitions<sup>21</sup></u></em></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -434,6 +434,10 @@ description: ""
 </li>
 <li>
 <p><strong><a href="https://youngsdgleaders.com/about/" rel="noopener nofollow" target="_blank">CDL-GCNS Young SDG Leaders Award</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.imda.gov.sg/activities/activities-catalogue/national-youth-tech-championship" rel="noopener nofollow" target="_blank">National Youth Tech Championship </a></strong>
 </p>
 </li>
 </ol>
