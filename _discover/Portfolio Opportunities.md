@@ -353,7 +353,7 @@ description: ""
 <p></p>
 </li>
 </ol>
-<p><strong><em><u>Competitions<sup>18</sup></u></em></strong>
+<p><strong><em><u>Competitions<sup>21</sup></u></em></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -421,11 +421,23 @@ description: ""
 </p>
 </li>
 <li>
-<p><strong><a href="https://lkyspp.nus.edu.sg/news-events/events/details/singapore-futures-youth-competition-2025" rel="noopener nofollow" target="_blank">LKY SPP - Singapore Futures Youth Competition</a></strong>
+<p><strong><a href="https://lkyspp.nus.edu.sg/news-events/events/details/singapore-futures-youth-competition-2026" rel="noopener nofollow" target="_blank">LKY SPP - Singapore Futures Youth Competition</a></strong>
 </p>
 </li>
 <li>
 <p><strong><a href="https://www.ipsyo.org/about.html" rel="noopener nofollow" target="_blank">International Psychology Olympiad</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://singapore.tie.org/tie-young-entrepreneurs-tye/" rel="noopener nofollow" target="_blank">TiE Young Entrepreneurs</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://youngsdgleaders.com" rel="noopener nofollow" target="_blank">CDL-GCNS Young SDG Leaders Award</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.imda.gov.sg/activities/activities-catalogue/national-youth-tech-championship" rel="noopener nofollow" target="_blank">National Youth Tech Championship</a></strong>
 </p>
 </li>
 </ol>

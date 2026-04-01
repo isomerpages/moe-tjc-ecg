@@ -22,6 +22,22 @@ what some of these occupations you are interested in entail.</p>
 </p>
 </li>
 </ul>
+<p><strong><em><u>Interesting Careers<sup>3</sup></u></em></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://cnalifestyle.channelnewsasia.com/women/belinda-tan-isca-financial-forensics-accountant-grant-thornton-348051" rel="noopener nofollow" target="_blank">Forensic Accountant</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://corporatefinanceinstitute.com/resources/career/esg-careers/" rel="noopener nofollow" target="_blank">Environment, Social &amp; Governance (ESG) Career Path in Finance</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.youtube.com/watch?v=UKCr4fQIdfw" rel="noopener nofollow" target="_blank">Advanced Practice Nurse</a></strong>
+</p>
+</li>
+</ul>
 <p><strong><em><u>Misc<sup>9</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -60,6 +76,12 @@ what some of these occupations you are interested in entail.</p>
 <li>
 <p><strong><a href="https://www.weforum.org/agenda/2023/08/ai-artificial-intelligence-changing-the-future-of-work-jobs/" rel="noopener noreferrer nofollow" target="_blank">AI: 3 ways artificial intelligence will change the future of work | World Economic Forum (weforum.org)</a></strong>
 </p>
+</li>
+<li>
+<p></p>
+</li>
+<li>
+<p></p>
 <p></p>
 </li>
 </ul>
