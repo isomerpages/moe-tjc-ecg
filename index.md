@@ -56,6 +56,11 @@ sections:
             top tech firm
           linktext: Watch
           url: https://www.youtube.com/watch?v=4sFlNd1iGPw
+        - title: "S2: Ep1 - Charting Maritime Industry Path"
+          description: Fazlur & Clara share how they discover purpose & navigate their
+            career journey
+          linktext: Watch
+          url: https://www.youtube.com/watch?v=--VkY4u7IPU
   - infopic:
       title: ECG Buzz
       subtitle: 2024 Issue 3
