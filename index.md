@@ -41,17 +41,17 @@ sections:
       id: textcards
       description: "Source: ECG Buzz 2025 Issues"
       cards:
-        - title: Ep 1 - Regional Director
+        - title: "S1: Ep 1 - Regional Director"
           description: Mr Rex Eng, a Regional Director in Human Resources shares industry
             insights
           linktext: Watch
           url: https://www.youtube.com/watch?v=fZcTCBFsuGk
-        - title: Ep 2 - Accounts Manager
+        - title: "S1: Ep 2 - Accounts Manager"
           description: Mr Aylwin Low, Account Manager (STEM industry) shares challenges &
             perseverance
           linktext: Watch
           url: https://www.youtube.com/watch?v=SX7Em_daei4
-        - title: Ep 3 - Software Engineer
+        - title: "S1: Ep 3 - Software Engineer"
           description: Ms Kan Zijun, Google Software Engineer, shares tips & journey to
             top tech firm
           linktext: Watch
