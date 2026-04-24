@@ -39,7 +39,7 @@ sections:
   - textcards:
       title: Tick Talk
       id: textcards
-      description: "Source: ECG Buzz 2025 Issues"
+      description: "Source: ECG Buzz 2026/2025 Issues"
       cards:
         - title: "S1: Ep 1 - Regional Director"
           description: Mr Rex Eng, a Regional Director in Human Resources shares industry
