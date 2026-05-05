@@ -39,7 +39,6 @@ what some of these occupations you are interested in entail.</p>
 </li>
 <li>
 <p><strong><a href="https://www.youtube.com/watch?v=MG-VJ9Hzdt4" rel="noopener nofollow" target="_blank">Musical Actress: Singapore's Les Miserables star Nathania Ong</a></strong>
-<a href="https://www.youtube.com/watch?v=MG-VJ9Hzdt4" rel="noopener nofollow" target="_blank"></a>
 </p>
 </li>
 </ul>
