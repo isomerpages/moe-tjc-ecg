@@ -28,7 +28,7 @@ third_nav_title: Overseas Universities
 to submit your documents.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1JzBgN9_fc5QCdAd7i-qNXCCFEihiWdpS/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Guidelines to considering a degree in UK and key internal deadlines</a>
+<p><a href="https://drive.google.com/file/d/183FcctlyYzucqh2y-ldnoJ82Hq6m74K7/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Guidelines to considering a degree in UK and key internal deadlines</a>
 </p>
 </li>
 <li>
@@ -36,11 +36,11 @@ to submit your documents.</p>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1tt3bZCTwecMOE0SbmBCRB9ilsD4s9nBh/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">TJC Guide to UK Applications (UCAS) for 2026 Entry</a>
+<p><a href="https://drive.google.com/file/d/1eJ9sKLCB2wQJ1muIHUGX3ayjNmEqFpTj/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">TJC Guide to UK Applications (UCAS) for 2027 Entry</a>
 </p>
 </li>
 <li>
-<p><a href="https://docs.google.com/presentation/d/1crOBZrACL-zqFM5FMtcNxwwUSmYEbKhf/edit?usp=sharing&amp;ouid=115803237660093668302&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">Walkthrough of UCAS Portal &amp; Application for 2026 Entry</a>
+<p><a href="https://drive.google.com/file/d/1l15ujwWjZ3L_IZyp_SiPsrmVbHUWKKSq/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Walkthrough of UCAS Portal &amp; Application for 2027 Entry</a>
 </p>
 </li>
 <li>
