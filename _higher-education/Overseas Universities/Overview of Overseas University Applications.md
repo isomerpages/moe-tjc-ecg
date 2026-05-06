@@ -5,13 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: Overseas Universities
 ---
-<p><strong>Overview of the 2025 Overseas University Application Process and Deadlines</strong>
+<p><strong>Overview of the 2026 Overseas University Application Process and Deadlines</strong>
 </p>
-<p><strong><a href="/files/TJC_Overseas_University_Education_Application_Overview_2025.pdf" rel="noopener nofollow" target="_blank">Click here for the overview</a></strong>
+<p><strong><a href="https://drive.google.com/file/d/1Gova9BCPqxV_XRNWtUvo6GjBZmHJ8iNe/view?usp=sharing" rel="noopener nofollow" target="_blank">Click here for the overview</a></strong>
 </p>
 <p><strong>Click below for the briefing slides:</strong>
 </p>
-<p><strong><a href="/files/2025_Overseas_Higher_Ed_Briefing_Slides_Overview.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Overseas Higher Education Briefing Slides Overview</a></strong>
+<p><strong><a href="https://drive.google.com/file/d/1a1Aq9KjrUg-LOhMPD240q0eekDOyQq6K/view?usp=drive_link" rel="noopener nofollow" target="_blank">2026 Overseas Higher Education Briefing Slides Overview</a></strong>
 </p>
 <p></p>
 <p><strong>***Join the <a href="https://t.me/+L7ol0u9QD5o3MWNl" rel="noopener noreferrer nofollow" target="_blank">TJC Overseas University Telegram Channel</a> for more updates***</strong>
