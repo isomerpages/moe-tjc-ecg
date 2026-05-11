@@ -37,6 +37,10 @@ to submit your documents.</p>
 </p>
 </li>
 <li>
+<p><a href="https://drive.google.com/file/d/1mtkWJ5Ekk7Hms0NtmpZkNzpQFtlElAch/view?usp=drive_link" rel="noopener nofollow" target="_blank">2026 TJC Student Guide to Common App</a>
+</p>
+</li>
+<li>
 <p><a href="/files/2026_TJC_Student_Guide_to_University_of_California_admissions_portal.pdf" rel="noopener nofollow" target="_blank">2026 TJC Student Guide to University of California admissions portal</a>
 </p>
 </li>
