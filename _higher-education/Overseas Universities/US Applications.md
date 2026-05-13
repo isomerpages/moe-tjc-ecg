@@ -29,6 +29,10 @@ to submit your documents.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/2026_Overseas_Higher_Ed_Briefing_Slides_US.pdf" rel="noopener nofollow" target="_blank">2026 US Application briefing slides</a>
+</p>
+</li>
+<li>
 <p><a href="/files/2026_TJC_US_Form__for_current_students__new.pdf" rel="noopener nofollow" target="_blank">2026 TJC US Form (for current students)</a>
 </p>
 </li>
