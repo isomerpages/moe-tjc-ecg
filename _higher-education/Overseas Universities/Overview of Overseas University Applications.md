@@ -13,6 +13,8 @@ third_nav_title: Overseas Universities
 </p>
 <p><strong><a href="https://drive.google.com/file/d/1a1Aq9KjrUg-LOhMPD240q0eekDOyQq6K/view?usp=drive_link" rel="noopener nofollow" target="_blank">2026 Overseas Higher Education Briefing Slides Overview</a></strong>
 </p>
+<p><a href="/files/2026_Overseas_Higher_Ed_Briefing_Slides_US.pdf" rel="noopener nofollow" target="_blank">2026 US Application briefing slides</a>
+</p>
 <p></p>
 <p><strong>***Join the <a href="https://t.me/+L7ol0u9QD5o3MWNl" rel="noopener noreferrer nofollow" target="_blank">TJC Overseas University Telegram Channel</a> for more updates***</strong>
 </p>
