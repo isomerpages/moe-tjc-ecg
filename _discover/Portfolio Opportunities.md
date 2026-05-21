@@ -486,4 +486,3 @@ description: ""
 <p>Above are just some examples of potential portfolio opportunities. Do
 google the internet for more inspirations and ideas.</p>
 <p></p>
-<p>3</p>
