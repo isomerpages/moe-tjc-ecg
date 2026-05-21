@@ -245,6 +245,10 @@ description: ""
 <p><strong><a href="https://www.esplanade.com/get-involved/volunteering" rel="noopener nofollow" target="_blank">Esplanade Volunteering (min age 16 yrs old)</a></strong>
 </p>
 </li>
+<li>
+<p><strong><a href="https://www.samhealth.org.sg/volunteer/" rel="noopener nofollow" target="_blank">Singapore Association for Mental Health (SAMH)</a></strong>
+</p>
+</li>
 </ol>
 <p></p>
 <p><strong><em><u>Free Online Courses<sup>9</sup></u></em></strong>
