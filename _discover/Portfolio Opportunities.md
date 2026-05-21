@@ -154,7 +154,7 @@ description: ""
 </li>
 </ol>
 <p></p>
-<p><strong><em><u>Volunteering Opportunities<sup>22</sup></u></em></strong>
+<p><strong><em><u>Volunteering Opportunities<sup>23</sup></u></em></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -243,6 +243,10 @@ description: ""
 </li>
 <li>
 <p><strong><a href="https://www.esplanade.com/get-involved/volunteering" rel="noopener nofollow" target="_blank">Esplanade Volunteering (min age 16 yrs old)</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.samhealth.org.sg/volunteer/" rel="noopener nofollow" target="_blank">Singapore Association for Mental Health (SAMH)</a></strong>
 </p>
 </li>
 </ol>
@@ -481,5 +485,4 @@ description: ""
 <p></p>
 <p>Above are just some examples of potential portfolio opportunities. Do
 google the internet for more inspirations and ideas.</p>
-<p></p>
 <p></p>
