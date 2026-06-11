@@ -41,6 +41,10 @@ what some of these occupations you are interested in entail.</p>
 <p><strong><a href="https://www.youtube.com/watch?v=MG-VJ9Hzdt4" rel="noopener nofollow" target="_blank">Musical Actress: Singapore's Les Miserables star Nathania Ong</a></strong>
 </p>
 </li>
+<li>
+<p><strong><a href="https://cnalifestyle.channelnewsasia.com/women/rollo-rollerball-eczema-itchy-skin-koh-bei-ning-kickstarter-378516" rel="noopener nofollow" target="_blank">Singaporean (NUS Industrial Design student) invented a rollerball device</a></strong>
+</p>
+</li>
 </ul>
 <p><strong><em><u>Misc<sup>8</sup></u></em></strong>
 </p>
