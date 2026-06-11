@@ -42,7 +42,7 @@ what some of these occupations you are interested in entail.</p>
 </p>
 </li>
 </ul>
-<p><strong><em><u>Misc<sup>9</sup></u></em></strong>
+<p><strong><em><u>Misc<sup>8</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -76,7 +76,6 @@ what some of these occupations you are interested in entail.</p>
 <li>
 <p><strong><a href="https://www.weforum.org/agenda/2023/08/ai-artificial-intelligence-changing-the-future-of-work-jobs/" rel="noopener noreferrer nofollow" target="_blank">AI: 3 ways artificial intelligence will change the future of work | World Economic Forum (weforum.org)</a></strong>
 </p>
-<p></p>
 <p></p>
 </li>
 </ul>
