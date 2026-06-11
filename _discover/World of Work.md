@@ -42,7 +42,7 @@ what some of these occupations you are interested in entail.</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://cnalifestyle.channelnewsasia.com/women/rollo-rollerball-eczema-itchy-skin-koh-bei-ning-kickstarter-378516" rel="noopener nofollow" target="_blank">Singaporean (NUS Industrial Design student) invented a rollerball device</a></strong>
+<p><strong><a href="https://cnalifestyle.channelnewsasia.com/women/rollo-rollerball-eczema-itchy-skin-koh-bei-ning-kickstarter-378516" rel="noopener nofollow" target="_blank">NUS Industrial Design student invented a rollerball device</a></strong>
 </p>
 </li>
 </ul>
