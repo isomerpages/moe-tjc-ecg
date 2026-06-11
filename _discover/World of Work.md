@@ -70,14 +70,6 @@ what some of these occupations you are interested in entail.</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.moe.gov.sg/-/media/files/post-secondary/ges-2023/joint-web-publication-4-aus-ges2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Graduate Employment Survey 2023 (NUS, NTU, SMU, SUSS)</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://www.moe.gov.sg/-/media/files/post-secondary/ges-2023/web-publication-sit-ges-2023.pdf" rel="noopener nofollow" target="_blank">Graduate Employment Survey 2023 (SIT)</a></strong>
-</p>
-</li>
-<li>
 <p><strong><a href="https://www.content.mycareersfuture.gov.sg/salary-guide-singapore-2023-maritime-industry" rel="noopener nofollow" target="_blank">Salary Guide Singapore: Maritime Industry</a></strong>
 </p>
 </li>
