@@ -22,7 +22,7 @@ what some of these occupations you are interested in entail.</p>
 </p>
 </li>
 </ul>
-<p><strong><em><u>Interesting Careers<sup>3</sup></u></em></strong>
+<p><strong><em><u>Interesting Careers<sup>5</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -41,8 +41,12 @@ what some of these occupations you are interested in entail.</p>
 <p><strong><a href="https://www.youtube.com/watch?v=MG-VJ9Hzdt4" rel="noopener nofollow" target="_blank">Musical Actress: Singapore's Les Miserables star Nathania Ong</a></strong>
 </p>
 </li>
+<li>
+<p><strong><a href="https://cnalifestyle.channelnewsasia.com/women/rollo-rollerball-eczema-itchy-skin-koh-bei-ning-kickstarter-378516" rel="noopener nofollow" target="_blank">NUS Industrial Design student invented a rollerball device</a></strong>
+</p>
+</li>
 </ul>
-<p><strong><em><u>Misc<sup>9</sup></u></em></strong>
+<p><strong><em><u>Misc<sup>8</sup></u></em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -70,22 +74,12 @@ what some of these occupations you are interested in entail.</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.moe.gov.sg/-/media/files/post-secondary/ges-2023/joint-web-publication-4-aus-ges2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Graduate Employment Survey 2023 (NUS, NTU, SMU, SUSS)</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://www.moe.gov.sg/-/media/files/post-secondary/ges-2023/web-publication-sit-ges-2023.pdf" rel="noopener nofollow" target="_blank">Graduate Employment Survey 2023 (SIT)</a></strong>
+<p><strong><a href="https://www.content.mycareersfuture.gov.sg/salary-guide-singapore-2023-maritime-industry" rel="noopener nofollow" target="_blank">Salary Guide Singapore: Maritime Industry</a></strong>
 </p>
 </li>
 <li>
 <p><strong><a href="https://www.weforum.org/agenda/2023/08/ai-artificial-intelligence-changing-the-future-of-work-jobs/" rel="noopener noreferrer nofollow" target="_blank">AI: 3 ways artificial intelligence will change the future of work | World Economic Forum (weforum.org)</a></strong>
 </p>
-</li>
-<li>
-<p></p>
-</li>
-<li>
-<p></p>
 <p></p>
 </li>
 </ul>
