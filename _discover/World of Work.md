@@ -78,13 +78,12 @@ what some of these occupations you are interested in entail.</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.weforum.org/agenda/2023/08/ai-artificial-intelligence-changing-the-future-of-work-jobs/" rel="noopener noreferrer nofollow" target="_blank">AI: 3 ways artificial intelligence will change the future of work | World Economic Forum (weforum.org)</a></strong>
+<p><strong><a href="https://www.content.mycareersfuture.gov.sg/salary-guide-singapore-2023-maritime-industry" rel="noopener nofollow" target="_blank">Salary Guide Singapore: Maritime Industry</a></strong>
 </p>
 </li>
 <li>
-<p></p>
-</li>
-<li>
+<p><strong><a href="https://www.weforum.org/agenda/2023/08/ai-artificial-intelligence-changing-the-future-of-work-jobs/" rel="noopener noreferrer nofollow" target="_blank">AI: 3 ways artificial intelligence will change the future of work | World Economic Forum (weforum.org)</a></strong>
+</p>
 <p></p>
 <p></p>
 </li>
